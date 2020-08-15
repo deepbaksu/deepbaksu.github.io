@@ -16,6 +16,7 @@
     "hexo": "^4.2.1",
     "hexo-component-inferno": "^0.4.0",
     "hexo-deployer-git": "^2.1.0",
+    "hexo-feed": "^1.0.2",
     "hexo-generator-archive": "^1.0.0",
     "hexo-generator-category": "^1.0.0",
     "hexo-generator-index": "^2.0.0",

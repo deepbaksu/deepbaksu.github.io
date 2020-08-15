@@ -111,6 +111,9 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: landscape
 
+# See https://github.com/sergeyzwezdin/hexo-feed
+feed:
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
