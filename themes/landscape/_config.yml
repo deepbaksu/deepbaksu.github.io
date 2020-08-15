@@ -1,7 +1,9 @@
 # Header
 menu:
-  Home: /
-  Archives: /archives
+  홈: /
+  딥백수 소개: /about
+  아카이브: /archives
+
 rss: /atom.xml
 
 # Content
