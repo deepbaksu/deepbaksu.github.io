@@ -3,17 +3,23 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: 딥백수
+subtitle: '딥백수 사이트에 오신걸 환영합니다'
+description: "우리는 '지속가능한 백수질'을 지향합니다. 고로 외롭게 공부하고 있을 당신을 응원합니다. 딥러닝에 관련된 글 뿐만 아니라, 백수생활의 넋두리도 환영합니다."
 keywords:
-author: John Doe
-language: en
-timezone: ''
+  - 딥백수
+  - 백수
+  - 코딩
+  - 딥러닝
+  - 머신러닝
+  - AI
+author: dl4ab
+language: ko
+timezone: 'Asia/Seoul'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://dl4ab.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -106,5 +112,5 @@ deploy:
   type: git
   repo : https://github.com/dl4ab/dl4ab.github.io
   branch : master
-  
-  
+
+
