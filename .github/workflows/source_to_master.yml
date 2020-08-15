@@ -1,0 +1,24 @@
+name: source_to_master
+
+on:
+  push:
+    branches: [ source ]
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+
+    - uses: actions/checkout@v2
+    - run: npm install
+    - run: npm run build
+    - name: Deploy to GitHub Pages
+      if: ${{ github.event_name == 'push' }}
+      uses: crazy-max/ghaction-github-pages@v2
+      with:
+        target_branch: master
+        build_dir: public
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
