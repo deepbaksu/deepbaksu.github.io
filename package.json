@@ -14,6 +14,7 @@
   "dependencies": {
     "bulma-stylus": "^0.8.0",
     "hexo": "^4.2.1",
+    "hexo-asset-link": "^2.0.2",
     "hexo-component-inferno": "^0.4.0",
     "hexo-deployer-git": "^2.1.0",
     "hexo-feed": "^1.0.2",
