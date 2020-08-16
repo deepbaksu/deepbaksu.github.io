@@ -2,6 +2,8 @@
 title: first_test
 date: 2020-08-16 11:48:39
 tags:
+  - 존버
+ 
 ---
 
 # 첫 글을 시작하며
