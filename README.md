@@ -16,7 +16,7 @@ git checkout -b branch_name
 npm install
 
 # source/_posts/<title>.md 파일이 생성됨.
-npx hexo new post <title>
+hexo new post <title>
 
 # 위 파일 작성 후커밋 푸시 후 PR 보내주시면 됩니다.
 git commit -am "Create a new blog post <title>"
