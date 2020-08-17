@@ -114,6 +114,22 @@ theme: landscape
 # See https://github.com/sergeyzwezdin/hexo-feed
 feed:
 
+# See
+# - https://github.com/CHENXCHEN/hexo-renderer-markdown-it-plus
+# - https://github.com/hexojs/hexo-renderer-markdown-it/wiki/Advanced-Configuration
+#
+# This enables KaTex and additional markdown features.
+markdown_it_plus:
+    highlight: true
+    html: true
+    xhtmlOut: true
+    breaks: true
+    langPrefix:
+    linkify: true
+    typographer:
+    quotes: “”‘’
+    pre_class: highlight
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:

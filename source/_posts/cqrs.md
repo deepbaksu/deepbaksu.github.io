@@ -9,7 +9,7 @@ tags:
   - software engineering
 ---
 
-제가 서비스를 만들 때 가장 좋아하는 패턴인 CQRS(Command Query Responsibility Segregation) 에 대해서 적어보겠습니다.
+제가 서비스를 만들 때 가장 좋아하는 패턴인 <abbr title="Command Query Responsibility Segregation">CQRS</abbr> 에 대해서 적어보겠습니다.
 
 ## CQRS란?
 
@@ -23,7 +23,7 @@ tags:
 
 ![Dead Service Monolithic](./cqrs/dead_cqrs.svg)
 
-또 쓰는 작업은 트래픽의 0.01% 정도 밖에 안되고 읽는 서비스가 대부분의 트래픽을 차지할 수 도 있습니다.
+또 쓰는 작업은 트래픽의 $0.01\%$ 정도 밖에 안되고 읽는 서비스가 대부분의 트래픽을 차지할 수 도 있습니다.
 
 ## 예시
 
