@@ -1,8 +1,9 @@
 ---
 title: Retro 대항해시대 - 비트코인 제국주의
 date: 2020-08-17 16:40:20
-author: 송진영
+author: Jinyoung Song
 tags:
+- Jinyoung Song
 - 비트코인
 - 제국주의
 - 미래전망
