@@ -3,6 +3,7 @@ title: Command Query Responsibility Segregation
 date: 2020-08-15 20:56:22
 author: Mo Kweon
 tags:
+  - Mo Kweon
   - microservice
   - CQRS
   - architecture
