@@ -1,6 +1,5 @@
 ---
 title: Retro 대항해시대 - 비트코인 제국주의
-permalink: bit_imperial
 date: 2020-08-17 16:40:20
 author: 송진영
 tags:
