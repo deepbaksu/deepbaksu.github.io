@@ -61,7 +61,7 @@ tags:
 
 **지금 이 시대에 비트코인은 대항해시대다.**
 
-![대항해시대 - 출처 넷마블](./bit_imperial/hanghae.jpg)
+![대항해시대 - 출처 넷마블](./bitcoin-imperialism/hanghae.jpg)
 
 ## 제국의 관점으로 봐야 보인다
 
