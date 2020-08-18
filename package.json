@@ -6,7 +6,9 @@
     "build": "hexo generate",
     "clean": "hexo clean",
     "deploy": "hexo deploy",
-    "server": "hexo server"
+    "server": "hexo server",
+    "format": "prettier --write \"**/*.{js,json,html,css,md,yaml,yml}\"",
+    "format:check": "prettier --check \"**/*.{js,json,html,css,md,yaml,yml}\""
   },
   "hexo": {
     "version": "4.2.1"
@@ -33,5 +35,15 @@
     "hexo-util": "^1.9.1",
     "inferno": "^7.4.2",
     "inferno-create-element": "^7.4.2"
+  },
+  "devDependencies": {
+    "husky": "^4.2.5",
+    "prettier": "^2.0.5",
+    "pretty-quick": "^2.0.1"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "pretty-quick --staged"
+    }
   }
 }
