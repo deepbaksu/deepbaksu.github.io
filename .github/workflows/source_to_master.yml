@@ -2,11 +2,11 @@ name: source_to_master
 
 on:
   push:
-    branches: [ source ]
+    branches: [source]
   pull_request:
   schedule:
     # run every 30 minutes
-    - cron:  '*/30 * * * *'
+    - cron: "*/30 * * * *"
 
 jobs:
   build:
