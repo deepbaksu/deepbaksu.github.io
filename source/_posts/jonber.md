@@ -2,8 +2,9 @@
 title: 딥백수 그리고 존버
 permalink: jonber
 date: 2020-08-16 16:06:38
-author: JinyoungSong
+author: Jinyoung Song
 tags: 
+- Jinyoung Song
 - 존버
 - jonber
 - 딥백수
