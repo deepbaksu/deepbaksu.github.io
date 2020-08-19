@@ -6,7 +6,7 @@
     "build": "hexo generate",
     "clean": "hexo clean",
     "deploy": "hexo deploy",
-    "server": "hexo server",
+    "server": "hexo clean && hexo server",
     "format": "prettier --write \"**/*.{js,json,html,css,md,yaml,yml}\"",
     "format:check": "prettier --check \"**/*.{js,json,html,css,md,yaml,yml}\""
   },
