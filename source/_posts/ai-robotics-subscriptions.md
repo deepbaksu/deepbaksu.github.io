@@ -27,9 +27,9 @@ AI 와 Robotics 뉴스는 매일같이 쏟아져 나온다. 나는 내가 뉴스
 
 [내가 최신 SLAM 뉴스를 따라잡는 방법 글 링크](https://cv-learn.com/SLAM-cadf848aa80f4a3bbd291247fb44c209)
 
-# 1. 첫번째 방법: Feedly 앱
 
----
+
+# 1. 첫번째 방법: Feedly 앱
 
 첫번째 방법은 아이패드에서 사용하는 Feedly 앱이다. 이 앱을 통해 여러 뉴스 웹사이트와 블로그 RSS 피드를 가져와서 한 앱에서 한눈에 쉽게 볼 수 있다. 이러한 방식의 장점은, 구글에서 내가 기억하는 랩실의 이름을을 하나씩 기억하고 찾는 것 보다, 아이패드에서 앱을 한번 누르는 것만으로 쉽게 많은 정보를 빠르게 접할 수 있기 때문이다 (정보를 얻는데에 들어가는 수고를 덜어준다). 
 
@@ -54,9 +54,9 @@ Robotics 분야의 뉴스는 사실 특정 기술의 내용보다는 제품군�
 ![](./ai-robotics-subscriptions/Untitled_2.png)
 
 
-# 2. Paperswithcode
 
----
+
+# 2. Paperswithcode
 
 <img src="./ai-robotics-subscriptions/Untitled_3.png" width="500">
 
@@ -70,13 +70,15 @@ Robotics 분야의 뉴스는 사실 특정 기술의 내용보다는 제품군�
 
 [Papers With Code : the latest in machine learning 링크](https://paperswithcode.com)
 
-# 3. Youtube
 
----
+
+# 3. Youtube
 
 Paperswithcode는 어떤 기술이 가장 좋은 벤치마크를 내는지 알 수 있지만, 사실 이러한 벤치마크 정보는 이미 해당 분야를 업으로 삼으신 분들께 도움이 되는 것 같다.
 
 아직 나처럼 딥러닝 꼬꼬마는 Youtube 영상들을 통해서 눈으로 보고 흥미를 느끼는게 좀 더 도움이 될 것이라고 생각한다.
+
+
 
 ## 3.1 Two Minute Paper
 
@@ -84,11 +86,15 @@ Two Minute Paper는 딥러닝이 적용되는 다양한 분야의 기술들을 �
 
 <img src="./ai-robotics-subscriptions/Untitled_4.png" width="750">
 
+
+
 ## 3.2 Karol Majek
 
 Karol Majek 채널은 실제로 컴퓨터 비전 분야의 detection / segmentation / feature extraction 코드를 돌리면서 나오는 결과를 보여준다. 이런 영상이 좋은 이유는, 논문들의 홍보 영상들을 보다보면 항상 좋은 결과만 나오기 때문이다. 이런 영상들 중, 어떤 기술이 실제로 좋고 어떤 영상이 cherry pick인지 알 수 없는데, Majek의 영상들을 보면 각각의 딥러닝 모델들의 실제 퍼포먼스가 어느정도 되는지 알 수 있다.
 
 <img src="./ai-robotics-subscriptions/Untitled_5.png" width="750">
+
+
 
 ## 3.3 Lex Fridman
 
@@ -102,17 +108,22 @@ Karol Majek 채널은 실제로 컴퓨터 비전 분야의 detection / segmentat
 
 <img src="./ai-robotics-subscriptions/Untitled_6.png" width="750">
 
+
+
 ## 3.4 Yannic Kilcher
 
 내가 제일 약한 NLP 분야의 기술과 메타러닝 분야를 잘 설명해주는 유투버이다. 설명하는데에 도가 튼 것 같다. 사실 아직 딥러닝의 기초도 탄탄히 잡은 편도 아니고, NLP에는 아직 흥미가 가지 않기 때문에 자주 찾아보지는 않는다. 다만, DETR이라던지, DELF 와 같이 Attention이 컴퓨터 비전에 적용이 되는 것을 보고 Attention을 이해하기 위해 이 채널을 찾게 되었는데, 기술에 대한 설명을 정말로 깔끔하게 하는 것을 보고 이 채널에 대해 좋은 인상을 가지고 있다.
 
 <img src="./ai-robotics-subscriptions/Untitled_7.png" width="750">
 
+
+
 ## 3.5 Henry AI Labs
 
 Two Minute Paper와 비슷한 느낌의 채널이다. 채널의 OpenAI와 Facebook의 연구를 특히 좋아하는 것 같은데, 평소에 나오는 영상들은 사실 내 취향은 아니다. 하지만 학회가 진행될 때 마다 특정 기업의 연구 결과와 트렌드를 한번에 정리해주는게 굉장히 도움이 많이 된다.
 
 <img src="./ai-robotics-subscriptions/Untitled_8.png" width="750">
+
 
 
 ## 3.7 Gadget Seoul
@@ -125,6 +136,8 @@ Two Minute Paper와 비슷한 느낌의 채널이다. 채널의 OpenAI와 Facebo
 
 <img src="./ai-robotics-subscriptions/Untitled_9.png" width="750">
 
+
+
 ## 3.8 ML Explained - AI Socrates
 
 이 아래부터는 아직 보고 있지 않은 채널들에 대해 소개한다.
@@ -133,11 +146,15 @@ Two Minute Paper와 비슷한 느낌의 채널이다. 채널의 OpenAI와 Facebo
 
 <img src="./ai-robotics-subscriptions/Untitled_10.png" width="750">
 
+
+
 ## 3.9 FAIR Vision
 
 갓 3-4일전 만들어진 FAIR Vision의 유투브 채널. 
 
 <img src="./ai-robotics-subscriptions/Untitled_11.png" width="750">
+
+
 
 
 ## 3.10 딥러닝 논문읽기 모임 + PR12
