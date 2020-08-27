@@ -35,6 +35,8 @@ AI 와 Robotics 뉴스는 매일같이 쏟아져 나온다. 나는 내가 뉴스
 
 또 다른 좋은 점은 기사 / 블로그 글의 썸네일까지 함께 제공하기 때문에, 시각적으로도 좀 더 끌리는 것 같다.
 
+<img src="./ai-robotics-subscriptions/Untitled.png" width="500">
+
 ![](./ai-robotics-subscriptions/Untitled.png)
 
 ![](./ai-robotics-subscriptions/Untitled_1.png)
