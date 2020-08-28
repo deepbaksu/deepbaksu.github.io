@@ -1,4 +1,4 @@
-name: source_to_master
+name: Deployment Check
 
 on:
   push:
