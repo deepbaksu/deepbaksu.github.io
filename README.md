@@ -1,6 +1,6 @@
 # dl4ab.github.io
 
-![source_to_master](https://github.com/dl4ab/dl4ab.github.io/workflows/source_to_master/badge.svg)
+![Deployment Check](https://github.com/dl4ab/dl4ab.github.io/workflows/Deployment%20Check/badge.svg)
 
 GitHub page for 딥백수
 
