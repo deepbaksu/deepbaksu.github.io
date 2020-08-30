@@ -137,7 +137,6 @@ deploy:
   repo: https://github.com/dl4ab/dl4ab.github.io
   branch: master
 
-
 # https://github.com/chekun/hexo-excerpt
 excerpt:
   depth: 2
