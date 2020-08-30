@@ -63,7 +63,7 @@ Robotics 분야의 뉴스는 사실 특정 기술의 내용보다는 제품군�
 
 [Papers With Code : the latest in machine learning 링크](https://paperswithcode.com)
 
-## 3. Youtube
+## 3. YouTube
 
 Paperswithcode는 어떤 기술이 가장 좋은 벤치마크를 내는지 알 수 있지만, 사실 이러한 벤치마크 정보는 이미 해당 분야를 업으로 삼으신 분들께 도움이 되는 것 같다.
 
