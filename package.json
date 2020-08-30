@@ -37,6 +37,7 @@
     "inferno-create-element": "^7.4.2"
   },
   "devDependencies": {
+    "hexo-excerpt": "^1.1.6",
     "husky": "^4.2.5",
     "prettier": "^2.1.1",
     "pretty-quick": "^2.0.1"
