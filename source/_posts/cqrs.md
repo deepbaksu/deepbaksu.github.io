@@ -55,3 +55,5 @@ CQRS 을 [YouTube Premium](https://youtube.com/premium) 서비스를 사용해 �
 ## Sync
 
 그럼 이제 문제는 Query의 DB와 Command를 받는 DB의 consistency 를 어떻게 유지하는지가 관건일 것입니다. 이 문제는 [event sourcing](https://microservices.io/patterns/data/event-sourcing.html) 패턴을 사용합니다. 이벤트소싱에 대해서는 다음 포스트에서 쓰도록 하겠습니다.
+
+오신 김에 딥백수 그룹에 관심 있으신 분들은 [소개 페이지](/about) 를 방문해주세요!
