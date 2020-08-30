@@ -13,7 +13,7 @@ tags:
 
 # 0. 커뮤니티에 기대서 뉴스를 보던 때는...
 
-AI 와 Robotics 뉴스는 매일같이 쏟아져 나온다. 나는 내가 뉴스를 받아보기 위해 종종 내가 관심있는 연구 그룹의 블로그에 들어가서 뉴스를 확인하곤 했다. 
+AI 와 Robotics 뉴스는 매일같이 쏟아져 나온다. 나는 내가 뉴스를 받아보기 위해 종종 내가 관심있는 연구 그룹의 블로그에 들어가서 뉴스를 확인하곤 했다.
 
 그런데 어떤 때는 내가 직접 찾아보기 전에 페이스북 TensorFlow KR이나 AI Korea 등의 커뮤니티를 통해 뉴스를 접하기도 한다. 이 두 커뮤니티에는 빠르게 뉴스를 전달해서 인지도를 높이시는 분들도 계시고, 심지어 관리자가 만든 뉴스 봇도 있다 (추정). 페이스북을 통해서 뉴스를 받아보는것에 익숙해지다보니, 점차 뉴스를 보기 위해 페이스북에 접속하게 되었다.
 
@@ -25,11 +25,9 @@ AI 와 Robotics 뉴스는 매일같이 쏟아져 나온다. 나는 내가 뉴스
 
 [내가 최신 SLAM 뉴스를 따라잡는 방법 글 링크](https://cv-learn.com/SLAM-cadf848aa80f4a3bbd291247fb44c209)
 
-
-
 # 1. 첫번째 방법: Feedly 앱
 
-첫번째 방법은 아이패드에서 사용하는 Feedly 앱이다. 이 앱을 통해 여러 뉴스 웹사이트와 블로그 RSS 피드를 가져와서 한 앱에서 한눈에 쉽게 볼 수 있다. 이러한 방식의 장점은, 구글에서 내가 기억하는 랩실의 이름을을 하나씩 기억하고 찾는 것 보다, 아이패드에서 앱을 한번 누르는 것만으로 쉽게 많은 정보를 빠르게 접할 수 있기 때문이다 (정보를 얻는데에 들어가는 수고를 덜어준다). 
+첫번째 방법은 아이패드에서 사용하는 Feedly 앱이다. 이 앱을 통해 여러 뉴스 웹사이트와 블로그 RSS 피드를 가져와서 한 앱에서 한눈에 쉽게 볼 수 있다. 이러한 방식의 장점은, 구글에서 내가 기억하는 랩실의 이름을을 하나씩 기억하고 찾는 것 보다, 아이패드에서 앱을 한번 누르는 것만으로 쉽게 많은 정보를 빠르게 접할 수 있기 때문이다 (정보를 얻는데에 들어가는 수고를 덜어준다).
 
 또 다른 좋은 점은 기사 / 블로그 글의 썸네일까지 함께 제공하기 때문에, 시각적으로도 좀 더 끌리는 것 같다.
 
@@ -43,7 +41,7 @@ AI 관련으로는 가장 SOTA를 많이 뽑아내는 Google AI Blog, OpenAI, BA
 
 최신 논문을 빨리 훑어보려고 Arxiv 피드도 구독했었다. 그러나 지금은 구독 취소를 했는데, 매일 내 분야도 아닌 논문이 300개씩 추가가 되서이다.
 
-Robotics 분야의 뉴스는 사실 특정 기술의 내용보다는 제품군이 좀 더 많이 나오는 것 같다. 그나마 조금 깊게 들어가는 IEEE Spectrum을 보는게 조금 좋은 것 같다. 단순히 로보틱스 뿐만이 아니라 주변 기술 (automation, energy) 등등 피드도 구독해놨다. 
+Robotics 분야의 뉴스는 사실 특정 기술의 내용보다는 제품군이 좀 더 많이 나오는 것 같다. 그나마 조금 깊게 들어가는 IEEE Spectrum을 보는게 조금 좋은 것 같다. 단순히 로보틱스 뿐만이 아니라 주변 기술 (automation, energy) 등등 피드도 구독해놨다.
 
 기본적으로 나는 이런 피드들을 읽을 때 모든 글을 읽겠다는 생각은 하고있지 않다. 나는 내가 구독한 소스의 수가 많다고 생각하고 있고, 또 너무 많은 정보를 소화하려고 하다보면 정보의 바다에 휩쓸리기 쉽고, 개인 스케줄 등으로 혹시나 딜레이가 생기게 될 경우 스트레스를 받는 편이다.
 
@@ -51,24 +49,19 @@ Robotics 분야의 뉴스는 사실 특정 기술의 내용보다는 제품군�
 
 ![Feedly 메인 화면](./ai-robotics-subscriptions/feedly3.png)
 
-
-
-
 # 2. Paperswithcode
 
 ![Papers with code](./ai-robotics-subscriptions/papers_with_code.png)
 
-딥러닝을 업으로 삼으신 지인으로부터, SOTA 랭킹에 대해 알고싶다면 Paperswithcode를 보라고 추천을 받았다. 
+딥러닝을 업으로 삼으신 지인으로부터, SOTA 랭킹에 대해 알고싶다면 Paperswithcode를 보라고 추천을 받았다.
 
-종종 논문 검색을 위해 이 페이지를 이용했지만, 아직 딥러닝에 대한 지식이 부족해서 애용하는 정도는 아니다. 그래도 가끔 들어가서 현재 SOTA가 무엇인지 확인하고, 딥러닝을 업으로 삼으시는 분들과 이야기 할 때 도움이 된다. 
+종종 논문 검색을 위해 이 페이지를 이용했지만, 아직 딥러닝에 대한 지식이 부족해서 애용하는 정도는 아니다. 그래도 가끔 들어가서 현재 SOTA가 무엇인지 확인하고, 딥러닝을 업으로 삼으시는 분들과 이야기 할 때 도움이 된다.
 
 최근에는 task의 범위가 넓어지면서, 은근히 non-딥러닝 방식도 올라온 것 같다. 하지만 non-딥러닝 방식의 연구자 분들은 이 웹사이트를 잘 안 쓰시는 것 같다.
 
-한동안 Detection 분야에서 TridentNet 아키텍처를 사용한 기술이 SOTA 였을 때, Detection task로 어려워하시는 분께 아무것도 모르고 'TridentNet이 SOTA래요~ 성능이 제일 좋대요~' 라고 말했다가 괜히 그분만 TridentNet 구현을 위해 고생하신 것도 기억난다 ㅋㅋ 그 후로는 함부로 랭킹만 믿지 않게 되었다. 
+한동안 Detection 분야에서 TridentNet 아키텍처를 사용한 기술이 SOTA 였을 때, Detection task로 어려워하시는 분께 아무것도 모르고 'TridentNet이 SOTA래요~ 성능이 제일 좋대요~' 라고 말했다가 괜히 그분만 TridentNet 구현을 위해 고생하신 것도 기억난다 ㅋㅋ 그 후로는 함부로 랭킹만 믿지 않게 되었다.
 
 [Papers With Code : the latest in machine learning 링크](https://paperswithcode.com)
-
-
 
 # 3. Youtube
 
@@ -76,21 +69,17 @@ Paperswithcode는 어떤 기술이 가장 좋은 벤치마크를 내는지 알 �
 
 아직 나처럼 딥러닝 꼬꼬마는 Youtube 영상들을 통해서 눈으로 보고 흥미를 느끼는게 좀 더 도움이 될 것이라고 생각한다.
 
-
-
 ## 3.1 Two Minute Paper
 
-Two Minute Paper는 딥러닝이 적용되는 다양한 분야의 기술들을 짧게 설명해준다. 오전에 지하철 타고 출근하면서 보기 딱 좋은 채널이다. 다루는 분야가 상당히 많은데, 기존의 detection / segmentation과 같은 컴퓨터 비전, BERT, GPT-3 같은 NLP 분야, 강화학습 분야...를 넘어서 종종 물리학 시뮬레이션과 그래픽스, 모션 추정 등 다양한 분야를 섭렵하는게 넓고 얕은 지식을 쌓기에 좋다. 
+Two Minute Paper는 딥러닝이 적용되는 다양한 분야의 기술들을 짧게 설명해준다. 오전에 지하철 타고 출근하면서 보기 딱 좋은 채널이다. 다루는 분야가 상당히 많은데, 기존의 detection / segmentation과 같은 컴퓨터 비전, BERT, GPT-3 같은 NLP 분야, 강화학습 분야...를 넘어서 종종 물리학 시뮬레이션과 그래픽스, 모션 추정 등 다양한 분야를 섭렵하는게 넓고 얕은 지식을 쌓기에 좋다.
 
 ![Two Minute Paper 채널 화면](./ai-robotics-subscriptions/two_minutes_paper.png)
-
 
 ## 3.2 Karol Majek
 
 Karol Majek 채널은 실제로 컴퓨터 비전 분야의 detection / segmentation / feature extraction 코드를 돌리면서 나오는 결과를 보여준다. 이런 영상이 좋은 이유는, 논문들의 홍보 영상들을 보다보면 항상 좋은 결과만 나오기 때문이다. 이런 영상들 중, 어떤 기술이 실제로 좋고 어떤 영상이 cherry pick인지 알 수 없는데, Majek의 영상들을 보면 각각의 딥러닝 모델들의 실제 퍼포먼스가 어느정도 되는지 알 수 있다.
 
 ![Karol Majek 채널 화면](./ai-robotics-subscriptions/karol_majek.png)
-
 
 ## 3.3 Lex Fridman
 
@@ -104,22 +93,17 @@ Karol Majek 채널은 실제로 컴퓨터 비전 분야의 detection / segmentat
 
 ![Lex Fridman 채널 화면](./ai-robotics-subscriptions/lex_fridman.png)
 
-
-
 ## 3.4 Yannic Kilcher
 
 내가 제일 약한 NLP 분야의 기술과 메타러닝 분야를 잘 설명해주는 유투버이다. 설명하는데에 도가 튼 것 같다. 사실 아직 딥러닝의 기초도 탄탄히 잡은 편도 아니고, NLP에는 아직 흥미가 가지 않기 때문에 자주 찾아보지는 않는다. 다만, DETR이라던지, DELF 와 같이 Attention이 컴퓨터 비전에 적용이 되는 것을 보고 Attention을 이해하기 위해 이 채널을 찾게 되었는데, 기술에 대한 설명을 정말로 깔끔하게 하는 것을 보고 이 채널에 대해 좋은 인상을 가지고 있다.
 
 ![Yannic Kilcher 채널 화면](./ai-robotics-subscriptions/yannic_kilcher.png)
 
-
 ## 3.5 Henry AI Labs
 
 Two Minute Paper와 비슷한 느낌의 채널이다. 채널의 OpenAI와 Facebook의 연구를 특히 좋아하는 것 같은데, 평소에 나오는 영상들은 사실 내 취향은 아니다. 하지만 학회가 진행될 때 마다 특정 기업의 연구 결과와 트렌드를 한번에 정리해주는게 굉장히 도움이 많이 된다.
 
 ![Henry AI Labs 화면](./ai-robotics-subscriptions/henry_ai_lab.png)
-
-
 
 ## 3.7 Gadget Seoul
 
@@ -131,8 +115,6 @@ Two Minute Paper와 비슷한 느낌의 채널이다. 채널의 OpenAI와 Facebo
 
 ![Gadget Seoul 채널 화면](./ai-robotics-subscriptions/gadget_seoul.png)
 
-
-
 ## 3.8 ML Explained - AI Socrates
 
 이 아래부터는 아직 보고 있지 않은 채널들에 대해 소개한다.
@@ -141,15 +123,11 @@ Two Minute Paper와 비슷한 느낌의 채널이다. 채널의 OpenAI와 Facebo
 
 ![ML Explained - AI Socrates 채널 화면](./ai-robotics-subscriptions/ml_explained.png)
 
-
-
 ## 3.9 FAIR Vision
 
-갓 3-4일전 만들어진 FAIR Vision의 유투브 채널. 
+갓 3-4일전 만들어진 FAIR Vision의 유투브 채널.
 
 ![FAIR Vision 채널 화면](./ai-robotics-subscriptions/fair_vision.png)
-
-
 
 ## 3.10 딥러닝 논문읽기 모임 + PR12
 
@@ -157,4 +135,3 @@ Two Minute Paper와 비슷한 느낌의 채널이다. 채널의 OpenAI와 Facebo
 
 ![딥러닝 논문 읽기 모음 채널 화면](./ai-robotics-subscriptions/dl_reading.png)
 ![PR12 재생목록 화면](./ai-robotics-subscriptions/pr12.png)
-
