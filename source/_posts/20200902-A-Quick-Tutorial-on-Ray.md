@@ -3,11 +3,11 @@ title: (번역) Modern Parallel and Distributed Python-A Quick Tutorial on Ray
 date: 2020-09-02 00:15:52
 author: Martin Hwang
 tags:
-	- Martin Hwang
-	- Ray
-	- distributed computing
-	- parallel computing
-	- software engineering
+  - Martin Hwang
+  - Ray
+  - distributed computing
+  - parallel computing
+  - software engineering
 ---
 
 이번 포스팅은 Ray에 대해서 소개합니다.
