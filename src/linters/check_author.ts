@@ -4,7 +4,7 @@ export const checkAuthor: MarkdownLinter = (
   filename: string,
   content: string
 ) => {
-  if (/\nauthor:\s/.test(content)) {
+  if (/^author:\s/m.test(content)) {
     return null;
   }
   return new Error(`author: tag is required in ${filename}.
