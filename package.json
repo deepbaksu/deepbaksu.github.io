@@ -15,7 +15,6 @@
   },
   "dependencies": {
     "bulma-stylus": "^0.8.0",
-    "format": "^0.2.2",
     "hexo": "^4.2.1",
     "hexo-asset-link": "^2.0.2",
     "hexo-component-inferno": "^0.4.0",
