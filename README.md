@@ -18,7 +18,7 @@ npm install
 # <title> 이름을 가진 디렉토리 1개와 마크다운 파일 1개가 생성됨.
 # - source/_posts/<title>/
 # - source/_posts/<title>.md
-npx hexo new <title> 
+npx hexo new <title>
 
 git add source/_posts/<title>*
 
@@ -26,7 +26,7 @@ git add source/_posts/<title>*
 npm run format
 
 # 문제 여부 확인하기
-npm run check 
+npm run check
 
 git commit -m "Create a new blog post <title>"
 git push -u origin HEAD
