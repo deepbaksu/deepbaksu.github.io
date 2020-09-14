@@ -2,6 +2,7 @@ import glob from "glob";
 import { promises as fs } from "fs";
 import { MarkdownLinter } from "./linters/types";
 import { checkAuthor } from "./linters/check_author";
+import process from "process";
 
 const markdownLinters: MarkdownLinter[] = [checkAuthor];
 
@@ -27,6 +28,7 @@ glob("source/_posts/**/*.md", (err, filenames) => {
       })
       .catch(err => {
         console.error(err);
+        process.exit(1);
       });
   }
 });
