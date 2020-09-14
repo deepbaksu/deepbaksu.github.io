@@ -12,7 +12,8 @@ tags:
 
 ![Photo by My Life Journal on Unsplash](./make-your-routine/my-life-journal-WI30grRfBnE-unsplash.jpg)
 
-<br/>
+
+
 얼마전 어느 개발자 분이 자신의 생활 루틴을 꾸려나가는 방법론에 관해 소개하시는 멋진 글을 읽었습니다.
 
 - [하루 25분 실행하기: 하루를 대하는 14년차 개발자의 자세](https://blog.shiren.dev/2020-09-07)
