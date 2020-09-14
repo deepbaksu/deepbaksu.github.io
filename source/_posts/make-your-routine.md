@@ -1,11 +1,8 @@
 ---
 title: 애기 아빠 개발자의 생활 루틴
 author: Hyunseok Jeong
-author: Hyunseok Jeong
 date: 2020-09-14 18:45:06
 tags:
-  - Hyunseok Jeong
-  - Hyunseok Jeong
   - Hyunseok Jeong
   - 습관
   - 중용
