@@ -10,9 +10,7 @@ tags:
   - 성실
 ---
 
-<span style="display:block;text-align:center">![](./make-your-routine/my-life-journal-WI30grRfBnE-unsplash.jpg)</span>
-
-<span style="display:block;text-align:center">Photo by <a href="https://unsplash.com/@mylifejournal?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">My Life Journal</a> on <a href="https://unsplash.com/s/photos/habit?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+![Photo by My Life Journal on Unsplash](./make-your-routine/my-life-journal-WI30grRfBnE-unsplash.jpg)
 
 <br/>
 얼마전 어느 개발자 분이 자신의 생활 루틴을 꾸려나가는 방법론에 관해 소개하시는 멋진 글을 읽었습니다.
