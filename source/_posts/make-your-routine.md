@@ -12,8 +12,6 @@ tags:
 
 ![Photo by My Life Journal on Unsplash](./make-your-routine/my-life-journal-WI30grRfBnE-unsplash.jpg)
 
-
-
 얼마전 어느 개발자 분이 자신의 생활 루틴을 꾸려나가는 방법론에 관해 소개하시는 멋진 글을 읽었습니다.
 
 - [하루 25분 실행하기: 하루를 대하는 14년차 개발자의 자세](https://blog.shiren.dev/2020-09-07)
@@ -53,7 +51,6 @@ tags:
 {% endblockquote %}
 
 항목을 나누고, 이를 정량적으로 표시하여 주간 계획을 세우는 부분이 인상적이었습니다. 마치 구글의 OKR 에서 KR(Key Result)처럼 정량적으로 측정을 합니다.
-
 
 하루에 2회 분량을 하더라도 1회로 계산합니다. 얼마나 많이 해내었는지가 아니라 얼마나 `꾸준`히 했는지를 보겠다는 것입니다. 꾸준히 해나가기를 독려하려는 장치로 보였습니다. <br/>
 
