@@ -56,7 +56,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "pretty-quick --staged --pattern \"**/*.(js|md|json|yaml|yml|html|css)\" \"*.(js|json|md|yaml|yml)\""
+      "pre-commit": "pretty-quick --verbose --staged --pattern \"**/*.*(js|md|json|yaml|yml|html|css)\" --pattern \"*.*(js|json|md|yaml|yml)\""
     }
   }
 }
