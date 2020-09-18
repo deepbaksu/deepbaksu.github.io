@@ -175,9 +175,9 @@ on:
         description: 'Test scenario tags'
 ```
 
-**schedule** 밑에 있는 cron은 언제 해당 크롤러를 작동시킬지에 대한 내용입니다. 이에 대한 문법을 다 외우시는 것보다는 [crontab.guru](https://crontab.guru/)라는 사이트를 방문해서 원하시는 날짜설정을 하시길 권해드리고 싶습니다. 주의할 사항은 설정되는 시간이 UTC(협정 시계시)기준이라는 겁니다. 한국은 UTC+9를 설정해줘야 한다는 점을 유의해주세요.
+**schedule** 밑에 있는 cron은 언제 해당 크롤러를 작동시킬지에 대한 내용입니다. 이에 대한 문법을 다 외우시는 것보다는 [crontab.guru](https://crontab.guru/)라는 사이트를 방문해서 원하시는 날짜 설정을 하시길 권해드리고 싶습니다. 주의할 사항은 설정되는 시간이 UTC(협정 시계시) 기준이라는 겁니다. 한국은 UTC+9를 설정해줘야 한다는 점을 유의해주세요.
 
-**workflow_dispatch**부분은 해당 action이 작동하는지 작동하지 않는지 확인하기 위해 수동으로 Github Action을 작동시킬 수 있도록 해주는 코드입니다.
+**workflow_dispatch**부분은 해당 action이 작동하는지 작동하지 않는지 확인하기 위해 수동으로 GitHub Action을 작동시킬 수 있도록 해주는 코드입니다.
 
 그럼 다음으로 **jobs**를 보겠습니다.
 
