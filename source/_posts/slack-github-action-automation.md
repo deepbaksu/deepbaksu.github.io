@@ -212,26 +212,26 @@ jobs:
 
 ![GitHub Action Commit](./slack-github-action-automation/github_action_commit.jpg)
 
-## 10. Test Github Action
+## 10. Test GitHub Action
 
 이제 테스트를 한 번 해보겠습니다.
 
-Github 저장소에서 Action 메뉴를 클릭해주세요. 그리고 하늘색 표시해 준 Python application을 클릭해주세요
+GitHub 저장소에서 Action 메뉴를 클릭해주세요. 그리고 하늘색 표시해 준 Python application을 클릭해주세요
 
 ![workflow test](./slack-github-action-automation/workflow_test.jpg)
 
 잘 작동하는지 아닌지 수동으로 확인해보겠습니다. Run workflow를 실행해주세요.
 
-그럼 슬랙 채널에 다음과 같이 메시지가 도착했음을 보실 수 있을겁니다.
+그럼 슬랙 채널에 다음과 같이 메시지가 도착했음을 보실 수 있을 겁니다.
 
 ![Test Results](./slack-github-action-automation/test_result.jpg)
 
-여기까지 Github Action을 이용한 Slack 알림 자동화를 해보셨는데 어떠셨나요?
+여기까지 GitHub Action을 이용한 Slack 알림 자동화를 해보셨는데 어떠셨나요?
 
 많이 어려우셨나요? 그렇죠? 맞아요. 저도 많이 어렵더라고요.
 
-하지만 안되면 될때까지, 계속해서 해보거나 [딥백수 슬랙](https://bit.ly/2Sqdnws)에 오셔서 질문해주시면 다른 멤버분들이 많이 도움을 주시지 않을까 생각을 합니다.
+하지만 안되면 될 때까지, 계속해서 해보거나 [딥백수 슬랙](https://bit.ly/2Sqdnws)에 오셔서 질문해주시면 다른 구성원분들이 많이 도움을 주시지 않을까 생각을 합니다.
 
-사실 이 글을 쓰는 저는 컴맹에 가까운 수준이라 많이 어렵더라고요. 하나하나 이해하는데 시간이 얼마나 많이 걸리던지... 그렇게 헤매던 저를 인내심을 가지고 가르쳐주신 Mo Kweon님께 감사하다는 말을 마지막으로 남기고 싶습니다.
+사실 이 글을 쓰는 저는 컴맹에 가까운 수준이라 많이 어렵더라고요. 하나하나 이해하는 데 시간이 얼마나 많이 걸리던지... 그렇게 헤매던 저를 인내심을 가지고 가르쳐주신 Mo Kweon님께 감사하다는 말을 마지막으로 남기고 싶습니다.
 
 긴 글 읽어주셔서 고맙습니다.
