@@ -75,7 +75,11 @@ tags:
 
 ![디렉팅 후 멤버간 이해 차이](./lesson-learned-at-bluehole/understanding_disparity_2.jpg)
 
-그래서 중요한 것이 피드백을 잘하는 방법입니다. 더 궁금하신 분들은 꼭 이상균 님의 [게임 디렉팅 튜토리얼][game_directing_tutorial]을 살펴보시기를 추천드립니다.
+그래서 중요한 것이 피드백을 잘하는 방법입니다.
+
+![피드백 하는법 요약](./lesson-learned-at-bluehole/feedback_summary.jpg)
+
+더 궁금하신 분들은 꼭 이상균 님의 [게임 디렉팅 튜토리얼][game_directing_tutorial]을 살펴보시기를 추천드립니다.
 
 이외에도 더 좋은 내용 디스커션을 원하시는 분들은 [딥백수 슬랙](https://bit.ly/2Sqdnws)을 방문해주세요.
 
