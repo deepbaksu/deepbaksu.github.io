@@ -72,4 +72,4 @@ tags:
 ## 레퍼런스
 
 - 이상균 - 게임 디렉팅 튜토리얼: https://www.slideshare.net/iyooha/ss-69350767/31
-- 이상균 - 프로그래머에게 사랑밚능 게임 기획서 작성법: https://www.slideshare.net/iyooha/20101002-53482961
+- 이상균 - 프로그래머에게 사랑받는 게임 기획서 작성법: https://www.slideshare.net/iyooha/20101002-53482961
