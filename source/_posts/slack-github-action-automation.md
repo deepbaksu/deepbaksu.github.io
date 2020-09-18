@@ -55,13 +55,13 @@ tags:
 
 ![Webhooks Configuration](./slack-github-action-automation/webhooks_configration.jpg)
 
-그러면 다음과 같이 Setup Instructions 화면이 출력되는데 여기에 가장 중요한 Webhook URL이 있습니다. 이 URL에 JSON데이터를 보내면 우리가 원하는대로 메시지가 슬랙 채널에 전송된다는 의미입니다.
+그러면 다음과 같이 Setup Instructions 화면이 출력되는데 여기에 가장 중요한 Webhook URL이 있습니다. 이 URL에 JSON 데이터를 보내면 우리가 원하는 대로 메시지가 슬랙 채널에 전송된다는 의미입니다.
 
 ![Webhooks Setup Instructions](./slack-github-action-automation/webhooks_setup_instructions.jpg)
 
-당연히 이 Webhook URL이 다른 사람에게 알려지면 안되겠죠?
+당연히 이 Webhook URL이 다른 사람에게 알려지면 안 되겠죠?
 
-화면을 아래로 쭉 내려보면 Example이라고 해서 어떻게 데이터가 Posting되는지 시험해볼 수 있는 API가 있습니다.
+화면을 아래로 쭉 내려보면 Example이라고 해서 어떻게 데이터가 Posting 되는지 시험해볼 수 있는 API가 있습니다.
 
 ![Webhooks Example](./slack-github-action-automation/webhooks_configration.jpg)
 
