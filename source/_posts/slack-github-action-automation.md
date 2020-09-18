@@ -87,32 +87,32 @@ Webhooks를 설정하면서 Webhooks URL은 다른 사람에게 보여선 안된
 
 ## 7. Configure Github Repository Settings
 
-Github 저장소 하나를 만들어준뒤, 크롤러를 저장소에 push해주세요. 그리고 우리가 그토록 기다리던 **Github Action**을 진행하기 위해 저장소 메뉴 중 Pull requests 오른쪽에 있는 Action를 클릭해주세요.
+GitHub 저장소 하나를 만들어준 뒤, 크롤러를 저장소에 push 해주세요. 그리고 우리가 그토록 기다리던 **GitHub Action**을 진행하기 위해 저장소 메뉴 중 Pull requests 오른쪽에 있는 Action을 클릭해주세요.
 
-라고 하고 싶지만, 우리에겐 조금 더 할 일이 남아있습니다. 환경변수를 지정해줘야 한다고 했던 거 기억하시나요?
+라고 하고 싶지만, 우리에겐 조금 더할 일이 남아있습니다. 환경변수를 지정해줘야 한다고 했던 거 기억하시나요?
 
 맞습니다. 그 환경변수를 지정해보도록 하겠습니다.
 
-Settings에 들어가주시고 아래 하늘색 표시해놓은 것처럼 Secrets를 클릭해주세요.
+Settings에 들어가 주시고 아래 하늘색 표시해놓은 것처럼 Secrets를 클릭해주세요.
 
-![Github Settings](./slack-github-action-automation/github_settings.jpg)
+![GitHub Settings](./slack-github-action-automation/github_settings.jpg)
 
-왠지 뭘 해야할지 감 오시죠? 맞습니다. New secret 버튼을 눌러주세요.
+왠지 뭘 해야 할지 감 오시죠? 맞습니다. New secret 버튼을 눌러주세요.
 
-![Github Secrets](./slack-github-action-automation/github_secrets.jpg)
+![GitHub Secrets](./slack-github-action-automation/github_secrets.jpg)
 
 Name엔 전에 말씀드렸던 SLACK_URL을 입력해주시고, Value에 Webhooks URL을 입력해주신 다음 추가해주세요.
 ![Add Secrets](./slack-github-action-automation/add_secret.jpg)
 
-## 8. Make a Github Action
+## 8. Make a GitHub Action
 
-**드디어** 정말 우리가 기다리고 기다리던 Github Action을 할 시간입니다.
+**드디어** 정말 우리가 기다리고 기다리던 GitHub Action을 할 시간입니다.
 
-Github Action에 관한 글인데 뭐가 이렇게 많냐고요? 뭐 어쩔 수 없습니다.
+GitHub Action에 관한 글인데 뭐가 이렇게 많냐고요? 뭐 어쩔 수 없습니다.
 
 ![좋은 경험이다 생각하고... 흠흠... - 출처 YTN](./slack-github-action-automation/experience_kim.jpg)
 
-데이터 분석을 배울 때 거의 귀가 닳도록 듣는 말이 전처리에 전체 프로젝트 중 80%의 시간을 쏟는다는 얘기인데, Github Action도 마찬가지인듯 합니다. 환경설정을 해줘야 할 게 많이 있어서 시간이 많이 걸렸습니다.
+데이터 분석을 배울 때 거의 귀가 닳도록 듣는 말이 전처리에 전체 프로젝트 중 80%의 시간을 쏟는다는 얘기인데, Github Action도 마찬가지인 듯 합니다. 환경설정을 해줘야 할 게 많이 있어서 시간이 오래 걸렸습니다.
 
 각설하고, 여기서는 크롤러를 python으로 만들었다고 가정하겠습니다.
 
