@@ -81,9 +81,9 @@ def slack_post_text(url, text):
     return result
 ```
 
-Webhooks를 설정하면서 Webhooks URL은 다른 사람에게 보여선 안된다고 했습니다. 그렇기 때문에 우리는 이 URL을 SLACK_URL이란 환경변수로 지정해서 다른 사람에겐 보이지 않되 코드에선 변수를 가져와 사용할 수 있도록 만들어줄겁니다.
+Webhooks를 설정하면서 Webhooks URL은 다른 사람에게 보여선 안 된다고 했습니다. 그렇기 때문에 우리는 이 URL을 SLACK_URL이란 환경변수로 지정해서 다른 사람에겐 보이지 않되 코드에선 변수를 가져와 사용할 수 있도록 만들어줄 겁니다.
 
-그리고 slack_post_text라는 함수를 통해 슬랙에 보내고자 하는 메시지를 JSON으로 URL에 전달해줍니다.
+그리고 `slack_post_text` 라는 함수를 통해 슬랙에 보내고자 하는 메시지를 JSON으로 URL에 전달해줍니다.
 
 ## 7. Configure GitHub Repository Settings
 
