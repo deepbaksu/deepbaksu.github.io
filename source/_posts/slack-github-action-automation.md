@@ -37,19 +37,19 @@ tags:
 
 ![Slack Setting](./slack-github-action-automation/slack_setting.jpg)
 
-들어가보면 다음과 같은 페이지에 접속되실 겁니다. 하늘색 동그라미를 쳐놓은 검색창에 webhook이라고 입력해준 뒤 검색해주세요.
+들어가 보면 다음과 같은 페이지에 접속되실 겁니다. 하늘색 동그라미를 쳐놓은 검색창에 webhook이라고 입력해준 뒤 검색해주세요.
 
 ![Slack App directory](./slack-github-action-automation/slack_app_directory.jpg)
 
-그러면 다음과 같이 결과창이 뜰텐데 하늘색 동그라미를 쳐놓은 Incoming Webhooks를 클릭해주세요.
+그러면 다음과 같이 결과 창이 뜰 텐데 하늘색 동그라미를 쳐놓은 Incoming Webhooks를 클릭해주세요.
 
 ![Result Searching webhooks](./slack-github-action-automation/result_search_webhooks.jpg)
 
-그럼 다음과 같이 Webhooks에 대한 소개를 보실 수 있습니다. JSON을 사용해서 POST하는군요.(크롤러에서 JSON으로 데이터를 보내줘야 한다는 의미입니다) 당연히 Add해줘야겠죠?
+그럼 다음과 같이 Webhooks에 대한 소개를 보실 수 있습니다. JSON을 사용해서 POST 하는군요.(크롤러에서 JSON으로 데이터를 보내줘야 한다는 의미입니다) 당연히 Add 해줘야겠죠?
 
 ![Incoming Webhooks](./slack-github-action-automation/incoming_webhooks.jpg)
 
-어떤 채널에 메시지를 보낼지 설정을 해줘야 합니다. 이전에 만들었던 채널을 설정해준 뒤 Add해줍니다.
+어떤 채널에 메시지를 보낼지 설정을 해줘야 합니다. 이전에 만들었던 채널을 설정해준 뒤 Add 해줍니다.
 
 ## 5. Configure Webhooks
 
