@@ -71,7 +71,7 @@ tags:
 
 ## 6. Edit the Crawler
 
-Webhooks설정까지 마쳤으니 본격적으로 Github Action으로 들어가보겠습니다. 그 전에 크롤러에 다음과 같은 코드를 추가해주세요.
+Webhooks설정까지 마쳤으니 본격적으로 GitHub Action으로 들어가 보겠습니다. 그 전에 크롤러에 다음과 같은 코드를 추가해주세요.
 
 ```python
 url = os.environ.get('SLACK_URL')
