@@ -1,5 +1,5 @@
 ---
-title: "나는 블루홀에서 무엇을 배웠나: Communication"
+title: 나는 블루홀에서 무엇을 배웠나
 date: 2020-09-17T19:49:37-07:00
 author: Mo Kweon
 tags:
