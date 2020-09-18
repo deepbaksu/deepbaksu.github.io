@@ -202,7 +202,7 @@ jobs:
         SLACK_URL: ${{ secrets.SLACK_URL }}
 ```
 
-대강 눈치채실수도 있겠지만, runs-on을 보면 Github Action이 우분투 환경에서 작동한다는 것을 알 수 있습니다.
+대강 눈치채실 수도 있겠지만, runs-on을 보면 GitHub Action이 우분투 환경에서 작동한다는 것을 알 수 있습니다.
 
 **- name: Install dependencies** 이 부분에선 익숙한 pip install이 등장합니다. 필요한 라이브러리가 있으시다면 추가해주세요.
 
@@ -210,7 +210,7 @@ jobs:
 
 그렇게 한 뒤 화면 우상단에 있는 Start commit 버튼을 누르고 커밋해주세요.
 
-![Github Action Commit](./slack-github-action-automation/github_action_commit.jpg)
+![GitHub Action Commit](./slack-github-action-automation/github_action_commit.jpg)
 
 ## 10. Test Github Action
 
