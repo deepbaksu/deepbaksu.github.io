@@ -122,7 +122,7 @@ GitHub Action에 관한 글인데 뭐가 이렇게 많냐고요? 뭐 어쩔 수 
 
 workflow 내용을 다음과 같이 바꿔주세요.
 
-```
+```yaml
 name: Python application
 
 on:
