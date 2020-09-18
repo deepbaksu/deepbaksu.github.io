@@ -85,7 +85,7 @@ Webhooks를 설정하면서 Webhooks URL은 다른 사람에게 보여선 안된
 
 그리고 slack_post_text라는 함수를 통해 슬랙에 보내고자 하는 메시지를 JSON으로 URL에 전달해줍니다.
 
-## 7. Configure Github Repository Settings
+## 7. Configure GitHub Repository Settings
 
 GitHub 저장소 하나를 만들어준 뒤, 크롤러를 저장소에 push 해주세요. 그리고 우리가 그토록 기다리던 **GitHub Action**을 진행하기 위해 저장소 메뉴 중 Pull requests 오른쪽에 있는 Action을 클릭해주세요.
 
