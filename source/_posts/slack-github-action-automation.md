@@ -1,5 +1,5 @@
 ---
-title: Github Action을 이용한 알림 자동화
+title: GitHub Action을 이용한 알림 자동화
 date: 2020-09-18 23:54:37
 author: Jinyoung Song
 tags:
@@ -53,7 +53,7 @@ tags:
 
 ## 5. Configure Webhooks
 
-![Webhooks Configuration](./slack-github-action-automation/webhooks_configration.jpg)
+![Webhooks Configuration](./slack-github-action-automation/webhooks_configuration.jpg)
 
 그러면 다음과 같이 Setup Instructions 화면이 출력되는데 여기에 가장 중요한 Webhook URL이 있습니다. 이 URL에 JSON 데이터를 보내면 우리가 원하는 대로 메시지가 슬랙 채널에 전송된다는 의미입니다.
 
@@ -63,7 +63,7 @@ tags:
 
 화면을 아래로 쭉 내려보면 Example이라고 해서 어떻게 데이터가 Posting 되는지 시험해볼 수 있는 API가 있습니다.
 
-![Webhooks Example](./slack-github-action-automation/webhooks_configration.jpg)
+![Webhooks Example](./slack-github-action-automation/webhooks_example.jpg)
 
 한번 시험해볼까요? 해당 코드를 복사한 뒤 터미널 창에 붙여넣기 해보겠습니다. 다음과 같이 채널에 메시지가 잘 전달된 걸 보실 수 있을 겁니다.
 
@@ -127,34 +127,33 @@ name: Python application
 
 on:
   schedule:
-  - cron: "5 0 * * *"
+    - cron: "5 0 * * *"
   workflow_dispatch:
     inputs:
       logLevel:
-        description: 'Log level'
+        description: "Log level"
         required: true
-        default: 'warning'
+        default: "warning"
       tags:
-        description: 'Test scenario tags'
+        description: "Test scenario tags"
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2
-    - name: Set up Python 3.8
-      uses: actions/setup-python@v2
-      with:
-        python-version: 3.8
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install bs4 requests
-    - run: python 크롤러이름.py
-      env: # Or as an environment variable
-        SLACK_URL: ${{ secrets.SLACK_URL }}
+      - uses: actions/checkout@v2
+      - name: Set up Python 3.8
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install bs4 requests
+      - run: python 크롤러이름.py
+        env: # Or as an environment variable
+          SLACK_URL: ${{ secrets.SLACK_URL }}
 ```
 
 ## 9. Edit workflow
@@ -164,15 +163,15 @@ jobs:
 ```yaml
 on:
   schedule:
-  - cron: "5 0 * * *"
+    - cron: "5 0 * * *"
   workflow_dispatch:
     inputs:
       logLevel:
-        description: 'Log level'
+        description: "Log level"
         required: true
-        default: 'warning'
+        default: "warning"
       tags:
-        description: 'Test scenario tags'
+        description: "Test scenario tags"
 ```
 
 **schedule** 밑에 있는 cron은 언제 해당 크롤러를 작동시킬지에 대한 내용입니다. 이에 대한 문법을 다 외우시는 것보다는 [crontab.guru](https://crontab.guru/)라는 사이트를 방문해서 원하시는 날짜 설정을 하시길 권해드리고 싶습니다. 주의할 사항은 설정되는 시간이 UTC(협정 시계시) 기준이라는 겁니다. 한국은 UTC+9를 설정해줘야 한다는 점을 유의해주세요.
@@ -184,22 +183,21 @@ on:
 ```yaml
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2
-    - name: Set up Python 3.8
-      uses: actions/setup-python@v2
-      with:
-        python-version: 3.8
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install bs4 requests
-    - run: python 크롤러이름.py
-      env: # Or as an environment variable
-        SLACK_URL: ${{ secrets.SLACK_URL }}
+      - uses: actions/checkout@v2
+      - name: Set up Python 3.8
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install bs4 requests
+      - run: python 크롤러이름.py
+        env: # Or as an environment variable
+          SLACK_URL: ${{ secrets.SLACK_URL }}
 ```
 
 대강 눈치채실 수도 있겠지만, runs-on을 보면 GitHub Action이 우분투 환경에서 작동한다는 것을 알 수 있습니다.
