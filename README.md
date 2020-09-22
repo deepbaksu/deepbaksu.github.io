@@ -15,11 +15,15 @@ git checkout -b branch_name
 # 패키지 설치
 npm install
 
-# <title> 이름을 가진 디렉토리 1개와 마크다운 파일 1개가 생성됨.
+# <title> 이름을 가진 디렉토리 1개와 마크다운 파일 1개가 생성됨
 # - source/_posts/<title>/
 # - source/_posts/<title>.md
 npx hexo new <title>
 
+# <title>.md 파일에 post 를 작성
+# <title> 디렉토리에는 image 등 post 에 필요한 파일을 저장
+
+# post 작성 후 pull request 를 위한 git 작업 시작
 git add source/_posts/<title>*
 
 # Prettier 포맷하기
