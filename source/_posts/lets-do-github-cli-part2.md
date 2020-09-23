@@ -1,5 +1,5 @@
 ---
-title: lets-do-github-cli-part2
+title: GitHub CLI 를 만져보자 - 2
 date: 2020-09-22 17:36:04
 author: Hyunseok Jeong
 tags:
