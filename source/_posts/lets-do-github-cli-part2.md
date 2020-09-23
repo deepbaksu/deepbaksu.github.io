@@ -9,11 +9,11 @@ tags:
   - Alias
 ---
 
-![unsplash github](./lets-do-github-cli-part2/yancy-min-842ofHC6MaI-unsplash.jpg)
+<figure style="display: flex; flex-direction: column; align-items: center">
+  <img src="./lets-do-github-cli-part2/yancy-min-842ofHC6MaI-unsplash.jpg">
+  <figcaption>Photo by <a href="https://unsplash.com/@yancymin?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Yancy Min</a> on <a href="https://unsplash.com/s/photos/github?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></figcaption>
+</figure>
 
-<p align="center">
-<span>Photo by <a href="https://unsplash.com/@yancymin?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Yancy Min</a> on <a href="https://unsplash.com/s/photos/github?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
-</p>
 
 gist 를 만져보며 GitHub CLI 에 대한 기대감이 커졌다. 이번에는 repo 와 관련한 기능을 써보고자 한다.
 이렇게 신기해하며 사용법을 익히는 것보다 더욱 중요한 것은 실제로 꾸준히 쓰는 것이겠다.
@@ -22,7 +22,7 @@ gist 를 만져보며 GitHub CLI 에 대한 기대감이 커졌다. 이번에는
 - GitHub Repo: https://github.com/cli/cli
 - Official Document: https://cli.github.com/manual/
 
-## clone repo
+## Clone repo
 
 두 명령은 같다. 장단점이나 차이를 모르겠다.
 
@@ -31,7 +31,7 @@ gist 를 만져보며 GitHub CLI 에 대한 기대감이 커졌다. 이번에는
 
 ![clone repo](./lets-do-github-cli-part2/1.png)
 
-## create repo
+## Create repo
 
 이거 정말 유용하다. 실전에는 보통 아래와 같이 했었다.
 
@@ -55,7 +55,7 @@ GitHub CLI 를 이용하여 repo 를 생성하는 여러 옵션이 있지만 이
 
 ![create repo](./lets-do-github-cli-part2/2.png)
 
-## view repo
+## View repo
 
 repository 를 본다는 것이 무얼 말하는 것인지 처음에는 이해가 가지 않았다.
 여러 옵션이 있지만 현재 CLI 화면의 git 의 GitHub repo 를 브라우저에서 열때 가장 많이 사용할 듯 하다.
@@ -99,7 +99,7 @@ repository 를 본다는 것이 무얼 말하는 것인지 처음에는 이해�
 
 Official document (https://cli.github.com/manual/) 자체가 길지 않아 30분-1시간을 흝어보면 왠만한 기능은 이해가 되고, 여기처럼 실습까지 해주면 대부분의 feature 는 충분히 소화해 낼 수 있을것 같다. 마지막으로 pull request 를 잘 다뤄보고 싶은데 이건 좀더 실전 경험이 쌓이면 정리해보려 한다.
 
-Git CLI 에서
+GitHub CLI 에서
 
 1. PR 을 보내거가, PR 을 리뷰하고
 2. 제안된 수정사항을 검토하거나 빌드해보고
