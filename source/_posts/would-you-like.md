@@ -2,10 +2,10 @@
 title: Would you like something to drink?
 date: 2020-09-22 21:50:18
 author: Seunghwan Chang
-tags: 
- - Seunghwan Chang
- - English
- - would
+tags:
+  - Seunghwan Chang
+  - English
+  - would
 ---
 
 이 영어 표현을 처음 만났을 때 뭔가 좀 이상하다고 생각했다.
