@@ -14,7 +14,6 @@ tags:
   <figcaption>Photo by <a href="https://unsplash.com/@yancymin?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Yancy Min</a> on <a href="https://unsplash.com/s/photos/github?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></figcaption>
 </figure>
 
-
 gist 를 만져보며 GitHub CLI 에 대한 기대감이 커졌다. 이번에는 repo 와 관련한 기능을 써보고자 한다.
 이렇게 신기해하며 사용법을 익히는 것보다 더욱 중요한 것은 실제로 꾸준히 쓰는 것이겠다.
 좋은 분들과 함께하는 딥백수 커뮤니티에 블로그 포스팅을 자주하며 기능들을 내 것으로 만들어야 겠다.
