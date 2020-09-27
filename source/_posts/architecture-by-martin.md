@@ -72,7 +72,7 @@ Design Stamina Hypothesis: https://martinfowler.com/bliki/DesignStaminaHypothesi
 이 둘을 합쳐서 한 단어로 말하자면 아키텍처는 `모든 중요한 것들`이라는 말이 된다.
 쉽게 바꿔서는 안되고, 충분히 이해하고 만들어야 하는 중요한 것들이다.
 
-<div style="text-align: center">![architecture!](./architecture-by-martin/2.png)</div>
+![architecture!](./architecture-by-martin/2.png)
 
 - 이미지 링크: https://drive.google.com/file/d/17xj1xjQ2Mw4XKDX5BmyFqVVFiEMiVN_L/view
 
@@ -110,6 +110,6 @@ Enrico Zaninotoo 라는 사람은 Agile을 되돌리기 힘든 것들(irreversib
 
 아래 그림의 good design 을 보자. 초기에 투자를 해서 좋은 소프트웨어 아키텍처를 구축했더니 - 노련한 개발자가 핵심 가치를 놓치지 않고, 최소한의 아키텍처로 디자인 한 다음, 모든 팀원이 이해하고 개발할 수 있게 만들었더니 - 그 기반위에서 새로운 기능을 넣어주거나 유지하고 보수하기가 훨씬 쉬워진 것이다. 돈과 직결되는 생산성이 비약적으로 좋아진 것이다.
 
-<div style="text-align: center">![Design Stamina Hypothesis](./architecture-by-martin/3.png)</div>
+![Design Stamina Hypothesis](./architecture-by-martin/3.png)
 
 < 이미지 출처: https://martinfowler.com/bliki/DesignStaminaHypothesis.html >
