@@ -54,9 +54,7 @@ Design Stamina Hypothesis: https://martinfowler.com/bliki/DesignStaminaHypothesi
 
 아키텍처 하면 떠오르는, 아래와 같은 다이어그램과 같은 형식은 이런 공유의 결과로 만들어지는 것들을 표현(representation) 한 것 뿐이다.
 
-![architecture?](./architecture-by-martin/1.png)
-
-<div style="text-align: center">< 이미지 출처: https://bit.ly/2Ht4rCZ ></div>
+![Architecture - StackExchange(https://bit.ly/2Ht4rCZ)](./architecture-by-martin/1.png)
 
 ### 2. The decision that are hard to change
 
