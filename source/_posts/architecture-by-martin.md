@@ -9,18 +9,9 @@ tags:
   - Architect
 ---
 
-<figure style="display: flex; flex-direction: column; align-items: center" alt="architecture">
-  <img src="./architecture-by-martin/joel-filipe-Wc8k-KryEPM-unsplash.jpg" width="500" height="600">
-  <figcaption>Photo by <a href="https://unsplash.com/@joelfilip?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" style="user-select: auto;">Joel Filipe</a> on <a href="https://unsplash.com/s/photos/software-architecture?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" style="user-select: auto;">Unsplash</a></figcaption>
-</figure>
+## 개요
 
 마틴 파울러가 10 여분간 압축하여 이야기한 소프트웨어 아키텍처에 대한 생각을 유튜브를 통해 보고, 유튜브에 언급된 칼럼까지 읽고 나서 정리를 해보고 싶어졌다.
-
-### 참고 링크
-
-유튜브 링크: https://youtu.be/4E1BHTvhB7Y
-유튜브에서 언급한 칼럼: https://martinfowler.com/ieeeSoftware/whoNeedsArchitect.pdf
-Design Stamina Hypothesis: https://martinfowler.com/bliki/DesignStaminaHypothesis.html
 
 ## TL;DR
 
@@ -109,3 +100,9 @@ Enrico Zaninotoo 라는 사람은 Agile을 되돌리기 힘든 것들(irreversib
 [^stamina]![Design Stamina Hypothesis by Martin Fowler](./architecture-by-martin/3.png)
 
 [^stamina]: 이미지 출처: https://martinfowler.com/bliki/DesignStaminaHypothesis.html
+
+## 참고 링크
+
+유튜브 링크: https://youtu.be/4E1BHTvhB7Y
+유튜브에서 언급한 칼럼: https://martinfowler.com/ieeeSoftware/whoNeedsArchitect.pdf
+Design Stamina Hypothesis: https://martinfowler.com/bliki/DesignStaminaHypothesis.html
