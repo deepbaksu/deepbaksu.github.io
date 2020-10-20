@@ -1,5 +1,5 @@
 ---
-title: Go: 슬라이스 가지고 놀아보자
+title: Go 슬라이스 가지고 놀아보자
 date: 2020-10-20 18:17:05
 author: Hyunseok Jeong
 tags:
