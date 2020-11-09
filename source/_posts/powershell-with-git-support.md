@@ -12,7 +12,7 @@ tags:
 
 ![Photo by Marc Rentschler on Unsplash](./powershell-with-git-support/marc-rentschler-F1rES0sVuIw-unsplash.jpg)
 
-`Linux` 또는 `MacOS` 환경에서는 `git` 명령들이 자동으로 완성되어 편리한데 윈도우 cmd나 powershell에서는 기본적으로 되지않아 불편하였다.
+`Linux` 또는 `macOS` 환경에서는 `git` 명령들이 자동으로 완성되어 편리한데 윈도우 `cmd`나 `PowerShell`에서는 기본적으로 되지않아 불편하였다.
 그렇다고 `git bash`를 사용하자니 윈도우에서는 다른 불편한 상황이 종종 발생하여
 
 1. git 명령어를 tab으로 자동완성 할 수 있고
@@ -21,9 +21,8 @@ tags:
 ## TL;DR - 너무 길면 읽지 않을꺼죠?
 
 1. PowerShell 은 당연히 설치되어 있어야 한다. 현시점에서는 버전 `7.1.0-rc.2`를 설치하였다.
-
-2) posh-git 을 설치한다.
-3) PowerShell profile 파일을 수정하여 custom prompt를 설정한다.
+2. posh-git 을 설치한다.
+3. PowerShell profile 파일을 수정하여 custom prompt를 설정한다.
 
 그러면 git 을 사용하는 디렉토리 내에서 아래와 같이 prompt 가 나온다.
 
