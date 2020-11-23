@@ -51,4 +51,8 @@ The only thing that doesn't change is the fact that it changes
 
 이 책은 이런 여정을 떠나는 사람이 잠시 쉬며 훑어볼 용도로 괜찮은 책이에요. 아예 모르는 사람에게는 적합하지 않고, 익히는 과정에 있는 사람들이 이런게 있구나 하는 전체적인 조망을 보는 데 유용한 책. 그런 책이에요.
 
+![책 표지 - 출처 : yes24](./ask-data/book_cover.jpg)
+
 주말 하루 시간을 잡으면 금방 읽을 수 있는 책이라 너무 무겁지 않아서 좋았어요.
+
+책 링크 : https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=188000067
