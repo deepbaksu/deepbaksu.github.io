@@ -1,7 +1,7 @@
 ---
-title: "비폭력대화"를 다시 읽다
-author: Hyunseok Jeong
+title: "비폭력대화를 다시 읽다"
 date: 2020-12-14 12:46:51
+author: Hyunseok Jeong
 tags:
   - Hyunseok Jeong
   - 대화

@@ -1,5 +1,5 @@
 ---
-title: 리팩터링 2판: 리팩터링 원칙
+title: 리팩터링 2판 - 리팩터링 원칙
 date: 2020-11-20 20:10:02
 author: Hyunseok Jeong
 tags:
