@@ -21,5 +21,5 @@ date: 2020-08-19 00:14:39
 ## 관련 자료
 
 - 개인 일정관리에 애자일을 끼얹으면? (박진우님) - https://www.slideshare.net/CurtPark1/agile-102881026
-- 딥백수 그리고 존버 (송진영님) - https://dl4ab.github.io/2020/08/16/jonber/
+- 딥백수 그리고 존버 (송진영님) - https://deepbaksu.github.io/2020/08/16/jonber/
 - Gap Year 및 쏘카 이직 이야기 (변성윤님) - https://zzsza.github.io/diary/2018/10/26/gap-year-and-socar/
