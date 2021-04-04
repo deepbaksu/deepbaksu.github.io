@@ -1,13 +1,13 @@
 # 딥백수 블로그
 
-![Deployment Check](https://github.com/dl4ab/dl4ab.github.io/workflows/Deployment%20Check/badge.svg)
+![Deployment Check](https://github.com/deepbaksu/deepbaksu.github.io/workflows/Deployment%20Check/badge.svg)
 
 GitHub page for 딥백수 입니다. [Hexo](https://hexo.io/docs/tag-plugins) 를 사용해 블로깅을 하고 있습니다. 사용 가능한 Hexo 태그들은 https://hexo.io/docs/tag-plugins 에서 확인해 주세요.
 
 ## 새로운 포스트 생성하기
 
 ```shell
-git clone https://github.com/dl4ab/dl4ab.github.io.git
+git clone https://github.com/deepbaksu/deepbaksu.github.io.git
 
 # 새로운 브랜치 생성
 git checkout -b branch_name
