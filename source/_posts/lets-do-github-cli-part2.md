@@ -25,8 +25,8 @@ gist 를 만져보며 GitHub CLI 에 대한 기대감이 커졌다. 이번에는
 
 두 명령은 같다. 장단점이나 차이를 모르겠다.
 
-    $ gh repo clone dl4ab/dl4ab.github.io
-    $ git clone http://github.com/dl4ab/dl4ab.github.io
+    $ gh repo clone deepbaksu/deepbaksu.github.io
+    $ git clone http://github.com/deepbaksu/deepbaksu.github.io
 
 ![clone repo](./lets-do-github-cli-part2/1.png)
 

@@ -29,7 +29,7 @@ tags:
 
 ## 프론트엔드
 
-배포하고자 하는 프로젝트가 전부 스태틱 파일이라면 이런 경우에 속합니다. 이런 경우 [GitHub Pages](https://pages.github.com/) 를 통해서 배포해주는게 제일 간편합니다. 예를 들어 현재 이 블로그는 https://github.com/dl4ab/dl4ab.github.io/tree/master 에서 GitHub pages 로 호스팅 되고 있습니다.
+배포하고자 하는 프로젝트가 전부 스태틱 파일이라면 이런 경우에 속합니다. 이런 경우 [GitHub Pages](https://pages.github.com/) 를 통해서 배포해주는게 제일 간편합니다. 예를 들어 현재 이 블로그는 https://github.com/deepbaksu/deepbaksu.github.io/tree/master 에서 GitHub pages 로 호스팅 되고 있습니다.
 
 예를 들어 오픈소스로 라이브러리를 만든다면 라이브러리에 대한 문서를 GitHub Pages 를 통해 배포하는 것이 일반적입니다.
 
