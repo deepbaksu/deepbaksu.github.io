@@ -1,41 +1,53 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <meta charset="utf-8">
-  <%- partial('google-analytics') %>
-  <%- partial('google-tagmanager') %>
-  <%
-  var title = page.title;
-
-  if (is_archive()){
-    title = __('archive_a');
-
-    if (is_month()){
-      title += ': ' + page.year + '/' + page.month;
-    } else if (is_year()){
-      title += ': ' + page.year;
-    }
-  } else if (is_category()){
-    title = __('category') + ': ' + page.category;
-  } else if (is_tag()){
-    title = __('tag') + ': ' + page.tag;
-  }
-  %>
-  <title><% if (title){ %><%= title %> | <% } %><%= config.title %></title>
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <%- open_graph({twitter_id: theme.twitter, google_plus: theme.google_plus, fb_admins: theme.fb_admins, fb_app_id: theme.fb_app_id}) %>
-  <% if (theme.rss){ %>
-    <link rel="alternate" href="<%= url_for(theme.rss) %>" title="<%= config.title %>" type="application/atom+xml">
-  <% } %>
-  <% if (theme.favicon){ %>
-    <link rel="icon" href="<%- theme.favicon %>">
-  <% } %>
-  <% if (config.highlight.enable){ %>
-    <link href="//fonts.googleapis.com/css?family=Source+Code+Pro" rel="stylesheet" type="text/css">
-  <% } %>
-  <link href="https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700;800&display=swap" rel="stylesheet">
-  <script src="https://kit.fontawesome.com/c112df9384.js" crossorigin="anonymous"></script>
-  <meta name="naver-site-verification" content="2940df2084492807092ef910b250ecf3a90a679f" />
-  <link href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.9.0/katex.min.css" rel="stylesheet" type="text/css">
-  <%- css('css/style') %>
-</head>
+  <head>
+    <meta charset="utf-8" />
+    <%- partial('google-analytics') %> <%- partial('google-tagmanager') %> <%
+    var title = page.title; if (is_archive()){ title = __('archive_a'); if
+    (is_month()){ title += ': ' + page.year + '/' + page.month; } else if
+    (is_year()){ title += ': ' + page.year; } } else if (is_category()){ title =
+    __('category') + ': ' + page.category; } else if (is_tag()){ title =
+    __('tag') + ': ' + page.tag; } %>
+    <title><% if (title){ %><%= title %> | <% } %><%= config.title %></title>
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, maximum-scale=1"
+    />
+    <%- open_graph({twitter_id: theme.twitter, google_plus: theme.google_plus,
+    fb_admins: theme.fb_admins, fb_app_id: theme.fb_app_id}) %> <% if
+    (theme.rss){ %>
+    <link
+      rel="alternate"
+      href="<%= url_for(theme.rss) %>"
+      title="<%= config.title %>"
+      type="application/atom+xml"
+    />
+    <% } %> <% if (theme.favicon){ %>
+    <link rel="icon" href="<%- theme.favicon %>" />
+    <% } %> <% if (config.highlight.enable){ %>
+    <link
+      href="//fonts.googleapis.com/css?family=Source+Code+Pro"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <% } %>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <script
+      src="https://kit.fontawesome.com/c112df9384.js"
+      crossorigin="anonymous"
+    ></script>
+    <meta
+      name="naver-site-verification"
+      content="e5b6f62f6f5f0eaac392f748172d143679f11ddb"
+    />
+    <link
+      href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.9.0/katex.min.css"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <%- css('css/style') %>
+  </head>
+</html>
