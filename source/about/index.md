@@ -14,7 +14,7 @@ date: 2020-08-19 00:14:39
 
 아래 링크를 통해 딥백수 슬랙에 들어오실 수 있습니다.
 
-- https://bit.ly/2Sqdnws
+- https://join.slack.com/t/deepbaksu/shared_invite/zt-89q9mtj6-bGVo9T5UhOWY8YArK24_gQ
 
 처음 방문하시는 분께서는 #자기소개 채널에 본인에 대한 소개를 간단히 남겨주세요.
 
