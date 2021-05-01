@@ -143,3 +143,5 @@ excerpt:
   excerpt_excludes: []
   more_excludes: []
   hideWholePostExcerpts: true
+
+all_minifer: true
