@@ -10,6 +10,14 @@ tags:
 
 gRPC를 통해 REST 서버를 만들어 보자. gRPC 클라이언트로 연결할 수 있으면 좋지만, REST가 보편적이기 때문에 REST API를 구현해줘야 할 필요가 있다. 또한, Heroku에서는 HTTP/2 를 지원하지 않기 때문에 gRPC 를 사용할 수 없어, 어쩔 수 없이 HTTP/1.1 REST API를 노출해줘야 한다.
 
+gRPC서버를 만들어놓으면
+
+- REST 서버
+- OpenAPI (Swagger)
+- OpenAPI 를 통한 클라이언트 코드
+
+가 자동으로 생기게 된다. Protocol Buffer를 사용하기에 타입에 대한 걱정도 없어진다.
+
 ## Why gRPC?
 
 gRPC는 Protocol Buffer를 사용해 정의한다. Protocol Buffer를 사용해서 정의해두면 클라이언트와 서버 코드 모두 생성 가능해 전송되는 데이터의 형식에 대해서 걱정하지 않아도 된다.
