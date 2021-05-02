@@ -127,7 +127,7 @@ func main() {
 
   addr := fmt.Sprintf(":%d", *port)
 
-  // grpc 서버 생성
+  // gRPC 서버 생성
   grpcServer := grpc.NewServer()
   v1.RegisterBlogServiceServer(grpcServer, &blogImpl{})
 
