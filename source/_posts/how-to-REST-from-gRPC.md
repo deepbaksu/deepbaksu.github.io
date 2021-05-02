@@ -189,4 +189,10 @@ $ curl -X 'GET' \
 }
 ```
 
+정리하면, gRPC 를 사용할 경우
+
+- 완전한 API First Development가 가능하다.
+- 인터페이스가 프로토콜버퍼에 정의되어 있어 클라이언트와 서버와 서로 잘못된 데이터를 사용하는 일이 없다.
+- 코드가 자동으로 생성되어 boilerplate 코드를 훨씬 줄일 수 있다.
+
 더 자세한 코드는 https://github.com/kkweon/grpc-rest-via-gateway 에서 볼 수 있다.
