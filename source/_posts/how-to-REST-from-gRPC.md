@@ -39,7 +39,7 @@ gRPC는 Protocol Buffer를 사용해 정의한다. Protocol Buffer를 사용해�
 ```
 
 또한, API를 먼저 protobuf로 정의해두어야 하기 때문에 API first development가 가능하다.
-거기에, OpenAPI 스펙 또한 생성 가능해서 Swagger Documentation 또한 쉽게 가능하다.
+거기에, OpenAPI 스펙 또한 생성 가능해서 Swagger Documentation이 쉽게 가능하다.
 
 ## How?
 
