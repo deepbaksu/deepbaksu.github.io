@@ -153,4 +153,40 @@ func main() {
 }
 ```
 
+그러면 완성이다. 서버를 실행한 후 REST API가 제대로 작동하는지 `curl` 을 사용해 확인할 수 있다.
+
+```shell
+$ curl -X 'POST' \
+  'https://grpc-gateway-example.herokuapp.com/v1/blog' \
+  -H 'accept: application/json' \
+  -H 'Content-Type: application/json' \
+  -d '{
+  "content": "내용 내용 내용"
+}'
+
+{
+  "post": {
+    "id": "1619938066293158896",
+    "content": "내용 내용 내용",
+    "createdAt": "2021-05-02T06:47:46.293159328Z"
+  }
+}
+```
+
+```shell
+$ curl -X 'GET' \
+  'https://grpc-gateway-example.herokuapp.com/v1/blog' \
+  -H 'accept: application/json'
+
+{
+  "posts": [
+    {
+      "id": "1619938066293158896",
+      "content": "내용 내용 내용",
+      "createdAt": "2021-05-02T06:47:46.293159328Z"
+    }
+  ]
+}
+```
+
 더 자세한 코드는 https://github.com/kkweon/grpc-rest-via-gateway 에서 볼 수 있다.
