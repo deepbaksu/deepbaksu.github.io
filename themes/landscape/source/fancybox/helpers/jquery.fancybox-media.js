@@ -89,7 +89,8 @@
   F.helpers.media = {
     defaults: {
       youtube: {
-        matcher: /(youtube\.com|youtu\.be|youtube-nocookie\.com)\/(watch\?v=|v\/|u\/|embed\/?)?(videoseries\?list=(.*)|[\w-]{11}|\?listType=(.*)&list=(.*)).*/i,
+        matcher:
+          /(youtube\.com|youtu\.be|youtube-nocookie\.com)\/(watch\?v=|v\/|u\/|embed\/?)?(videoseries\?list=(.*)|[\w-]{11}|\?listType=(.*)&list=(.*)).*/i,
         params: {
           autoplay: 1,
           autohide: 1,
@@ -145,7 +146,8 @@
         url: "//www.twitvid.com/embed.php?guid=$1",
       },
       twitpic: {
-        matcher: /twitpic\.com\/(?!(?:place|photos|events)\/)([a-zA-Z0-9\?\=\-]+)/i,
+        matcher:
+          /twitpic\.com\/(?!(?:place|photos|events)\/)([a-zA-Z0-9\?\=\-]+)/i,
         type: "image",
         url: "//twitpic.com/show/full/$1/",
       },
