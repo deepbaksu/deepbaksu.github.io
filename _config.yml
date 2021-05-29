@@ -52,7 +52,14 @@ external_link:
   exclude: ""
 filename_case: 0
 render_drafts: false
+
+# https://hexo.io/docs/asset-folders.html#Embedding-an-image-using-markdown
+# To allow embedding images in the markdown
 post_asset_folder: true
+marked:
+  prependRoot: true
+  postAsset: true
+
 relative_link: false
 future: true
 highlight:
@@ -145,3 +152,12 @@ excerpt:
   hideWholePostExcerpts: true
 
 all_minifer: true
+
+image_minifier:
+  enable: true
+  interlaced: false
+  multipass: false
+  optimizationLevel: 2
+  pngquant: false
+  progressive: false
+  silent: false
