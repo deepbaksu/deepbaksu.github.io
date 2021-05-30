@@ -5,8 +5,8 @@ on:
     branches: [source]
   pull_request:
   schedule:
-    # run every 30 minutes
-    - cron: "*/30 * * * *"
+    # Daily noon UTC, 5pm PST, 9am KST
+    - cron: "0 12 * * *"
 
 jobs:
   build:
