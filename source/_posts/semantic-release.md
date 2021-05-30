@@ -9,10 +9,7 @@ tags:
 
 ![시멘틱 릴리즈를 통한 CHANGELOG 및 GitHub Release 자동화](./semantic-release/github-release-with-changelog.png)
 
-시맨틱 버전(semantic version)이라는 단어를 들어 보았을 것이다. 개념은 어렵지 않지만 막상 시맨틱 버전에 맞추어 릴리즈 하기란
-쉽지 않다. 왜냐하면 그동안 커밋 목록들을 살펴보고 호환성을 깨트리는 커밋이 있었는지 확인하고 버전을 결정해야 되기 때문이다. 그래서, 이
-글에서는 [시맨틱 릴리즈(semantic release)](https://semantic-release.gitbook.io/semantic-release/)라는 도구를 사용하여 시맨틱
-버전을 자동화 하는 방법을 소개하고 있다. 시멘틱 릴리즈가 무엇인지 설명하기에 앞서 시멘틱 버전이 무엇인지 알아야 한다.
+시맨틱 버전(semantic version)이라는 단어를 들어 보았을 것이다. 개념은 어렵지 않지만 막상 시맨틱 버전에 맞추어 릴리즈 하기란 쉽지 않다. 왜냐하면 그동안 커밋 목록들을 살펴보고 호환성을 깨트리는 커밋이 있었는지 확인하고 버전을 결정해야 되기 때문이다. 그래서, 이 글에서는 [시맨틱 릴리즈(semantic release)](https://semantic-release.gitbook.io/semantic-release/)라는 도구를 사용하여 시맨틱 버전을 자동화 하는 방법을 소개하고 있다. 시멘틱 릴리즈가 무엇인지 설명하기에 앞서 시멘틱 버전이 무엇인지 알아야 한다.
 
 ## 시멘틱 버전
 
@@ -39,8 +36,7 @@ _시맨틱 릴리즈_ 란 커밋 메시지를 일관적으로 작성하여 이 _
 
 ## 컨벤셔널 커밋
 
-이때 커밋 메시지를 일관적으로 작성한다는 것은 AngularJS 커밋메시지 규칙을 바탕으로한 컨벤셔널
-커밋(https://www.conventionalcommits.org)을 의미한다.
+이때 커밋 메시지를 일관적으로 작성한다는 것은 AngularJS 커밋메시지 규칙을 바탕으로한 컨벤셔널 커밋(https://www.conventionalcommits.org)을 의미한다.
 
 컨벤션널 커밋은 사람과 기계 모두 이해할 수 있는 커밋메시지를 작성하기 위한 스펙을 말한다.
 
