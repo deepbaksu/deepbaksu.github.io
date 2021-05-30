@@ -67,6 +67,20 @@ Refs #133
 
 가장 첫번째 줄에 `fix:` 키워드를 통해 해당 커밋은 버그 수정임을 알 수 있다.
 
+타입은 프로젝트마다 조금씩 다를 순 있으나 `fix`와 `feat`가 가장 중요한 단어이다.
+
+일반적으로 [오리지널문서에서 정의된 타입](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md#type)을 사용한다.
+
+- build: Changes that affect the build system or external dependencies (example scopes: gulp, broccoli, npm)
+- ci: Changes to our CI configuration files and scripts (example scopes: Travis, Circle, BrowserStack, SauceLabs)
+- docs: Documentation only changes
+- feat: A new feature
+- fix: A bug fix
+- perf: A code change that improves performance
+- refactor: A code change that neither fixes a bug nor adds a feature
+- style: Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)
+- test: Adding missing tests or correcting existing tests
+
 이제 각 커밋을 컨벤셔널 커밋에 맞게 작성했을때, 다음과 같은 커밋 로그를 살펴보자.
 
 ### PATCH 업데이트
