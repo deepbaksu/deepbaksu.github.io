@@ -7,7 +7,7 @@ tags:
   - semantic version
 ---
 
-![시멘틱 릴리즈를 통한 CHANGELOG 및 GitHub Release 자동화](./semantic-release/github-release-with-changelog-resized.png)
+![시멘틱 릴리즈를 통한 CHANGELOG 및 GitHub Release 자동화](./semantic-release/github-release-with-changelog.png)
 
 시맨틱 버전(semantic version)이라는 단어를 들어 보았을 것이다. 개념은 어렵지 않지만 막상 시맨틱 버전에 맞추어 릴리즈 하기란
 쉽지 않다. 왜냐하면 그동안 커밋 목록들을 살펴보고 호환성을 깨트리는 커밋이 있었는지 확인하고 버전을 결정해야 되기 때문이다. 그래서, 이
