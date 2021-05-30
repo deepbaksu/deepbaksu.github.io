@@ -1,5 +1,5 @@
 ---
-title: 벤셔널 커밋을 이용한 CHANGELOG 및 시멘틱 버저닝(Semantic Versioning) 자동화
+title: 컨벤셔널 커밋을 이용한 CHANGELOG 및 시멘틱 버저닝(Semantic Versioning) 자동화
 date: 2021-05-29 15:47:46
 author: Mo Kweon
 tags:
