@@ -1,0 +1,179 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>딥백수 • Posts by &#34;cqrs&#34; tag</title>
+        <link>https://deepbaksu.github.io</link>
+        <description>우리는 &#39;지속가능한 백수질&#39;을 지향합니다. 고로 외롭게 공부하고 있을 당신을 응원합니다. 딥러닝에 관련된 글 뿐만 아니라, 백수생활의 넋두리도 환영합니다.</description>
+        <language>ko</language>
+        <pubDate>Sat, 15 Aug 2020 11:56:22 +0000</pubDate>
+        <lastBuildDate>Sat, 15 Aug 2020 11:56:22 +0000</lastBuildDate>
+        <category>Mo Kweon</category>
+        <category>go</category>
+        <category>golang</category>
+        <category>dependency injection</category>
+        <category>wire</category>
+        <category>uber-go</category>
+        <category>fx</category>
+        <category>Hyunggi Chang</category>
+        <category>AI</category>
+        <category>딥러닝</category>
+        <category>로보틱스</category>
+        <category>YouTube</category>
+        <category>News</category>
+        <category>Hyunseok Jeong</category>
+        <category>Software Architecture</category>
+        <category>Agile</category>
+        <category>Architect</category>
+        <category>Jinyoung Song</category>
+        <category>데이터분석</category>
+        <category>통계분석</category>
+        <category>통계학</category>
+        <category>통계역사</category>
+        <category>비트코인</category>
+        <category>제국주의</category>
+        <category>미래전망</category>
+        <category>플랫폼전략</category>
+        <category>디지털자산</category>
+        <category>microservice</category>
+        <category>CQRS</category>
+        <category>architecture</category>
+        <category>software engineering</category>
+        <category>선지원</category>
+        <category>후고민</category>
+        <category>선지원 후고민</category>
+        <category>실험</category>
+        <category>Apply Driven Study</category>
+        <category>생존</category>
+        <category>멘토링</category>
+        <category>용기</category>
+        <category>free web server</category>
+        <category>heroku</category>
+        <category>aws</category>
+        <category>gcp</category>
+        <category>netlify</category>
+        <category>github actions</category>
+        <category>구글애널리틱스</category>
+        <category>GA</category>
+        <category>Google Analytics</category>
+        <category>Data Analysis</category>
+        <category>Web Log Analysis</category>
+        <category>Happy working</category>
+        <category>Mindfulness</category>
+        <category>Noble Eightfold Path</category>
+        <category>gRPC</category>
+        <category>Go</category>
+        <category>REST</category>
+        <category>존버</category>
+        <category>jonber</category>
+        <category>딥백수</category>
+        <category>회고</category>
+        <category>bluehole</category>
+        <category>krafton</category>
+        <category>communication</category>
+        <category>GitHub CLI</category>
+        <category>Gist</category>
+        <category>Leaning by Doing</category>
+        <category>Repo</category>
+        <category>Alias</category>
+        <category>습관</category>
+        <category>중용</category>
+        <category>꾸준함</category>
+        <category>성실</category>
+        <category>대화</category>
+        <category>비폭력대화</category>
+        <category>Golang</category>
+        <category>Slice</category>
+        <category>example</category>
+        <category>Windows</category>
+        <category>PowerShell</category>
+        <category>PowerShell script</category>
+        <category>Git</category>
+        <category>Prompt</category>
+        <category>Martin Fowler</category>
+        <category>Refactoring</category>
+        <category>Principles</category>
+        <category>파이썬</category>
+        <category>실무</category>
+        <category>데이터분석 실무</category>
+        <category>네트워크 분석</category>
+        <category>최적화</category>
+        <category>시뮬레이션</category>
+        <category>자연어처리</category>
+        <category>회귀</category>
+        <category>예측 분석</category>
+        <category>semantic release</category>
+        <category>semantic version</category>
+        <category>slack</category>
+        <category>bot</category>
+        <category>oauth</category>
+        <category>Github Action</category>
+        <category>Slack</category>
+        <category>Automation</category>
+        <category>자동화</category>
+        <category>cron</category>
+        <category>Seunghwan Chang</category>
+        <category>English</category>
+        <category>would</category>
+        <category>ppt</category>
+        <category>발표</category>
+        <category>consulting</category>
+        <category>보고서</category>
+        <category>파워포인트</category>
+        <category>PT고자</category>
+        <category>ppt고자</category>
+        <category>ppt공포</category>
+        <category>슬라이드</category>
+        <category>Martin Hwang</category>
+        <category>Ray</category>
+        <category>distributed computing</category>
+        <category>parallel computing</category>
+        <item>
+            <guid isPermalink="true">https://deepbaksu.github.io/2020/08/15/cqrs/</guid>
+            <title>Command Query Responsibility Segregation</title>
+            <link>https://deepbaksu.github.io/2020/08/15/cqrs/</link>
+            <category>Mo Kweon</category>
+            <category>microservice</category>
+            <category>CQRS</category>
+            <category>architecture</category>
+            <category>software engineering</category>
+            <pubDate>Sat, 15 Aug 2020 11:56:22 +0000</pubDate>
+            <description><![CDATA[ &lt;p&gt;제가 서비스를 만들 때 가장 좋아하는 패턴인 &lt;abbr title=&#34;Command Query Responsibility Segregation&#34;&gt;CQRS&lt;/abbr&gt; 에 대해서 적어보겠습니다.&lt;/p&gt;
+&lt;h2 id=&#34;cqrs란&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#cqrs란&#34;&gt;&lt;/a&gt; CQRS란?&lt;/h2&gt;
+&lt;p&gt;원 단어를 보면 어려우 것 같지만 쉽게 얘기하면 &lt;code&gt;read&lt;/code&gt; 와 &lt;code&gt;write&lt;/code&gt; operation 을 나누어서 서비스를 만드는 것을 의미합니다. 특히 일반적으로 event sourcing 과 함께 구현됩니다.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/08/15/cqrs/cqrs_diagram.svg&#34; alt=&#34;CQRS Diagram&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;왜-사용하는가&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#왜-사용하는가&#34;&gt;&lt;/a&gt; 왜 사용하는가?&lt;/h2&gt;
+&lt;p&gt;쓰는 작업과 읽는 작업이 분리가 되있을 경우 (많은 서비스가 그러합니다) 한 서비스에서 둘다 처리할 경우 유용합니다. 만약에 한 서비스에서 처리하는데 쓰는 작업에 어떤 문제가 발생할 경우 읽는 작업 또한 불가능해지게 될 것입니다.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/08/15/cqrs/dead_cqrs.svg&#34; alt=&#34;Dead Service Monolithic&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;또 쓰는 작업은 트래픽의 &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mn&gt;0.01&lt;/mn&gt;&lt;mi mathvariant=&#34;normal&#34;&gt;%&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;0.01\%&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.80556em;vertical-align:-0.05556em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;%&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; 정도 밖에 안되고 읽는 서비스가 대부분의 트래픽을 차지할 수 도 있습니다.&lt;/p&gt;
+&lt;h2 id=&#34;예시&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#예시&#34;&gt;&lt;/a&gt; 예시&lt;/h2&gt;
+&lt;p&gt;CQRS 을 &lt;a href=&#34;https://youtube.com/premium&#34;&gt;YouTube Premium&lt;/a&gt; 서비스를 사용해 예시를 들어보도록 하겠습니다.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.gstatic.com/youtube/img/promos/growth/ytr_lp2_logo_premium_desktop_552x71.png&#34; alt=&#34;YouTube Premium&#34; /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;functional-requirements&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#functional-requirements&#34;&gt;&lt;/a&gt; Functional Requirements&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;유저는 Youtube Premium 을 signup 할 수 있습니다.&lt;/li&gt;
+&lt;li&gt;YouTube Premium 유저는 광고를 스킵합니다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;위 요구사항을 통해 다음과 같이 두개의 서비스로 나타낼 수 있습니다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Premium Service
+&lt;ul&gt;
+&lt;li&gt;실제 Premium 회원 가입을 받는 서비스&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Premium Access Service
+&lt;ul&gt;
+&lt;li&gt;Premium Access 를 가진 유저인지 확인하는 서비스&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/08/15/cqrs/premium_service.svg&#34; alt=&#34;Premium Service Diagram&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;어느 날 무슨 이유로 Premium Service 가 다운 됬을 경우에도 기존의 Premium User들은 아무 문제 없이 광고 없이 동영상 시청이 가능합니다.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/08/15/cqrs/premium_service_down.svg&#34; alt=&#34;Premium Service is down&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;실제로도 이런 CQRS 패턴을 사용해 구현되어 있습니다.&lt;/p&gt;
+&lt;h2 id=&#34;sync&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#sync&#34;&gt;&lt;/a&gt; Sync&lt;/h2&gt;
+&lt;p&gt;그럼 이제 문제는 Query의 DB와 Command를 받는 DB의 consistency 를 어떻게 유지하는지가 관건일 것입니다. 이 문제는 &lt;a href=&#34;https://microservices.io/patterns/data/event-sourcing.html&#34;&gt;event sourcing&lt;/a&gt; 패턴을 사용합니다. 이벤트소싱에 대해서는 다음 포스트에서 쓰도록 하겠습니다.&lt;/p&gt;
+&lt;p&gt;오신 김에 딥백수 그룹에 관심 있으신 분들은 &lt;a href=&#34;/about&#34;&gt;소개 페이지&lt;/a&gt; 를 방문해주세요!&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

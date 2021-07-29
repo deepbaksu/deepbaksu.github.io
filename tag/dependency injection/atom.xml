@@ -1,0 +1,176 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://deepbaksu.github.io</id>
+    <title>딥백수 • Posts by &#34;dependency injection&#34; tag</title>
+    <link href="https://deepbaksu.github.io" />
+    <updated>2020-08-21T15:15:25.000Z</updated>
+    <category term="Mo Kweon" />
+    <category term="go" />
+    <category term="golang" />
+    <category term="dependency injection" />
+    <category term="wire" />
+    <category term="uber-go" />
+    <category term="fx" />
+    <category term="Hyunggi Chang" />
+    <category term="AI" />
+    <category term="딥러닝" />
+    <category term="로보틱스" />
+    <category term="YouTube" />
+    <category term="News" />
+    <category term="Hyunseok Jeong" />
+    <category term="Software Architecture" />
+    <category term="Agile" />
+    <category term="Architect" />
+    <category term="Jinyoung Song" />
+    <category term="데이터분석" />
+    <category term="통계분석" />
+    <category term="통계학" />
+    <category term="통계역사" />
+    <category term="비트코인" />
+    <category term="제국주의" />
+    <category term="미래전망" />
+    <category term="플랫폼전략" />
+    <category term="디지털자산" />
+    <category term="microservice" />
+    <category term="CQRS" />
+    <category term="architecture" />
+    <category term="software engineering" />
+    <category term="선지원" />
+    <category term="후고민" />
+    <category term="선지원 후고민" />
+    <category term="실험" />
+    <category term="Apply Driven Study" />
+    <category term="생존" />
+    <category term="멘토링" />
+    <category term="용기" />
+    <category term="free web server" />
+    <category term="heroku" />
+    <category term="aws" />
+    <category term="gcp" />
+    <category term="netlify" />
+    <category term="github actions" />
+    <category term="구글애널리틱스" />
+    <category term="GA" />
+    <category term="Google Analytics" />
+    <category term="Data Analysis" />
+    <category term="Web Log Analysis" />
+    <category term="Happy working" />
+    <category term="Mindfulness" />
+    <category term="Noble Eightfold Path" />
+    <category term="gRPC" />
+    <category term="Go" />
+    <category term="REST" />
+    <category term="존버" />
+    <category term="jonber" />
+    <category term="딥백수" />
+    <category term="회고" />
+    <category term="bluehole" />
+    <category term="krafton" />
+    <category term="communication" />
+    <category term="GitHub CLI" />
+    <category term="Gist" />
+    <category term="Leaning by Doing" />
+    <category term="Repo" />
+    <category term="Alias" />
+    <category term="습관" />
+    <category term="중용" />
+    <category term="꾸준함" />
+    <category term="성실" />
+    <category term="대화" />
+    <category term="비폭력대화" />
+    <category term="Golang" />
+    <category term="Slice" />
+    <category term="example" />
+    <category term="Windows" />
+    <category term="PowerShell" />
+    <category term="PowerShell script" />
+    <category term="Git" />
+    <category term="Prompt" />
+    <category term="Martin Fowler" />
+    <category term="Refactoring" />
+    <category term="Principles" />
+    <category term="파이썬" />
+    <category term="실무" />
+    <category term="데이터분석 실무" />
+    <category term="네트워크 분석" />
+    <category term="최적화" />
+    <category term="시뮬레이션" />
+    <category term="자연어처리" />
+    <category term="회귀" />
+    <category term="예측 분석" />
+    <category term="semantic release" />
+    <category term="semantic version" />
+    <category term="slack" />
+    <category term="bot" />
+    <category term="oauth" />
+    <category term="Github Action" />
+    <category term="Slack" />
+    <category term="Automation" />
+    <category term="자동화" />
+    <category term="cron" />
+    <category term="Seunghwan Chang" />
+    <category term="English" />
+    <category term="would" />
+    <category term="ppt" />
+    <category term="발표" />
+    <category term="consulting" />
+    <category term="보고서" />
+    <category term="파워포인트" />
+    <category term="PT고자" />
+    <category term="ppt고자" />
+    <category term="ppt공포" />
+    <category term="슬라이드" />
+    <category term="Martin Hwang" />
+    <category term="Ray" />
+    <category term="distributed computing" />
+    <category term="parallel computing" />
+    <entry>
+        <id>https://deepbaksu.github.io/2020/08/21/Go-wire-dependency-injection-tutorial/</id>
+        <title>Go Dependency Injection Tutorial (feat. Wire)</title>
+        <link rel="alternate" href="https://deepbaksu.github.io/2020/08/21/Go-wire-dependency-injection-tutorial/"/>
+        <content type="html">&lt;p&gt;Dependency Injection(DI)을 한국어로 의존성 주입이라고도 하지만 실제로는 DI라고 했을때 우리는 DI Framework/Library 를 의미합니다. 우선 Dependency Injection 이 무엇인지 에 대해 설명하겠습니다.&lt;/p&gt;
+&lt;p&gt;예를 들어 &lt;code&gt;PostService&lt;/code&gt; 는 블로그 포스트를 작성해주는 서비스가 있다고 가정합니다.&lt;/p&gt;
+&lt;figure class=&#34;highlight golang&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;type&lt;/span&gt; PostService &lt;span class=&#34;keyword&#34;&gt;interface&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  CreatePost(Post) Post&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;이때 우리는 블로그 포스트를 데이터베이스에 저장하고 싶습니다. 그러기 위해서 &lt;code&gt;CreatePost(Post)&lt;/code&gt; 함수 안에서&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;데이터베이스에 연결하고&lt;/li&gt;
+&lt;li&gt;Post 를 INSERT 한다.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;이런식으로 할 수 도 있습니다. 하지만 이런식으로 하기보다는 비지니스 로직과 데이터베이스를 다루는 코드를 분리하여 데이터베이스에 저장하는 코드는 &lt;code&gt;PostRepository&lt;/code&gt; 에 대행시킬 것입니다.&lt;/p&gt;
+&lt;figure class=&#34;highlight golang&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;type&lt;/span&gt; PostRepository &lt;span class=&#34;keyword&#34;&gt;interface&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  StorePost(Post) &lt;span class=&#34;keyword&#34;&gt;bool&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/08/21/Go-wire-dependency-injection-tutorial/architecture.jpg&#34; alt=&#34;Architecture&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;즉 보시다싶이 &lt;code&gt;PostService&lt;/code&gt; 가 &lt;code&gt;PostRepository&lt;/code&gt; 에 의존하고 있습니다.&lt;br /&gt;
+그러면 &lt;code&gt;PostService&lt;/code&gt; 를 생성하기 위해 다음과 같은 코드를 작성할 것입니다.&lt;/p&gt;
+&lt;figure class=&#34;highlight go&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;func&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;NewPostService&lt;/span&gt;&lt;span class=&#34;params&#34;&gt;(repo PostRepository)&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;PostService&lt;/span&gt;&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	&lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; &amp;amp;postService&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		Repo: repo,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;이게 Dependency Injection 입니다. 이때 만약 Postgres가 아니라 Sqlite 나 심지어 메모리에 저장하고 싶으면 어떻게 될까요? 그에 해당하는 PostRepository 객체를 바꿔껴주기만 하면 됩니다.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/08/21/Go-wire-dependency-injection-tutorial/different_repository.svg&#34; alt=&#34;InMemoryPostRepository&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;이렇게 의존성이 간단하면 Dependency Injection 프레임워크가 없더라도 손으로 Dependency Injection 설계도 가능합니다. 하지만 이렇게 의존하는 서비스가 많아진다면?&lt;/p&gt;
+&lt;figure class=&#34;highlight go&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;func&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;NewPostService&lt;/span&gt;&lt;span class=&#34;params&#34;&gt;(someService SomeService, otherService OtherService, repo PostRepository, ...)&lt;/span&gt;&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;comment&#34;&gt;// ...&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&#34;highlight go&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;// main.go&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;func&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;main&lt;/span&gt;&lt;span class=&#34;params&#34;&gt;()&lt;/span&gt;&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  otherSerivce := NewOtherService(&lt;span class=&#34;string&#34;&gt;&amp;quot;secret&amp;quot;&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  someService := NewSomeService(otherService)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  postRepository := NewPostRepository(&lt;span class=&#34;string&#34;&gt;&amp;quot;dburl&amp;quot;&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  potService := NewPostService(someService, otherService, postRepository)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;comment&#34;&gt;// ...&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;일일히 손으로 바꿔주는게 매우 귀찮고 손이 많이갑니다. 순서도 맞춰줘야 되고 argument 위치나 귀찮은게 한두가지가 아닙니다. 이걸 자동으로 해주는 것이 바로 Dependency Injection Framework 이고 Go 에서는 &lt;a href=&#34;https://github.com/google/wire&#34;&gt;wire&lt;/a&gt; 와 &lt;a href=&#34;https://github.com/uber-go/fx&#34;&gt;fx&lt;/a&gt; 가 있습니다.&lt;/p&gt;
+&lt;h2 id=&#34;준비물&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#준비물&#34;&gt;&lt;/a&gt; 준비물&lt;/h2&gt;
+&lt;p&gt;여기서는 구글의 &lt;a href=&#34;https://github.com/google/wire&#34;&gt;wire&lt;/a&gt; 를 사용하도록 하겠습니다.&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;go get github.com/google/wire/cmd/wire&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;프로젝트-구조&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#프로젝트-구조&#34;&gt;&lt;/a&gt; 프로젝트 구조&lt;/h2&gt;
+&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;├── cmd&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;│   └── server.go&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;├── go.mod&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;├── go.sum&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;├── module&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;│   └── wire.go&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;└── post&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    ├── postrepository.go&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    └── postservice.go&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3 directories, 6 files&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;각 &lt;code&gt;postservice.go&lt;/code&gt; 와 &lt;code&gt;postrepository.go&lt;/code&gt; 파일은 이전에서 본것과 동일합니다.&lt;/p&gt;
+&lt;figure class=&#34;highlight golang&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;// postservice.go&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;package&lt;/span&gt; post&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;// (skip)&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;// PostService 를 생성하는 factory function&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;func&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;NewPostService&lt;/span&gt;&lt;span class=&#34;params&#34;&gt;(repository PostRepository)&lt;/span&gt; *&lt;span class=&#34;title&#34;&gt;PostService&lt;/span&gt;&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	&lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; &amp;amp;PostService&amp;#123;Repo: repository&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&#34;highlight golang&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;// postrepository.go&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;package&lt;/span&gt; post&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;type&lt;/span&gt; PostRepository &lt;span class=&#34;keyword&#34;&gt;interface&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	StorePost(Post) &lt;span class=&#34;keyword&#34;&gt;bool&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;type&lt;/span&gt; InMemoryPostRepository &lt;span class=&#34;keyword&#34;&gt;struct&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	cache &lt;span class=&#34;keyword&#34;&gt;map&lt;/span&gt;[&lt;span class=&#34;keyword&#34;&gt;string&lt;/span&gt;]Post&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;func&lt;/span&gt; &lt;span class=&#34;params&#34;&gt;(i *InMemoryPostRepository)&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;StorePost&lt;/span&gt;&lt;span class=&#34;params&#34;&gt;(post Post)&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;bool&lt;/span&gt;&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	i.cache[post.id] = post&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	&lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;// 인메모리 포스트리포지토리를 생성하는 팩토리 함수&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;func&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;NewInMemoryPostRepository&lt;/span&gt;&lt;span class=&#34;params&#34;&gt;()&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;PostRepository&lt;/span&gt;&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	&lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; &amp;amp;InMemoryPostRepository&amp;#123;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;이제 &lt;code&gt;module/wire.go&lt;/code&gt; 파일은 다음과 같습니다.&lt;/p&gt;
+&lt;figure class=&#34;highlight golang&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;//+build wireinject  &amp;lt;--- 매우 중요&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;package&lt;/span&gt; module&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;import&lt;/span&gt; (&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	&lt;span class=&#34;string&#34;&gt;&amp;quot;example/post&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	&lt;span class=&#34;string&#34;&gt;&amp;quot;github.com/google/wire&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;func&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;InitializePostService&lt;/span&gt;&lt;span class=&#34;params&#34;&gt;()&lt;/span&gt; *&lt;span class=&#34;title&#34;&gt;post&lt;/span&gt;.&lt;span class=&#34;title&#34;&gt;PostService&lt;/span&gt;&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	wire.Build(post.NewInMemoryPostRepository, post.NewPostService) &lt;span class=&#34;comment&#34;&gt;// &amp;lt;-- Factory 함수들&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	&lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; &amp;amp;post.PostService&amp;#123;&amp;#125; &lt;span class=&#34;comment&#34;&gt;// &amp;lt;-- Return Type을 마추기 위한 더미로 중요하지 않음&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;이제 shell 에서 &lt;code&gt;wire&lt;/code&gt; 커맨드를 치면 코드가 생성이 됩니다.&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;wire module/wire.go&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;아래는 생성된 코드입니다. &lt;code&gt;PostRepository&lt;/code&gt; 와 &lt;code&gt;PostService&lt;/code&gt; 가 올바른 순서로 생성된 것을 볼 수 있습니다.&lt;/p&gt;
+&lt;figure class=&#34;highlight golang&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;func&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;InitializePostService&lt;/span&gt;&lt;span class=&#34;params&#34;&gt;()&lt;/span&gt; *&lt;span class=&#34;title&#34;&gt;post&lt;/span&gt;.&lt;span class=&#34;title&#34;&gt;PostService&lt;/span&gt;&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	postRepository := post.NewInMemoryPostRepository()&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	postService := post.NewPostService(postRepository)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	&lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; postService&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;자세한 내용은 &lt;a href=&#34;https://bit.ly/2Sqdnws&#34;&gt;https://bit.ly/2Sqdnws&lt;/a&gt; 에 참여하셔서 문의주세요 😄&lt;/p&gt;
+</content>
+        <category term="Mo Kweon" />
+        <category term="go" />
+        <category term="golang" />
+        <category term="dependency injection" />
+        <category term="wire" />
+        <category term="uber-go" />
+        <category term="fx" />
+        <updated>2020-08-21T15:15:25.000Z</updated>
+    </entry>
+</feed>

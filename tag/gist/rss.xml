@@ -1,0 +1,219 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>딥백수 • Posts by &#34;gist&#34; tag</title>
+        <link>https://deepbaksu.github.io</link>
+        <description>우리는 &#39;지속가능한 백수질&#39;을 지향합니다. 고로 외롭게 공부하고 있을 당신을 응원합니다. 딥러닝에 관련된 글 뿐만 아니라, 백수생활의 넋두리도 환영합니다.</description>
+        <language>ko</language>
+        <pubDate>Mon, 21 Sep 2020 10:42:32 +0000</pubDate>
+        <lastBuildDate>Mon, 21 Sep 2020 10:42:32 +0000</lastBuildDate>
+        <category>Mo Kweon</category>
+        <category>go</category>
+        <category>golang</category>
+        <category>dependency injection</category>
+        <category>wire</category>
+        <category>uber-go</category>
+        <category>fx</category>
+        <category>Hyunggi Chang</category>
+        <category>AI</category>
+        <category>딥러닝</category>
+        <category>로보틱스</category>
+        <category>YouTube</category>
+        <category>News</category>
+        <category>Hyunseok Jeong</category>
+        <category>Software Architecture</category>
+        <category>Agile</category>
+        <category>Architect</category>
+        <category>Jinyoung Song</category>
+        <category>데이터분석</category>
+        <category>통계분석</category>
+        <category>통계학</category>
+        <category>통계역사</category>
+        <category>비트코인</category>
+        <category>제국주의</category>
+        <category>미래전망</category>
+        <category>플랫폼전략</category>
+        <category>디지털자산</category>
+        <category>microservice</category>
+        <category>CQRS</category>
+        <category>architecture</category>
+        <category>software engineering</category>
+        <category>선지원</category>
+        <category>후고민</category>
+        <category>선지원 후고민</category>
+        <category>실험</category>
+        <category>Apply Driven Study</category>
+        <category>생존</category>
+        <category>멘토링</category>
+        <category>용기</category>
+        <category>free web server</category>
+        <category>heroku</category>
+        <category>aws</category>
+        <category>gcp</category>
+        <category>netlify</category>
+        <category>github actions</category>
+        <category>구글애널리틱스</category>
+        <category>GA</category>
+        <category>Google Analytics</category>
+        <category>Data Analysis</category>
+        <category>Web Log Analysis</category>
+        <category>Happy working</category>
+        <category>Mindfulness</category>
+        <category>Noble Eightfold Path</category>
+        <category>gRPC</category>
+        <category>Go</category>
+        <category>REST</category>
+        <category>존버</category>
+        <category>jonber</category>
+        <category>딥백수</category>
+        <category>회고</category>
+        <category>bluehole</category>
+        <category>krafton</category>
+        <category>communication</category>
+        <category>GitHub CLI</category>
+        <category>Gist</category>
+        <category>Leaning by Doing</category>
+        <category>Repo</category>
+        <category>Alias</category>
+        <category>습관</category>
+        <category>중용</category>
+        <category>꾸준함</category>
+        <category>성실</category>
+        <category>대화</category>
+        <category>비폭력대화</category>
+        <category>Golang</category>
+        <category>Slice</category>
+        <category>example</category>
+        <category>Windows</category>
+        <category>PowerShell</category>
+        <category>PowerShell script</category>
+        <category>Git</category>
+        <category>Prompt</category>
+        <category>Martin Fowler</category>
+        <category>Refactoring</category>
+        <category>Principles</category>
+        <category>파이썬</category>
+        <category>실무</category>
+        <category>데이터분석 실무</category>
+        <category>네트워크 분석</category>
+        <category>최적화</category>
+        <category>시뮬레이션</category>
+        <category>자연어처리</category>
+        <category>회귀</category>
+        <category>예측 분석</category>
+        <category>semantic release</category>
+        <category>semantic version</category>
+        <category>slack</category>
+        <category>bot</category>
+        <category>oauth</category>
+        <category>Github Action</category>
+        <category>Slack</category>
+        <category>Automation</category>
+        <category>자동화</category>
+        <category>cron</category>
+        <category>Seunghwan Chang</category>
+        <category>English</category>
+        <category>would</category>
+        <category>ppt</category>
+        <category>발표</category>
+        <category>consulting</category>
+        <category>보고서</category>
+        <category>파워포인트</category>
+        <category>PT고자</category>
+        <category>ppt고자</category>
+        <category>ppt공포</category>
+        <category>슬라이드</category>
+        <category>Martin Hwang</category>
+        <category>Ray</category>
+        <category>distributed computing</category>
+        <category>parallel computing</category>
+        <item>
+            <guid isPermalink="true">https://deepbaksu.github.io/2020/09/21/lets-do-github-cli-part1/</guid>
+            <title>GitHub CLI 를 만져보자 - 1</title>
+            <link>https://deepbaksu.github.io/2020/09/21/lets-do-github-cli-part1/</link>
+            <category>Hyunseok Jeong</category>
+            <category>GitHub CLI</category>
+            <category>Gist</category>
+            <category>Leaning by Doing</category>
+            <pubDate>Mon, 21 Sep 2020 10:42:32 +0000</pubDate>
+            <description><![CDATA[ &lt;p&gt;GitHub CLI 가 나왔다 한다.&lt;br /&gt;
+GitHub 을 이용해 본격적인 협업을 하지는 않지만 백업 용도로 잘 쓰고 있기에 이런 저런 기능이 있구나 하고 넘어가기 보다는 나의 용도에 적합한 기능들 만이라도 직접 한번 써보고자 한다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;GitHub Repo: &lt;a href=&#34;https://github.com/cli/cli&#34;&gt;https://github.com/cli/cli&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Official Document: &lt;a href=&#34;https://cli.github.com/manual/&#34;&gt;https://cli.github.com/manual/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;설치&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#설치&#34;&gt;&lt;/a&gt; 설치&lt;/h2&gt;
+&lt;p&gt;Chocolatey 가 설치되어 있었기에 Powershell 을 관리자 모드로 열어서 아래와 같이 gh 를 설치 완료&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/09/21/lets-do-github-cli-part1/1.png&#34; alt=&#34;install github cli&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;로그인&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#로그인&#34;&gt;&lt;/a&gt; 로그인&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;gh auth login&lt;/code&gt; 또는 &lt;code&gt;gh auth login --hostname github.com&lt;/code&gt; 으로 로그인을 해주면 준비 완료이다.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/09/21/lets-do-github-cli-part1/2.png&#34; alt=&#34;login github cli&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;손이-가는-명령들-사용해보기&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#손이-가는-명령들-사용해보기&#34;&gt;&lt;/a&gt; 손이 가는 명령들 사용해보기&lt;/h2&gt;
+&lt;p&gt;설치하고 보니 아래와 같은 명령들이 가능하다.&lt;br /&gt;
+해보고 싶은 것은&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;gist 생성하기&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;언제든 동작하는, 나중에 참고하고픈 코드들을 gist 로 백업해둘 수 있다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;repo create, clone, view&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;GitHub 로 가지 않고도 바로 repo 를 생성할 수 있다.&lt;/li&gt;
+&lt;li&gt;clone 은 git clone 과 뭐가 다른지 궁금하다&lt;/li&gt;
+&lt;li&gt;view 기능은 정확히 어떤 기능일지 궁금하다&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;당장은 쓰지 않더라도 기대 되거나 궁금한 기능&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;alias&lt;/strong&gt;: git 도 alias 를 잘 쓰고 있기에 이것도 궁금하다&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;completion&lt;/strong&gt;: 이건 상상이 안가는데 script 관련이라니 사용처가 궁금하다&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;pr&lt;/strong&gt;: gh 기능의 꽃이 pr 이 아닌가 싶다. 특히 예시로 나오는 pr checkout 을 하면, pr 을 바로 내려받아서 빌드하고 돌려볼 수 있겠다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/09/21/lets-do-github-cli-part1/3.png&#34; alt=&#34;commands&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;create-gist-list-gist&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#create-gist-list-gist&#34;&gt;&lt;/a&gt; create gist / list gist&lt;/h2&gt;
+&lt;p&gt;이번 포스팅에서는 gist 까지만 사용해보자.&lt;br /&gt;
+만들어둔 코드가 마음에 들어 gist 에 넣어두고 싶다면 아래와 같이 해주면 된다.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;default 가 secret 이므로 public 으로 올리려면 &lt;code&gt;--public&lt;/code&gt; 옵션을 준다.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;별도로 설명을 추가하고 싶다면 &lt;code&gt;--desc&lt;/code&gt; 옵션을 이용한다. 이걸 쓰지 않으면 파일명이 들어간다.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;개인적으로 gist 의 활용은 때때로 써야할 기능들을 cloud 에 저장해놓고 필요할때 다시 가져와서 보는데 있다.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;예를 들어 Go 언어로 AES256 암호화/복호화를 하는 코드 같은 것&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;아래와 같이 간단히 &lt;code&gt;gh gist list&lt;/code&gt; 명령으로 내가 Cloud 에 올려놓은 gist 의 리스트를 볼 수 있다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;gist 가 많아진다면 query 나 간단한 regexp 로 추려낼 수 있으면 좋겠다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/09/21/lets-do-github-cli-part1/4.png&#34; alt=&#34;create and list gist&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;edit-gist-view-gist&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#edit-gist-view-gist&#34;&gt;&lt;/a&gt; edit gist / view gist&lt;/h2&gt;
+&lt;p&gt;이 기능을 써보면서 박수를 쳤다.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;list 명령으로 원하는 gist 를 찾아냈다면 해시값 (gist ID) 로 edit 하겠다는 요청을 할 수 있다.
+&lt;ul&gt;
+&lt;li&gt;git 에서처럼 hash 의 앞쪽 일부만으로 요청은 불가하였다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;gh gist edit&lt;/code&gt; 명령만으로 지정해놓은 editor 로 바로 코드가 열린다.&lt;/li&gt;
+&lt;li&gt;그리고 수정이 끝나 editor 를 닫으면 바로 Cloud 에 수정된 내용이 올라간다.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;code&gt;gh gist view&lt;/code&gt; 명령을 통해 gist 에 올린 원본인 mygist.go 파일은 전혀 건드리지 않고, gist 의 내용만 변경된 것을 확인할 수 있다.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/09/21/lets-do-github-cli-part1/5.png&#34; alt=&#34;edit and view gist&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;GitHub 로 가서 보면 변경된 히스토리가 모두 저장되어 있음을 알 수 있다.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/09/21/lets-do-github-cli-part1/6.png&#34; alt=&#34;gist history&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;이어서&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#이어서&#34;&gt;&lt;/a&gt; 이어서&lt;/h2&gt;
+&lt;p&gt;이어지는 posting 에 pr 과 repo 관련한 기능을 써보겠다.&lt;/p&gt;
+&lt;p&gt;덧붙여 한마디 해보고 싶다. &lt;strong&gt;Learning by doing&lt;/strong&gt; 이라는 말이 있다.&lt;br /&gt;
+GitHub CLI 가 정식 릴리즈 되었다는 말을 들었고 이런 저런 기능이 있다는 말 정도만 듣고 언젠가 써볼까 생각만 했었는데&lt;br /&gt;
+짬을 내어 이렇게 들여다보고 손으로 직접 타이핑을 해보니 그냥 눈으로 흝어본 것과는 하늘과 땅의 차이가 난다.&lt;br /&gt;
+무엇이든 손으로 직접 해보자.&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

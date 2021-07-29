@@ -1,0 +1,227 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>딥백수 • Posts by &#34;alias&#34; tag</title>
+        <link>https://deepbaksu.github.io</link>
+        <description>우리는 &#39;지속가능한 백수질&#39;을 지향합니다. 고로 외롭게 공부하고 있을 당신을 응원합니다. 딥러닝에 관련된 글 뿐만 아니라, 백수생활의 넋두리도 환영합니다.</description>
+        <language>ko</language>
+        <pubDate>Tue, 22 Sep 2020 08:36:04 +0000</pubDate>
+        <lastBuildDate>Tue, 22 Sep 2020 08:36:04 +0000</lastBuildDate>
+        <category>Mo Kweon</category>
+        <category>go</category>
+        <category>golang</category>
+        <category>dependency injection</category>
+        <category>wire</category>
+        <category>uber-go</category>
+        <category>fx</category>
+        <category>Hyunggi Chang</category>
+        <category>AI</category>
+        <category>딥러닝</category>
+        <category>로보틱스</category>
+        <category>YouTube</category>
+        <category>News</category>
+        <category>Hyunseok Jeong</category>
+        <category>Software Architecture</category>
+        <category>Agile</category>
+        <category>Architect</category>
+        <category>Jinyoung Song</category>
+        <category>데이터분석</category>
+        <category>통계분석</category>
+        <category>통계학</category>
+        <category>통계역사</category>
+        <category>비트코인</category>
+        <category>제국주의</category>
+        <category>미래전망</category>
+        <category>플랫폼전략</category>
+        <category>디지털자산</category>
+        <category>microservice</category>
+        <category>CQRS</category>
+        <category>architecture</category>
+        <category>software engineering</category>
+        <category>선지원</category>
+        <category>후고민</category>
+        <category>선지원 후고민</category>
+        <category>실험</category>
+        <category>Apply Driven Study</category>
+        <category>생존</category>
+        <category>멘토링</category>
+        <category>용기</category>
+        <category>free web server</category>
+        <category>heroku</category>
+        <category>aws</category>
+        <category>gcp</category>
+        <category>netlify</category>
+        <category>github actions</category>
+        <category>구글애널리틱스</category>
+        <category>GA</category>
+        <category>Google Analytics</category>
+        <category>Data Analysis</category>
+        <category>Web Log Analysis</category>
+        <category>Happy working</category>
+        <category>Mindfulness</category>
+        <category>Noble Eightfold Path</category>
+        <category>gRPC</category>
+        <category>Go</category>
+        <category>REST</category>
+        <category>존버</category>
+        <category>jonber</category>
+        <category>딥백수</category>
+        <category>회고</category>
+        <category>bluehole</category>
+        <category>krafton</category>
+        <category>communication</category>
+        <category>GitHub CLI</category>
+        <category>Gist</category>
+        <category>Leaning by Doing</category>
+        <category>Repo</category>
+        <category>Alias</category>
+        <category>습관</category>
+        <category>중용</category>
+        <category>꾸준함</category>
+        <category>성실</category>
+        <category>대화</category>
+        <category>비폭력대화</category>
+        <category>Golang</category>
+        <category>Slice</category>
+        <category>example</category>
+        <category>Windows</category>
+        <category>PowerShell</category>
+        <category>PowerShell script</category>
+        <category>Git</category>
+        <category>Prompt</category>
+        <category>Martin Fowler</category>
+        <category>Refactoring</category>
+        <category>Principles</category>
+        <category>파이썬</category>
+        <category>실무</category>
+        <category>데이터분석 실무</category>
+        <category>네트워크 분석</category>
+        <category>최적화</category>
+        <category>시뮬레이션</category>
+        <category>자연어처리</category>
+        <category>회귀</category>
+        <category>예측 분석</category>
+        <category>semantic release</category>
+        <category>semantic version</category>
+        <category>slack</category>
+        <category>bot</category>
+        <category>oauth</category>
+        <category>Github Action</category>
+        <category>Slack</category>
+        <category>Automation</category>
+        <category>자동화</category>
+        <category>cron</category>
+        <category>Seunghwan Chang</category>
+        <category>English</category>
+        <category>would</category>
+        <category>ppt</category>
+        <category>발표</category>
+        <category>consulting</category>
+        <category>보고서</category>
+        <category>파워포인트</category>
+        <category>PT고자</category>
+        <category>ppt고자</category>
+        <category>ppt공포</category>
+        <category>슬라이드</category>
+        <category>Martin Hwang</category>
+        <category>Ray</category>
+        <category>distributed computing</category>
+        <category>parallel computing</category>
+        <item>
+            <guid isPermalink="true">https://deepbaksu.github.io/2020/09/22/lets-do-github-cli-part2/</guid>
+            <title>GitHub CLI 를 만져보자 - 2</title>
+            <link>https://deepbaksu.github.io/2020/09/22/lets-do-github-cli-part2/</link>
+            <category>Hyunseok Jeong</category>
+            <category>GitHub CLI</category>
+            <category>Repo</category>
+            <category>Alias</category>
+            <pubDate>Tue, 22 Sep 2020 08:36:04 +0000</pubDate>
+            <description><![CDATA[ &lt;figure style=&#34;display: flex; flex-direction: column; align-items: center&#34;&gt;
+  &lt;img src=&#34;./lets-do-github-cli-part2/yancy-min-842ofHC6MaI-unsplash.jpg&#34;&gt;
+  &lt;figcaption&gt;Photo by &lt;a href=&#34;https://unsplash.com/@yancymin?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&#34;&gt;Yancy Min&lt;/a&gt; on &lt;a href=&#34;https://unsplash.com/s/photos/github?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&#34;&gt;Unsplash&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;gist 를 만져보며 GitHub CLI 에 대한 기대감이 커졌다. 이번에는 repo 와 관련한 기능을 써보고자 한다.&lt;br /&gt;
+이렇게 신기해하며 사용법을 익히는 것보다 더욱 중요한 것은 실제로 꾸준히 쓰는 것이겠다.&lt;br /&gt;
+좋은 분들과 함께하는 딥백수 커뮤니티에 블로그 포스팅을 자주하며 기능들을 내 것으로 만들어야 겠다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;GitHub Repo: &lt;a href=&#34;https://github.com/cli/cli&#34;&gt;https://github.com/cli/cli&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Official Document: &lt;a href=&#34;https://cli.github.com/manual/&#34;&gt;https://cli.github.com/manual/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;clone-repo&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#clone-repo&#34;&gt;&lt;/a&gt; Clone repo&lt;/h2&gt;
+&lt;p&gt;두 명령은 같다. 장단점이나 차이를 모르겠다.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;$ gh repo clone deepbaksu/deepbaksu.github.io
+$ git clone http://github.com/deepbaksu/deepbaksu.github.io
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/09/22/lets-do-github-cli-part2/1.png&#34; alt=&#34;clone repo&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;create-repo&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#create-repo&#34;&gt;&lt;/a&gt; Create repo&lt;/h2&gt;
+&lt;p&gt;이거 정말 유용하다. 실전에는 보통 아래와 같이 했었다.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;프로젝트 폴더를 만들고 기본적인 구현을 한 다음에&lt;/li&gt;
+&lt;li&gt;GitHub 사이트로 가서 repo 를 생성하고 다시 local 의 repo 와 연결해주는 작업을 한다.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;GitHub CLI 를 이용하여 repo 를 생성하는 여러 옵션이 있지만 이렇게 쓰게 될 것 같다.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;프로젝트 디렉토리를 만들고, 그 디렉토리로 들어간 다음&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ gh repo create&lt;/code&gt; 만 먹여주면 디렉토리 이름으로 repo 가 만들어진다.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;실습&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#실습&#34;&gt;&lt;/a&gt; 실습&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;디렉토리를 생성하고 들어가서 바로 repo 를 생성하려 하였지만 실패!&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;git 디렉토리 이어야 한다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;&lt;code&gt;$ git init&lt;/code&gt; 을 해주고 &lt;code&gt;$ gh repo create&lt;/code&gt; 를 해주니 성공&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;interactive 하게 repo 이름, description, public 여부를 설정해주면 된다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/09/22/lets-do-github-cli-part2/2.png&#34; alt=&#34;create repo&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;view-repo&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#view-repo&#34;&gt;&lt;/a&gt; View repo&lt;/h2&gt;
+&lt;p&gt;repository 를 본다는 것이 무얼 말하는 것인지 처음에는 이해가 가지 않았다.&lt;br /&gt;
+여러 옵션이 있지만 현재 CLI 화면의 git 의 GitHub repo 를 브라우저에서 열때 가장 많이 사용할 듯 하다.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;$ gh repo view // 만 쳐주면 README.md 만 보여주지만
+$ gh repo view --web // 을 쳐주면 브라우저에서 GitHub repo 를 바로 열어준다.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&#34;실습-2&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#실습-2&#34;&gt;&lt;/a&gt; 실습&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;http://README.md&#34;&gt;README.md&lt;/a&gt; 파일을 만들어준 다음,&lt;/li&gt;
+&lt;li&gt;git add, commit, push 를 해주었다.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;여기서 신기했던게 --set-upstream 이 자동으로 되어 있을것만 같았는데 해줘야 한다는 것&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/09/22/lets-do-github-cli-part2/3.png&#34; alt=&#34;add readme repo&#34; /&gt;&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;&lt;code&gt;$ gh repo view&lt;/code&gt; 를 해주면 해당 repo 의 &lt;a href=&#34;http://README.md&#34;&gt;README.md&lt;/a&gt; 를 보여준다&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ gh repo view --web&lt;/code&gt; 옵션을 추가해주면 바로 해당 repo 의 GitHub 페이지를 브라우저에서 열어준다.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/09/22/lets-do-github-cli-part2/4.png&#34; alt=&#34;view repo&#34; /&gt;&lt;/p&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;아래와 같이 Browser 에서 열린다. 편리하다!&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/09/22/lets-do-github-cli-part2/5.png&#34; alt=&#34;view repo web&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;alias&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#alias&#34;&gt;&lt;/a&gt; Alias&lt;/h2&gt;
+&lt;p&gt;평소에 git 도 alias 를 잘 쓰고 있다.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;$ git cb // git checkout --branch
+$ git cm -m // git commit -m
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;위 GitHub CLI 명령중 create 와 view 는 단축키를 지정해주면 편할 것 같다.&lt;br /&gt;
+아래와 같이 설정 해보자&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;$ gh repo create →  $ gh rc
+$ gh repo view →   $ gh rv
+$ gh repo view --web →  $ gh rvw
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/09/22/lets-do-github-cli-part2/6.png&#34; alt=&#34;alias&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Official document (&lt;a href=&#34;https://cli.github.com/manual/&#34;&gt;https://cli.github.com/manual/&lt;/a&gt;) 자체가 길지 않아 30분-1시간을 흝어보면 왠만한 기능은 이해가 되고, 여기처럼 실습까지 해주면 대부분의 feature 는 충분히 소화해 낼 수 있을것 같다. 마지막으로 pull request 를 잘 다뤄보고 싶은데 이건 좀더 실전 경험이 쌓이면 정리해보려 한다.&lt;/p&gt;
+&lt;p&gt;GitHub CLI 에서&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;PR 을 보내거가, PR 을 리뷰하고&lt;/li&gt;
+&lt;li&gt;제안된 수정사항을 검토하거나 빌드해보고&lt;/li&gt;
+&lt;li&gt;merge 까지 해보는 거다.&lt;/li&gt;
+&lt;/ol&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

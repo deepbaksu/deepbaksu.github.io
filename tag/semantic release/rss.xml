@@ -1,0 +1,211 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>딥백수 • Posts by &#34;semantic release&#34; tag</title>
+        <link>https://deepbaksu.github.io</link>
+        <description>우리는 &#39;지속가능한 백수질&#39;을 지향합니다. 고로 외롭게 공부하고 있을 당신을 응원합니다. 딥러닝에 관련된 글 뿐만 아니라, 백수생활의 넋두리도 환영합니다.</description>
+        <language>ko</language>
+        <pubDate>Sat, 29 May 2021 06:47:46 +0000</pubDate>
+        <lastBuildDate>Sat, 29 May 2021 06:47:46 +0000</lastBuildDate>
+        <category>Mo Kweon</category>
+        <category>go</category>
+        <category>golang</category>
+        <category>dependency injection</category>
+        <category>wire</category>
+        <category>uber-go</category>
+        <category>fx</category>
+        <category>Hyunggi Chang</category>
+        <category>AI</category>
+        <category>딥러닝</category>
+        <category>로보틱스</category>
+        <category>YouTube</category>
+        <category>News</category>
+        <category>Hyunseok Jeong</category>
+        <category>Software Architecture</category>
+        <category>Agile</category>
+        <category>Architect</category>
+        <category>Jinyoung Song</category>
+        <category>데이터분석</category>
+        <category>통계분석</category>
+        <category>통계학</category>
+        <category>통계역사</category>
+        <category>비트코인</category>
+        <category>제국주의</category>
+        <category>미래전망</category>
+        <category>플랫폼전략</category>
+        <category>디지털자산</category>
+        <category>microservice</category>
+        <category>CQRS</category>
+        <category>architecture</category>
+        <category>software engineering</category>
+        <category>선지원</category>
+        <category>후고민</category>
+        <category>선지원 후고민</category>
+        <category>실험</category>
+        <category>Apply Driven Study</category>
+        <category>생존</category>
+        <category>멘토링</category>
+        <category>용기</category>
+        <category>free web server</category>
+        <category>heroku</category>
+        <category>aws</category>
+        <category>gcp</category>
+        <category>netlify</category>
+        <category>github actions</category>
+        <category>구글애널리틱스</category>
+        <category>GA</category>
+        <category>Google Analytics</category>
+        <category>Data Analysis</category>
+        <category>Web Log Analysis</category>
+        <category>Happy working</category>
+        <category>Mindfulness</category>
+        <category>Noble Eightfold Path</category>
+        <category>gRPC</category>
+        <category>Go</category>
+        <category>REST</category>
+        <category>존버</category>
+        <category>jonber</category>
+        <category>딥백수</category>
+        <category>회고</category>
+        <category>bluehole</category>
+        <category>krafton</category>
+        <category>communication</category>
+        <category>GitHub CLI</category>
+        <category>Gist</category>
+        <category>Leaning by Doing</category>
+        <category>Repo</category>
+        <category>Alias</category>
+        <category>습관</category>
+        <category>중용</category>
+        <category>꾸준함</category>
+        <category>성실</category>
+        <category>대화</category>
+        <category>비폭력대화</category>
+        <category>Golang</category>
+        <category>Slice</category>
+        <category>example</category>
+        <category>Windows</category>
+        <category>PowerShell</category>
+        <category>PowerShell script</category>
+        <category>Git</category>
+        <category>Prompt</category>
+        <category>Martin Fowler</category>
+        <category>Refactoring</category>
+        <category>Principles</category>
+        <category>파이썬</category>
+        <category>실무</category>
+        <category>데이터분석 실무</category>
+        <category>네트워크 분석</category>
+        <category>최적화</category>
+        <category>시뮬레이션</category>
+        <category>자연어처리</category>
+        <category>회귀</category>
+        <category>예측 분석</category>
+        <category>semantic release</category>
+        <category>semantic version</category>
+        <category>slack</category>
+        <category>bot</category>
+        <category>oauth</category>
+        <category>Github Action</category>
+        <category>Slack</category>
+        <category>Automation</category>
+        <category>자동화</category>
+        <category>cron</category>
+        <category>Seunghwan Chang</category>
+        <category>English</category>
+        <category>would</category>
+        <category>ppt</category>
+        <category>발표</category>
+        <category>consulting</category>
+        <category>보고서</category>
+        <category>파워포인트</category>
+        <category>PT고자</category>
+        <category>ppt고자</category>
+        <category>ppt공포</category>
+        <category>슬라이드</category>
+        <category>Martin Hwang</category>
+        <category>Ray</category>
+        <category>distributed computing</category>
+        <category>parallel computing</category>
+        <item>
+            <guid isPermalink="true">https://deepbaksu.github.io/2021/05/29/semantic-release/</guid>
+            <title>컨벤셔널 커밋을 이용한 CHANGELOG 및 시멘틱 버저닝(Semantic Versioning) 자동화</title>
+            <link>https://deepbaksu.github.io/2021/05/29/semantic-release/</link>
+            <category>semantic release</category>
+            <category>semantic version</category>
+            <pubDate>Sat, 29 May 2021 06:47:46 +0000</pubDate>
+            <description><![CDATA[ &lt;p&gt;&lt;img src=&#34;/2021/05/29/semantic-release/github-release-with-changelog.png&#34; alt=&#34;시멘틱 릴리즈를 통한 CHANGELOG 및 GitHub Release 자동화&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;시맨틱 버전(semantic version)이라는 단어를 들어 보았을 것이다. 개념은 어렵지 않지만 막상 시맨틱 버전에 맞추어 릴리즈 하기란 쉽지 않다. 왜냐하면 그동안 커밋 목록들을 살펴보고 호환성을 깨트리는 커밋이 있었는지 확인하고 버전을 결정해야 되기 때문이다. 그래서, 이 글에서는 &lt;a href=&#34;https://semantic-release.gitbook.io/semantic-release/&#34;&gt;시맨틱 릴리즈(semantic release)&lt;/a&gt;라는 도구를 사용하여 시맨틱 버전을 자동화 하는 방법을 소개하고 있다. 시멘틱 릴리즈가 무엇인지 설명하기에 앞서 시멘틱 버전이 무엇인지 알아야 한다.&lt;/p&gt;
+&lt;h2 id=&#34;시멘틱-버전&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#시멘틱-버전&#34;&gt;&lt;/a&gt; 시멘틱 버전&lt;/h2&gt;
+&lt;p&gt;시멘틱 버전이란 소프트웨어 패키지의 버전을 관리하는 프로토콜을 의미한다.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;&amp;#123;MAJOR&amp;#125;.&amp;#123;MINOR&amp;#125;.&amp;#123;PATCH&amp;#125;&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;로 나누어&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;기존 버전과 호환되지 않게 API가 바뀌면 “MAJOR 버전”을 올리고,&lt;/li&gt;
+&lt;li&gt;기존 버전과 호환되면서 새로운 기능을 추가할 때는 “MINOR 버전”을 올리고,&lt;/li&gt;
+&lt;li&gt;기존 버전과 호환되면서 버그를 수정한 것이라면 “PATCH 버전”을 올린다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;정식배포 전 버전이나 빌드 메타데이터를 위한 라벨을 덧붙이는 방법도 있다.&lt;/p&gt;
+&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;0.0.1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;1.0.0&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;1.0.1-pre&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;1.0.1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;em&gt;시맨틱 릴리즈&lt;/em&gt; 란 커밋 메시지를 일관적으로 작성하여 이 &lt;em&gt;시맨틱 버전&lt;/em&gt; 을 자동화 해주는 도구이다.&lt;/p&gt;
+&lt;h2 id=&#34;컨벤셔널-커밋&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#컨벤셔널-커밋&#34;&gt;&lt;/a&gt; 컨벤셔널 커밋&lt;/h2&gt;
+&lt;p&gt;이때 커밋 메시지를 일관적으로 작성한다는 것은 AngularJS 커밋메시지 규칙을 바탕으로한 컨벤셔널 커밋(&lt;a href=&#34;https://www.conventionalcommits.org&#34;&gt;https://www.conventionalcommits.org&lt;/a&gt;)을 의미한다.&lt;/p&gt;
+&lt;p&gt;컨벤션널 커밋은 사람과 기계 모두 이해할 수 있는 커밋메시지를 작성하기 위한 규칙이라고 볼 수 있다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;사람이 커밋 메시지를 읽고 중요한 변화를 바로 이해할 수 있고&lt;/li&gt;
+&lt;li&gt;일관화된 커밋 메시지 양식을 통해 CHANGELOG 등을 자동으로 생성한다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;컨벤셔널 커밋 메시지는 다음과 같은 양식을 사용하여 작성된 메시지를 뜻한다.&lt;/p&gt;
+&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&amp;lt;type&amp;gt;[optional scope]: &amp;lt;description&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;[optional body]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;[optional footer(s)]&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;예를 들어, 아래 커밋 메시지를 살펴보자.&lt;/p&gt;
+&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;fix: correct MINOR typos in code&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;see the issue for details&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;on typos fixed.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Reviewed-by: Z&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Refs #133&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;가장 첫번째 줄에 &lt;code&gt;fix:&lt;/code&gt; 키워드를 통해 해당 커밋은 버그 수정임을 알 수 있다.&lt;/p&gt;
+&lt;p&gt;타입은 프로젝트마다 조금씩 다를 순 있으나 &lt;code&gt;fix&lt;/code&gt;와 &lt;code&gt;feat&lt;/code&gt;가 가장 중요한 단어이다.&lt;/p&gt;
+&lt;p&gt;일반적으로 &lt;a href=&#34;https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md#type&#34;&gt;오리지널문서에서 정의된 타입&lt;/a&gt;을 사용한다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;build: Changes that affect the build system or external dependencies (example scopes: gulp, broccoli, npm)&lt;/li&gt;
+&lt;li&gt;ci: Changes to our CI configuration files and scripts (example scopes: Travis, Circle, BrowserStack, SauceLabs)&lt;/li&gt;
+&lt;li&gt;docs: Documentation only changes&lt;/li&gt;
+&lt;li&gt;feat: A new feature&lt;/li&gt;
+&lt;li&gt;fix: A bug fix&lt;/li&gt;
+&lt;li&gt;perf: A code change that improves performance&lt;/li&gt;
+&lt;li&gt;refactor: A code change that neither fixes a bug nor adds a feature&lt;/li&gt;
+&lt;li&gt;style: Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)&lt;/li&gt;
+&lt;li&gt;test: Adding missing tests or correcting existing tests&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;이제 각 커밋을 컨벤셔널 커밋에 맞게 작성했을때, 다음과 같은 커밋 로그를 살펴보자.&lt;/p&gt;
+&lt;h3 id=&#34;patch-업데이트&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#patch-업데이트&#34;&gt;&lt;/a&gt; PATCH 업데이트&lt;/h3&gt;
+&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;* 8fffafb fix: somethin&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;* c87775a refactor: something&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;위와 같은 커밋메시지는 &lt;strong&gt;PATCH&lt;/strong&gt; 버전의 변화를 의미한다. 새로운 피쳐(&lt;code&gt;feat&lt;/code&gt;)가 추가 되지 않았기 때문이다.&lt;/p&gt;
+&lt;h3 id=&#34;minor-업데이트&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#minor-업데이트&#34;&gt;&lt;/a&gt; MINOR 업데이트&lt;/h3&gt;
+&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;* 8fffafb feat: create a new helper function&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;* c87775a fix: remove a condition&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;위 커밋 메시지들을 살펴보면 &lt;strong&gt;MINOR&lt;/strong&gt; 버전의 변화를 의미한다. 새로운 피쳐의 추가를 의미하는 &lt;code&gt;feat&lt;/code&gt; 키워드가 사용되었기 때문이다.&lt;/p&gt;
+&lt;h3 id=&#34;major-업데이트&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#major-업데이트&#34;&gt;&lt;/a&gt; MAJOR 업데이트&lt;/h3&gt;
+&lt;p&gt;그럼 &lt;strong&gt;MAJOR&lt;/strong&gt; 버전의 변화를 의미하는 커밋 메시지는 어떻게 생겼을까?&lt;/p&gt;
+&lt;p&gt;아래와 같이 &lt;strong&gt;BREAKING CHANGE&lt;/strong&gt; 라는 키워드를 커밋 메시지에 추가해준다.&lt;/p&gt;
+&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;feat: allow provided config object to extend other configs&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;BREAKING CHANGE: `extends` key in config file is now used for extending other config files.&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;일관된 커밋 메시지를 사용함으로써 CHANGELOG 또한 자동으로 생성할 수 있게 된다. 시맨틱 릴리즈를 사용하면 앞으로 시맨틱 버전과 함께 CHANGELOG 또한 자동으로 생성된다.&lt;/p&gt;
+&lt;h2 id=&#34;실제-사용-방법&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#실제-사용-방법&#34;&gt;&lt;/a&gt; 실제 사용 방법&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;컨벤셔널 커밋 메시지를 사용한다.&lt;/li&gt;
+&lt;li&gt;이후 릴리즈가 필요할 때 시맨틱 릴리즈 프로그램을 실행한다.&lt;/li&gt;
+&lt;li&gt;혹은 깃헙 액션을 사용하여 자동화 한다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;시맨틱 릴리즈는 NodeJS 로 구현된 버전이 있고 Go로 구현된 두가지 버전이 존재한다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/semantic-release/semantic-release&#34;&gt;https://github.com/semantic-release/semantic-release&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/go-semantic-release/semantic-release&#34;&gt;https://github.com/go-semantic-release/semantic-release&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;이 글에서는 Go 버전의 go-semantic-release와 깃헙 액션을 사용한다. 그래봤자 한 줄만 추가하면 끝이다.&lt;/p&gt;
+&lt;figure class=&#34;highlight yaml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;steps:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;uses:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;actions/checkout@master&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;uses:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;go-semantic-release/action@v1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;with:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;attr&#34;&gt;github-token:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;$&amp;#123;&amp;#123;&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;secrets.GITHUB_TOKEN&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;#125;&amp;#125;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;그러면 커밋 메시지를 읽어 와서 위 이미지 처럼 CHANGELOG와 함께 GitHub 릴리즈를 생성한다.&lt;/p&gt;
+&lt;h2 id=&#34;요약&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#요약&#34;&gt;&lt;/a&gt; 요약&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;컨벤셔널 커밋을 작성하면 semantic-release 를 사용하여 semantic versioning 규칙에 맞는 릴리즈를 자동화할 수 있다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;질문이나 다른 기술 이야기가 듣고 싶으시다면 딥백수 슬랙에서 들으실 수 있습니다.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://join.slack.com/t/deepbaksu/shared_invite/zt-89q9mtj6-bGVo9T5UhOWY8YArK24_gQ&#34;&gt;https://join.slack.com/t/deepbaksu/shared_invite/zt-89q9mtj6-bGVo9T5UhOWY8YArK24_gQ&lt;/a&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

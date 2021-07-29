@@ -1,0 +1,178 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>딥백수 • Posts by &#34;딥백수&#34; tag</title>
+        <link>https://deepbaksu.github.io</link>
+        <description>우리는 &#39;지속가능한 백수질&#39;을 지향합니다. 고로 외롭게 공부하고 있을 당신을 응원합니다. 딥러닝에 관련된 글 뿐만 아니라, 백수생활의 넋두리도 환영합니다.</description>
+        <language>ko</language>
+        <pubDate>Sun, 16 Aug 2020 07:06:38 +0000</pubDate>
+        <lastBuildDate>Sun, 16 Aug 2020 07:06:38 +0000</lastBuildDate>
+        <category>Mo Kweon</category>
+        <category>go</category>
+        <category>golang</category>
+        <category>dependency injection</category>
+        <category>wire</category>
+        <category>uber-go</category>
+        <category>fx</category>
+        <category>Hyunggi Chang</category>
+        <category>AI</category>
+        <category>딥러닝</category>
+        <category>로보틱스</category>
+        <category>YouTube</category>
+        <category>News</category>
+        <category>Hyunseok Jeong</category>
+        <category>Software Architecture</category>
+        <category>Agile</category>
+        <category>Architect</category>
+        <category>Jinyoung Song</category>
+        <category>데이터분석</category>
+        <category>통계분석</category>
+        <category>통계학</category>
+        <category>통계역사</category>
+        <category>비트코인</category>
+        <category>제국주의</category>
+        <category>미래전망</category>
+        <category>플랫폼전략</category>
+        <category>디지털자산</category>
+        <category>microservice</category>
+        <category>CQRS</category>
+        <category>architecture</category>
+        <category>software engineering</category>
+        <category>선지원</category>
+        <category>후고민</category>
+        <category>선지원 후고민</category>
+        <category>실험</category>
+        <category>Apply Driven Study</category>
+        <category>생존</category>
+        <category>멘토링</category>
+        <category>용기</category>
+        <category>free web server</category>
+        <category>heroku</category>
+        <category>aws</category>
+        <category>gcp</category>
+        <category>netlify</category>
+        <category>github actions</category>
+        <category>구글애널리틱스</category>
+        <category>GA</category>
+        <category>Google Analytics</category>
+        <category>Data Analysis</category>
+        <category>Web Log Analysis</category>
+        <category>Happy working</category>
+        <category>Mindfulness</category>
+        <category>Noble Eightfold Path</category>
+        <category>gRPC</category>
+        <category>Go</category>
+        <category>REST</category>
+        <category>존버</category>
+        <category>jonber</category>
+        <category>딥백수</category>
+        <category>회고</category>
+        <category>bluehole</category>
+        <category>krafton</category>
+        <category>communication</category>
+        <category>GitHub CLI</category>
+        <category>Gist</category>
+        <category>Leaning by Doing</category>
+        <category>Repo</category>
+        <category>Alias</category>
+        <category>습관</category>
+        <category>중용</category>
+        <category>꾸준함</category>
+        <category>성실</category>
+        <category>대화</category>
+        <category>비폭력대화</category>
+        <category>Golang</category>
+        <category>Slice</category>
+        <category>example</category>
+        <category>Windows</category>
+        <category>PowerShell</category>
+        <category>PowerShell script</category>
+        <category>Git</category>
+        <category>Prompt</category>
+        <category>Martin Fowler</category>
+        <category>Refactoring</category>
+        <category>Principles</category>
+        <category>파이썬</category>
+        <category>실무</category>
+        <category>데이터분석 실무</category>
+        <category>네트워크 분석</category>
+        <category>최적화</category>
+        <category>시뮬레이션</category>
+        <category>자연어처리</category>
+        <category>회귀</category>
+        <category>예측 분석</category>
+        <category>semantic release</category>
+        <category>semantic version</category>
+        <category>slack</category>
+        <category>bot</category>
+        <category>oauth</category>
+        <category>Github Action</category>
+        <category>Slack</category>
+        <category>Automation</category>
+        <category>자동화</category>
+        <category>cron</category>
+        <category>Seunghwan Chang</category>
+        <category>English</category>
+        <category>would</category>
+        <category>ppt</category>
+        <category>발표</category>
+        <category>consulting</category>
+        <category>보고서</category>
+        <category>파워포인트</category>
+        <category>PT고자</category>
+        <category>ppt고자</category>
+        <category>ppt공포</category>
+        <category>슬라이드</category>
+        <category>Martin Hwang</category>
+        <category>Ray</category>
+        <category>distributed computing</category>
+        <category>parallel computing</category>
+        <item>
+            <guid isPermalink="true">https://deepbaksu.github.io/2020/08/16/jonber/</guid>
+            <title>딥백수 그리고 존버</title>
+            <link>https://deepbaksu.github.io/2020/08/16/jonber/</link>
+            <category>Jinyoung Song</category>
+            <category>존버</category>
+            <category>jonber</category>
+            <category>딥백수</category>
+            <category>회고</category>
+            <pubDate>Sun, 16 Aug 2020 07:06:38 +0000</pubDate>
+            <description><![CDATA[ &lt;h2 id=&#34;첫-만남&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#첫-만남&#34;&gt;&lt;/a&gt; 첫 만남&lt;/h2&gt;
+&lt;p&gt;딥백수와 함께한지 2년정도 된거 같네요.&lt;br /&gt;
+2년전 서울에 올라와 고시원에 살며 어떻게 적응해야할지 잘 모를 때 딥백수를 처음으로 만나게 되었어요.&lt;/p&gt;
+&lt;p&gt;사실 저는 딥백수와 어울리는 사람은 아니었어요.&lt;br /&gt;
+딥러닝은 고사하고, 코딩의 ㅋ자도 모르고(지금도 그렇지만), 경영학을 전공한 문과 of 문과였거든요.&lt;br /&gt;
+그런데 무슨 바람이 불었는지 딥백수 슬랙에 들어왔고 참여하고 싶다고 얘기를 했어요.&lt;/p&gt;
+&lt;p&gt;그리고 진우님이 직접 커피한잔 사주시면서 딥백수의 철학(&lt;a href=&#34;https://www.slideshare.net/CurtPark1/agile-102881026&#34;&gt;https://www.slideshare.net/CurtPark1/agile-102881026&lt;/a&gt;) 에 대해서 설명해주셨죠.&lt;br /&gt;
+당시엔 진우님이 갭이어(Gap-year)를 가지고 계시던 시기라 가능했던 즐거운 얘기였어요.&lt;/p&gt;
+&lt;p&gt;그렇게 아무것도 모르던 문돌이가 엔지니어들과 함께 이야기하고 성장하면서 조금씩 개발에 관심을 갖게 되었어요.&lt;/p&gt;
+&lt;h2 id=&#34;느슨하지만-끈끈한-관계&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#느슨하지만-끈끈한-관계&#34;&gt;&lt;/a&gt; 느슨하지만 끈끈한 관계&lt;/h2&gt;
+&lt;p&gt;딥백수는 슬랙으로 소통하는 단체이기에 느슨한 관계라고 할 수 있어요.&lt;br /&gt;
+하지만 힘들 때 할 수 있는만큼의 도움을 주고 받으며 관계를 쌓아나가다보니 느슨하지만 끈끈한 관계가 되더군요.&lt;/p&gt;
+&lt;p&gt;사실 딥백수에 처음왔을 때 저는 어떤 직업을 선택할지 어떻게 해야할지 전혀 갈피조차도 못잡고 있던 시절이었어요. 그런 제게 딥백수 멤버들이 사준 식사와 커피 그리고 정보와 조언은 정말 큰 힘이 됐죠.&lt;/p&gt;
+&lt;p&gt;생활코딩 페이스북을 보다보면 하루에 1번은 빠지지 않고 올라오는 질문 중 하나가&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;“비전공자인데 어떻게 해야 개발자가 될 수 있을까요?”&lt;br /&gt;
+“비전공자인데 어떻게 해야 분석가가 될 수 있을까요?”&lt;br /&gt;
+“비전공자인데 어떤 커리큘럼/책으로 공부해야 할까요?”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;와 같은 방향설정 질문이에요.&lt;/p&gt;
+&lt;p&gt;방향설정 질문에 대한 답은 한 번으로 끝날 수가 없어요. 하다보면 또 방황하거든요.&lt;br /&gt;
+꾸준한 관찰과 피드백이 필요한데 딥백수에선 그 점에서 꾸준히 관계를 맺으며 피드백을 받을 수 있었죠.&lt;/p&gt;
+&lt;p&gt;지금 생각해보면 정말 큰 행운이었다고 생각해요.&lt;br /&gt;
+그리고 이젠 저도 조금씩 나눔을 하고 있어요. 그렇게 딥백수 멤버들도, 저도 모두 관계속에서 성장해 나가고 있어요.&lt;/p&gt;
+&lt;h2 id=&#34;존버-그리고-딥백수&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#존버-그리고-딥백수&#34;&gt;&lt;/a&gt; 존버 그리고 딥백수&lt;/h2&gt;
+&lt;p&gt;존버가 답이라는 건 이미 워렌 버핏까지 말을 할 정도인 명제죠 (농담).&lt;br /&gt;
+&lt;img src=&#34;/2020/08/16/jonber/jonber.jpeg&#34; alt=&#34;Jonber Picture&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;하지만 인간은 그리 강한 존재가 아니라고 저는 생각해요.&lt;br /&gt;
+사람에 따라 어느정도 차이가 있겠지만 아무리 강인한 사람이더라도 혼자서 모든 걸 짊어질 순 없다고 생각하거든요.&lt;/p&gt;
+&lt;p&gt;존버하더라도 더 나은 방향, 좀 더 효과적인 존버를 하기 위해선 연결망이 필요하고 딥백수는 충분히 그 역할을 해내고 있다고 생각해요.&lt;/p&gt;
+&lt;p&gt;결국 힘든 사람들끼리 ‘함께’ 존버하는 것.&lt;br /&gt;
+그게 딥백수에 있는 멤버들의 목표가 아닐까 생각합니다.&lt;/p&gt;
+&lt;p&gt;이런 딥백수에 함께 하고 싶은 분은&lt;br /&gt;
+&lt;a href=&#34;https://bit.ly/2Sqdnws&#34;&gt;https://bit.ly/2Sqdnws&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;이 곳으로 함께 해주세요.&lt;br /&gt;
+감사합니다.&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

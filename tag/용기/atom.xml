@@ -1,0 +1,198 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://deepbaksu.github.io</id>
+    <title>딥백수 • Posts by &#34;용기&#34; tag</title>
+    <link href="https://deepbaksu.github.io" />
+    <updated>2020-08-30T07:11:47.000Z</updated>
+    <category term="Mo Kweon" />
+    <category term="go" />
+    <category term="golang" />
+    <category term="dependency injection" />
+    <category term="wire" />
+    <category term="uber-go" />
+    <category term="fx" />
+    <category term="Hyunggi Chang" />
+    <category term="AI" />
+    <category term="딥러닝" />
+    <category term="로보틱스" />
+    <category term="YouTube" />
+    <category term="News" />
+    <category term="Hyunseok Jeong" />
+    <category term="Software Architecture" />
+    <category term="Agile" />
+    <category term="Architect" />
+    <category term="Jinyoung Song" />
+    <category term="데이터분석" />
+    <category term="통계분석" />
+    <category term="통계학" />
+    <category term="통계역사" />
+    <category term="비트코인" />
+    <category term="제국주의" />
+    <category term="미래전망" />
+    <category term="플랫폼전략" />
+    <category term="디지털자산" />
+    <category term="microservice" />
+    <category term="CQRS" />
+    <category term="architecture" />
+    <category term="software engineering" />
+    <category term="선지원" />
+    <category term="후고민" />
+    <category term="선지원 후고민" />
+    <category term="실험" />
+    <category term="Apply Driven Study" />
+    <category term="생존" />
+    <category term="멘토링" />
+    <category term="용기" />
+    <category term="free web server" />
+    <category term="heroku" />
+    <category term="aws" />
+    <category term="gcp" />
+    <category term="netlify" />
+    <category term="github actions" />
+    <category term="구글애널리틱스" />
+    <category term="GA" />
+    <category term="Google Analytics" />
+    <category term="Data Analysis" />
+    <category term="Web Log Analysis" />
+    <category term="Happy working" />
+    <category term="Mindfulness" />
+    <category term="Noble Eightfold Path" />
+    <category term="gRPC" />
+    <category term="Go" />
+    <category term="REST" />
+    <category term="존버" />
+    <category term="jonber" />
+    <category term="딥백수" />
+    <category term="회고" />
+    <category term="bluehole" />
+    <category term="krafton" />
+    <category term="communication" />
+    <category term="GitHub CLI" />
+    <category term="Gist" />
+    <category term="Leaning by Doing" />
+    <category term="Repo" />
+    <category term="Alias" />
+    <category term="습관" />
+    <category term="중용" />
+    <category term="꾸준함" />
+    <category term="성실" />
+    <category term="대화" />
+    <category term="비폭력대화" />
+    <category term="Golang" />
+    <category term="Slice" />
+    <category term="example" />
+    <category term="Windows" />
+    <category term="PowerShell" />
+    <category term="PowerShell script" />
+    <category term="Git" />
+    <category term="Prompt" />
+    <category term="Martin Fowler" />
+    <category term="Refactoring" />
+    <category term="Principles" />
+    <category term="파이썬" />
+    <category term="실무" />
+    <category term="데이터분석 실무" />
+    <category term="네트워크 분석" />
+    <category term="최적화" />
+    <category term="시뮬레이션" />
+    <category term="자연어처리" />
+    <category term="회귀" />
+    <category term="예측 분석" />
+    <category term="semantic release" />
+    <category term="semantic version" />
+    <category term="slack" />
+    <category term="bot" />
+    <category term="oauth" />
+    <category term="Github Action" />
+    <category term="Slack" />
+    <category term="Automation" />
+    <category term="자동화" />
+    <category term="cron" />
+    <category term="Seunghwan Chang" />
+    <category term="English" />
+    <category term="would" />
+    <category term="ppt" />
+    <category term="발표" />
+    <category term="consulting" />
+    <category term="보고서" />
+    <category term="파워포인트" />
+    <category term="PT고자" />
+    <category term="ppt고자" />
+    <category term="ppt공포" />
+    <category term="슬라이드" />
+    <category term="Martin Hwang" />
+    <category term="Ray" />
+    <category term="distributed computing" />
+    <category term="parallel computing" />
+    <entry>
+        <id>https://deepbaksu.github.io/2020/08/30/first-apply-after-consider/</id>
+        <title>선지원 후고민</title>
+        <link rel="alternate" href="https://deepbaksu.github.io/2020/08/30/first-apply-after-consider/"/>
+        <content type="html">&lt;h2 id=&#34;1-꿈과-실험&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#1-꿈과-실험&#34;&gt;&lt;/a&gt; 1. 꿈과 실험&lt;/h2&gt;
+&lt;p&gt;주말에 편안히 쉬고 있는데, 유튜브에 추천 영상이 올라와서 클릭했습니다.&lt;/p&gt;
+&lt;div class=&#34;video-container&#34;&gt;&lt;iframe src=&#34;https://www.youtube.com/embed/CYmyp77d1BU&#34; frameborder=&#34;0&#34; loading=&#34;lazy&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;타일러 라쉬의 영상이었죠. 제목에 &#39;동기부여’라는 말이 적혀 있기에 영상을 볼지 안볼지를 1분간 고민했습니다. 보통 ‘동기부여’ 강연이라고 하면 들을 땐 뭔가 고양되는 느낌을 받으면서도 영상이 끝나고 나선 별로 알맹이 없는 느낌을 받거든요. 그런 공허함을 느낄 바엔 차라리 보지 않는게 낫다고 생각이 들어서 동기부여 강의 시청은 자제하는 편입니다.&lt;/p&gt;
+&lt;p&gt;그래도 한 번 보자고 생각이 들어 영상을 시청했습니다.&lt;/p&gt;
+&lt;p&gt;역시 엄청 특별한 얘기는 아니었어요.&lt;/p&gt;
+&lt;p&gt;&#39;꿈’이라는 단어에 대한 옹호를 하기 위해 열심히 준비했다는 건 느낄 수 있었던 강연이었습니다.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/08/30/first-apply-after-consider/dream.jpg&#34; alt=&#34;꿈&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;언제부터인지는 모르겠지만 ‘열정’, ‘노력’, &#39;꿈’이라는 말만 듣더라도 ‘열정페이’, ‘노오오오오력’, &#39;착취’와 연결해서 생각하게 되고 밥벌이를 해야 하는 어른이 된 이후로는 &#39;꿈’이라는 단어를 생각하기보단 하루하루 버텨나가는 데 전력을 다하고 있거든요. 저만 그런가요? 하하.&lt;/p&gt;
+&lt;p&gt;타일러가 말한 핵심 내용은 이렇습니다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;첫째, 작게 작게 실험하기.&lt;/li&gt;
+&lt;li&gt;둘째, 꿈과 직함을 혼동하지 말기&lt;/li&gt;
+&lt;li&gt;셋째, 다른 사람의 꿈을 물을 땐 그 사람이 꿈꾸는 세상을 물어보는 거란 걸 기억하기&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;다른 건 그리 와닿지 않았는데 여기서 주목한 내용은 첫번째 &#39;작게 작게 실험하기’부분 이었어요. 예전 경험이 떠올랐거든요.&lt;/p&gt;
+&lt;h2 id=&#34;2-올인-그리고-실패&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#2-올인-그리고-실패&#34;&gt;&lt;/a&gt; 2. 올인 그리고 실패&lt;/h2&gt;
+&lt;p&gt;예전에 썼던 &lt;a href=&#34;https://deepbaksu.github.io/2020/08/16/jonber/&#34;&gt;딥백수 그리고 존버&lt;/a&gt; 라는 글에서 비전공자에 코딩의 ㅋ자도 모른 채 IT쪽으로 전환을 했다고 말씀드린 적이 있어요.&lt;/p&gt;
+&lt;p&gt;사실 여기서 조금 빠진 부분이 있는데, 제 처참한 실패 경험이에요.&lt;/p&gt;
+&lt;p&gt;18년 10월 데이터 분석 인턴을 하고 있었는데, 제가 생각하던게 아니고 뭔가 채워지지 않는 느낌을 받고 있었어요. &#39;3년 후, 5년 후 미래를 봤을 때 과연 괜찮을까?&#39;라는 생각이 많이 들었고 뭔가 답답함을 느꼈죠. 인턴을 그만두고 국비교육을 수강하러 갔습니다. 그 때는 아무 개념도 없어서 제가 수강하는 과정이 어떤 과정인지, 어떤 걸 가르쳐주고 어떤 거에 중점을 두는 과정인지 어떤 것도 모른 채 그냥 직진했습니다. 지금 생각해보면 너무 생각없이 움직인 거였죠.&lt;/p&gt;
+&lt;p&gt;국비교육은 기관이나 과정에 따라 다르지만, 보통 5개월에서 7개월 정도 수업을 진행합니다. 다시말해 1년의 반을 투자해서 자신의 커리어를 바꾸는 의사결정인거죠. 만약 교육과정과 선생님과 FIT이 맞다면 상관없겠지만, 그렇지 않을 경우 1년의 반을 그저 낭비한 게 될 수도 있으니까요. 사실 개발자 친구가 이런 점을 알고 옆에서 경고하고 조언을 해주는 등 얘기를 해주었지만, 그 당시 제겐 다른 대안도 없고 이미 도장을 찍어버린 상태였어요. 말그대로 올인을 했죠.&lt;/p&gt;
+&lt;p&gt;저는 데이터분석을 위한 프로그래밍을 수강하길 원했는데 제가 수강한 과정은 빅데이터 플랫폼 개발 과정이었어요. 혹시나해서 상담직원에게 제가 원하는 바(데이터 분석 프로그래밍)를 말했는데 담당 직원은 그것도 배울 수 있다며 수강을 독려했었죠. (알고보니 상담직원은 코딩을 1도 모르는 사람이더군요)&lt;/p&gt;
+&lt;p&gt;그렇게 시간이 흘러 수업날이 다가왔습니다.&lt;/p&gt;
+&lt;p&gt;그리고 첫 수업날 첫 시간에 선생님께선 말씀하셨죠. “여긴 분석 수업 아닙니다!”&lt;/p&gt;
+&lt;p&gt;이후 스토리는 예상이 가질 않으신가요? 맞아요. 처참히 무너졌죠. 자바-JSP-Spring으로 이어지는 웹 개발 교육과정에서 엄청난 벽을 맞이했거든요. 그 이후엔 이미 멘붕상태라 전혀 따라가질 못했습니다.&lt;/p&gt;
+&lt;p&gt;엄청난 불안과 공포로 하루하루 잠자는 게 무서울 정도였어요. 왜냐하면 모든 자원과 시간을 다 쏟아부었는데 붕 뜬 느낌이었거든요. 매일같이 남들이 손가락짓 하는 상상이 들었어요. ‘그거 봐라. 내가 뭐랬냐. 너 그거 하지 말랬지’, ‘내가 너 그럴 줄 알았지’ 등등 이런 말들이 머릿속을 떠나질 않더라구요.&lt;/p&gt;
+&lt;h2 id=&#34;3-실험의-실제-선지원-후고민&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#3-실험의-실제-선지원-후고민&#34;&gt;&lt;/a&gt; 3. 실험의 실제 - 선지원 후고민&lt;/h2&gt;
+&lt;p&gt;당시 저는 딥백수에서 멘토링을 받고 있었는데, 멘토링 해주시는 분이 늘 강조한 게 있어요.&lt;/p&gt;
+&lt;p&gt;바로 &#39;입사지원’이었어요.&lt;/p&gt;
+&lt;p&gt;너무 당연하다구요? 맞아요. 당연하죠. 취업을 하려고 국비교육을 들었으니 취업을 해야 할테니까요. 그런데 실제로 기업들의 채용공고를 보다보면 그 벽이 정말 높아보였어요. 우대사항 말고 요구사항을 봐도 제겐 해당하는 사항이 없다고 생각이 들 정도였으니까요. 취준을 하시는 분이라면 아실텐데 요구사항에 자신이 해당하는 게 없다는 느낌만큼 좌절감을 주는 건 없을거에요.&lt;/p&gt;
+&lt;p&gt;그러다보니 악순환의 반복에 빠지게 되었죠.&lt;/p&gt;
+&lt;p&gt;좌절감 -&amp;gt; 불안감 -&amp;gt; 공부 안함 -&amp;gt; 요구사항에 맞는 게 없음 -&amp;gt; 좌절감 -&amp;gt; 불안감&lt;/p&gt;
+&lt;p&gt;그동안 어르고 달래던 멘토분이 정말 지독하게 화를 낸 적이 있어요. 입사지원을 몇 개이상 하라고 했는데 겁이 난다고 하지 않았기 때문이었죠. 아마 계속 악순환에 빠지는 걸 막기 위해 엄청 화내셨던거 같아요.&lt;/p&gt;
+&lt;p&gt;생각해보면 버튼 몇 개만 누르면 되는거고 누구에게 허락받고 지원해야 하는 것도 아닌데 자기만의 프레임에 빠져 계속 ‘나는 부족해’, ‘나는 공부를 더 해야해’, &#39;요구사항을 완전히 맞춰야해’라고 생각하고 있었죠.&lt;/p&gt;
+&lt;p&gt;가끔 취준생분들과 얘기하다보면 제가 했던 이런 실수를 하시는 경우가 많습니다. 입사지원을 해보라고 하면 ‘아 제가 파이썬 쓴지 얼마 안되서요’, ‘아직 프로젝트 경험이 별로 없어서요’, ‘제가 과연 지원할 수 있을까요?’ 라고 말하는 경우를 많이 봅니다.&lt;/p&gt;
+&lt;p&gt;그럴 때마다 멘토가 그랬고 지금은 제가 외치는 말 한 마디가 있죠. “선지원 후고민”&lt;/p&gt;
+&lt;p&gt;굳이 너무 어렵게 생각할 필요 없이 실험을 해보는 겁니다. 지원을 해보고 서류통과는 몇 개가 나오는지, 1차 면접통과는 몇 개가 나오는지 실험을 한다는 태도로 생각을 줄이고 지원을 하면 자기가 부족한 게 뭔지 조금씩 보입니다.&lt;/p&gt;
+&lt;p&gt;잠시 타일러의 강연으로 돌아가 볼까요?&lt;/p&gt;
+&lt;p&gt;타일러는 강연에서 &#39;브라질에서 마이크로파이낸싱’을 해보고 싶다는 사람에게 &#39;오늘 집에 들어가기 전에 한국에서 포르투갈어 공부할 수 있는 곳 5곳 리스트업’이라는 힌트를 제공합니다. 꿈을 매우 작게작게 지원해보고 그 다음에 고민해보라는 의미였죠.&lt;/p&gt;
+&lt;p&gt;이게 Apply Driven Study라는 겁니다.&lt;/p&gt;
+&lt;p&gt;언젠가 금융권 회사에서 서류를 통과시켜줘서 면접을 보러간 적이 있었습니다. 기분좋게 아무 생각 없이 캐쥬얼하게 입고 갔었죠. 그런데 다들 정장을 빳빳하게 다려서 입고 들어왔고 탄탄한 포트폴리오가 있었고 어떤 활동을 했습니다. 당연히 면접관이 저에게 질문을 3분도 하지 않았죠.&lt;/p&gt;
+&lt;p&gt;그 날 속상하고 힘들었지만 배웠습니다. “포트폴리오와 활동이 부족하구나.” 그런데 포트폴리오를 만들 시간이 별로 없네? 그럼 다른 사람이 쓴 책 따라하고 거기 나온 내용을 이야기 해봐야지.&lt;/p&gt;
+&lt;p&gt;이런 식으로 지원 -&amp;gt; 부족점 파악 -&amp;gt; 지원, 이 사이클을 만들고 나니 불안감은 줄고 목표는 더 확실해지고 공부량은 늘더군요. 물론 매일같이 보이는 족족 입사지원을 했구요.&lt;/p&gt;
+&lt;h2 id=&#34;4-혼자일-필요는-없다&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#4-혼자일-필요는-없다&#34;&gt;&lt;/a&gt; 4. 혼자일 필요는 없다&lt;/h2&gt;
+&lt;p&gt;정말 똑똑하고 강한 사람이라면 혼자서 이런걸 다 해낼 수 있겠죠. 그리고 저처럼 시행착오를 겪지않고 빠르게 실험을 끝냈을겁니다.&lt;/p&gt;
+&lt;p&gt;하지만 꼭 혼자 고민할 필요가 있나요? 꿈을 실험하는 목적은 자신이 원하는 목표를 이루기 위해서이지, 자신이 혼자서도 강하다는 걸 증명하기 위한 게 아니지 않을까요?&lt;/p&gt;
+&lt;p&gt;사실 우리가 아무리 똑똑해도 내가 보지 못한 관점, 사실, 정보 등이 많습니다. 이건 초보건 고수건 관계없이 적용되는 말이라고 생각해요.&lt;/p&gt;
+&lt;p&gt;특히나 자기가 부족하다고 생각하는 사람이라면 다른 사람에게 도움을 요청하는 건 정말 용기있는 행동이라고 생각하고 목표를 이루기 위해 노력하는 사람이라고 생각합니다.&lt;/p&gt;
+&lt;p&gt;딥백수엔 이런 용기 있는 사람이 많아요.&lt;br /&gt;
+그렇다고 그 분들이 실력이 부족하냐? 그건 아니구요. 서로에게 더 도움이 되기 위해 불철주야 노력하시는 분들이죠.&lt;/p&gt;
+&lt;p&gt;(제가 제일 노력 안하는 편이라 많이 혼나요…하하)&lt;/p&gt;
+&lt;p&gt;꿈이 있고 꿈을 이루기 위해 도움을 주고받고 싶으신 분이라면&lt;br /&gt;
+&lt;a href=&#34;https://bit.ly/2Sqdnws&#34;&gt;https://bit.ly/2Sqdnws&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;여기로 함께해주세요.&lt;/p&gt;
+&lt;p&gt;감사합니다.&lt;/p&gt;
+</content>
+        <category term="Jinyoung Song" />
+        <category term="선지원" />
+        <category term="후고민" />
+        <category term="선지원 후고민" />
+        <category term="실험" />
+        <category term="Apply Driven Study" />
+        <category term="생존" />
+        <category term="멘토링" />
+        <category term="용기" />
+        <updated>2020-08-30T07:11:47.000Z</updated>
+    </entry>
+</feed>

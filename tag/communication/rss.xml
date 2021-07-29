@@ -1,0 +1,205 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>딥백수 • Posts by &#34;communication&#34; tag</title>
+        <link>https://deepbaksu.github.io</link>
+        <description>우리는 &#39;지속가능한 백수질&#39;을 지향합니다. 고로 외롭게 공부하고 있을 당신을 응원합니다. 딥러닝에 관련된 글 뿐만 아니라, 백수생활의 넋두리도 환영합니다.</description>
+        <language>ko</language>
+        <pubDate>Thu, 17 Sep 2020 17:49:37 +0000</pubDate>
+        <lastBuildDate>Thu, 17 Sep 2020 17:49:37 +0000</lastBuildDate>
+        <category>Mo Kweon</category>
+        <category>go</category>
+        <category>golang</category>
+        <category>dependency injection</category>
+        <category>wire</category>
+        <category>uber-go</category>
+        <category>fx</category>
+        <category>Hyunggi Chang</category>
+        <category>AI</category>
+        <category>딥러닝</category>
+        <category>로보틱스</category>
+        <category>YouTube</category>
+        <category>News</category>
+        <category>Hyunseok Jeong</category>
+        <category>Software Architecture</category>
+        <category>Agile</category>
+        <category>Architect</category>
+        <category>Jinyoung Song</category>
+        <category>데이터분석</category>
+        <category>통계분석</category>
+        <category>통계학</category>
+        <category>통계역사</category>
+        <category>비트코인</category>
+        <category>제국주의</category>
+        <category>미래전망</category>
+        <category>플랫폼전략</category>
+        <category>디지털자산</category>
+        <category>microservice</category>
+        <category>CQRS</category>
+        <category>architecture</category>
+        <category>software engineering</category>
+        <category>선지원</category>
+        <category>후고민</category>
+        <category>선지원 후고민</category>
+        <category>실험</category>
+        <category>Apply Driven Study</category>
+        <category>생존</category>
+        <category>멘토링</category>
+        <category>용기</category>
+        <category>free web server</category>
+        <category>heroku</category>
+        <category>aws</category>
+        <category>gcp</category>
+        <category>netlify</category>
+        <category>github actions</category>
+        <category>구글애널리틱스</category>
+        <category>GA</category>
+        <category>Google Analytics</category>
+        <category>Data Analysis</category>
+        <category>Web Log Analysis</category>
+        <category>Happy working</category>
+        <category>Mindfulness</category>
+        <category>Noble Eightfold Path</category>
+        <category>gRPC</category>
+        <category>Go</category>
+        <category>REST</category>
+        <category>존버</category>
+        <category>jonber</category>
+        <category>딥백수</category>
+        <category>회고</category>
+        <category>bluehole</category>
+        <category>krafton</category>
+        <category>communication</category>
+        <category>GitHub CLI</category>
+        <category>Gist</category>
+        <category>Leaning by Doing</category>
+        <category>Repo</category>
+        <category>Alias</category>
+        <category>습관</category>
+        <category>중용</category>
+        <category>꾸준함</category>
+        <category>성실</category>
+        <category>대화</category>
+        <category>비폭력대화</category>
+        <category>Golang</category>
+        <category>Slice</category>
+        <category>example</category>
+        <category>Windows</category>
+        <category>PowerShell</category>
+        <category>PowerShell script</category>
+        <category>Git</category>
+        <category>Prompt</category>
+        <category>Martin Fowler</category>
+        <category>Refactoring</category>
+        <category>Principles</category>
+        <category>파이썬</category>
+        <category>실무</category>
+        <category>데이터분석 실무</category>
+        <category>네트워크 분석</category>
+        <category>최적화</category>
+        <category>시뮬레이션</category>
+        <category>자연어처리</category>
+        <category>회귀</category>
+        <category>예측 분석</category>
+        <category>semantic release</category>
+        <category>semantic version</category>
+        <category>slack</category>
+        <category>bot</category>
+        <category>oauth</category>
+        <category>Github Action</category>
+        <category>Slack</category>
+        <category>Automation</category>
+        <category>자동화</category>
+        <category>cron</category>
+        <category>Seunghwan Chang</category>
+        <category>English</category>
+        <category>would</category>
+        <category>ppt</category>
+        <category>발표</category>
+        <category>consulting</category>
+        <category>보고서</category>
+        <category>파워포인트</category>
+        <category>PT고자</category>
+        <category>ppt고자</category>
+        <category>ppt공포</category>
+        <category>슬라이드</category>
+        <category>Martin Hwang</category>
+        <category>Ray</category>
+        <category>distributed computing</category>
+        <category>parallel computing</category>
+        <item>
+            <guid isPermalink="true">https://deepbaksu.github.io/2020/09/17/lesson-learned-at-bluehole/</guid>
+            <title>나는 블루홀에서 무엇을 배웠나</title>
+            <link>https://deepbaksu.github.io/2020/09/17/lesson-learned-at-bluehole/</link>
+            <category>Mo Kweon</category>
+            <category>bluehole</category>
+            <category>krafton</category>
+            <category>communication</category>
+            <pubDate>Thu, 17 Sep 2020 17:49:37 +0000</pubDate>
+            <description><![CDATA[ &lt;p&gt;한국에서 여러 회사에 다닌 곳 중에서 가장 기억에 남는 곳은 블루홀(현재는 크래프톤) 입니다. 그때 운이 좋게도 이상균 디렉터님으로부터 &amp;quot;의도&amp;quot;를 전달하는 커뮤니케이션에 대해 알게 되었고 깊이 익혀 항상 커뮤니케이션을 잘한다는 소리를 주변으로부터 들어올 수 있었습니다.&lt;/p&gt;
+&lt;p&gt;보통 일반적인 회사에서의 커뮤니케이션 문제는 다음 그림과 같이 &#39;의도’가 명확하게 드러나지 않은 소통을 하기 때문에 발생합니다.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/09/17/lesson-learned-at-bluehole/communication.jpg&#34; alt=&#34;이상균 - 게임 디렉팅 튜토리얼 중&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;전시-행동-강령&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#전시-행동-강령&#34;&gt;&lt;/a&gt; 전시 행동 강령&lt;/h2&gt;
+&lt;p&gt;모든 부대에는 전시에 특별한 지시 없어도 일사불란하게 움직이도록 “전시 행동 강령” 이라는 게 있습니다. 예를 들어, 이상균 님은 카투사로 복무하면서 다음과 같은 전시 행동 강령을 부여받았습니다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;모든 문서를 파기하고 하드디스크를 뽑아 들고&lt;/li&gt;
+&lt;li&gt;용산 고등학교 운동장에서 헬기를 타는 것&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;그런데 말입니다. 용산 고등학교가 파괴되었다면? 단순 지시사항이 저게 전부였다면 용산 고등학교 근처에서 우왕좌왕했을 것입니다.&lt;/p&gt;
+&lt;p&gt;그런데 만약 “최신 카투사 신병 자료를 캠프 헨리까지 옮겨야 한다” 는 의도가 전달되었다면?&lt;/p&gt;
+&lt;p&gt;탈것을 구하든, 걸어서든 캠프 헨리까지 가려고 했을 것입니다.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/09/17/lesson-learned-at-bluehole/commander_intent.jpg&#34; alt=&#34;지휘관의 의도&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;지휘관의-의도&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#지휘관의-의도&#34;&gt;&lt;/a&gt; 지휘관의 의도&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;1980년 미 육군에서 대부분의 전시 행동 강령과 작전계획이 무용지물이 된다는 걸 깨닫고 대안으로 제시한 개념&lt;/li&gt;
+&lt;li&gt;모든 명령서에는 최상단에 의도를 짧게 서술&lt;/li&gt;
+&lt;li&gt;강령보다 의도를 중심&lt;/li&gt;
+&lt;li&gt;하드디스크를 들고 용산 고등학교로 가라 (X)&lt;/li&gt;
+&lt;li&gt;최신 카투사 신병 자료를 캠프 헨리의 작전 본부까지 옮겨라 (O)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;지시를-전달할-때는-왜냐하면-이-들어간다&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#지시를-전달할-때는-왜냐하면-이-들어간다&#34;&gt;&lt;/a&gt; 지시를 전달할 때는 “왜냐하면” 이 들어간다.&lt;/h2&gt;
+&lt;div style=&#34;display: flex;&#34;&gt;
+  &lt;div style=&#34;display: flex; flex-direction: column;&#34;&gt;
+    &lt;img alt=&#34;의도가 없는 기획서&#34; src=&#34;./lesson-learned-at-bluehole/design_doc_1.jpg&#34;&gt;
+  &lt;/div&gt;
+  &lt;div style=&#34;display: flex; flex-direction: column;&#34;&gt;
+    &lt;img alt=&#34;의도가 있는 기획서&#34; src=&#34;./lesson-learned-at-bluehole/design_doc_2.jpg&#34;&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;고기는 오전 9시, 자정, 오후 6시, 오후 9시에 채워집니다. &lt;strong&gt;왜냐하면&lt;/strong&gt; 출근(등교), 점심, 퇴근(하교) 자기 직전 시간에 게임 플레이를 유도하고 싶습니다.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;의도를 전달하지 않으면 &amp;quot;내 마음을 맞춰봐&amp;quot;와 같다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;맨 위에 나온 슬픈 대화 내용도 디렉터가 의도를 전달했다면 다음과 같을 것입니다.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/09/17/lesson-learned-at-bluehole/director_intent.jpg&#34; alt=&#34;디렉터의 의도&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;디렉팅이-아니더라도-의도-전달은-중요하다&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#디렉팅이-아니더라도-의도-전달은-중요하다&#34;&gt;&lt;/a&gt; 디렉팅이 아니더라도 의도 전달은 중요하다.&lt;/h2&gt;
+&lt;p&gt;이 글을 쓴 목적이 이것입니다. 디렉팅이 아니어도 의도 전달은 중요합니다.&lt;/p&gt;
+&lt;p&gt;실제로 겪은 한가지 예는 다음과 같은 상황입니다.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“CLI 애플리케이션을 위해 A 라이브러리 사용법을 문의하고 싶은데요 &lt;strong&gt;왜냐하면&lt;/strong&gt; 코드를 제출할 때마다 주요 체크리스트를 점검할 수 있도록 유저가 로컬에서 돌려볼 수 있게 하고 싶습니다.”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;그러면 종종 저는 &amp;quot;그런 경우라면 CLI보다 린터 서버를 구성해 자동으로 실행되도록 하는 것이 어떨까요?&amp;quot;라는 답변을 들을 수 있습니다. 의도를 전달하지 않았다면 저는 A 라이브러리 사용법에 대해 듣고 그것이 최선인 방법인 것으로 알고 계속 진행했을 것입니다.&lt;/p&gt;
+&lt;p&gt;코드 리뷰를 하더라도 항상 의도를 적어주면 오해가 적어지게 됩니다.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“여기서는 하드코딩으로 변경해주세요 &lt;strong&gt;왜냐하면&lt;/strong&gt; Example 코드로 문서화되기 때문에 유저가 변수를 찾기 위해 점프하는 일이 없도록 하고 싶습니다.”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;위는 예시를 든 것이고 회의에서 의견을 제시하더라도 &lt;strong&gt;왜냐하면&lt;/strong&gt;을 붙여준다면 오해가 적어지고 또 다른 좋은 의견을 끌어내게 됩니다.&lt;/p&gt;
+&lt;h2 id=&#34;결론&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#결론&#34;&gt;&lt;/a&gt; 결론&lt;/h2&gt;
+&lt;p&gt;업무에서 의사소통하면서 &amp;quot;왜냐하면&amp;quot;을 사용하고 있는지 되돌아보시길 바랍니다. 이 외에도 이상균님으로부터 배운 지식들로는 DRI(Directly Responsible Individual) 등 및 좋은 결정을 하는 방법 등이 있습니다.&lt;/p&gt;
+&lt;p&gt;그리고 위에 적은대로 의도 전달만으로는 충분하지 않을 수 있습니다.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/09/17/lesson-learned-at-bluehole/understanding_disparity.jpg&#34; alt=&#34;디렉터와 멤버간 이해 차이&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;디렉터와 멤버간의 이해차이가 발생하였고 디렉터는 의도 전달을 통해 디렉팅을 하지만 여전히 제대로 된 의도 전달이 안되었을 수 도 있습니다.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/09/17/lesson-learned-at-bluehole/understanding_disparity_2.jpg&#34; alt=&#34;디렉팅 후 멤버간 이해 차이&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;그래서 중요한 것이 피드백을 잘하는 방법입니다.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/09/17/lesson-learned-at-bluehole/feedback_summary.jpg&#34; alt=&#34;피드백 하는법 요약&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;더 궁금하신 분들은 꼭 이상균 님의 &lt;a href=&#34;https://www.slideshare.net/iyooha/ss-69350767/31&#34;&gt;게임 디렉팅 튜토리얼&lt;/a&gt;을 살펴보시기를 추천드립니다.&lt;/p&gt;
+&lt;p&gt;이외에도 더 좋은 내용 디스커션을 원하시는 분들은 &lt;a href=&#34;https://bit.ly/2Sqdnws&#34;&gt;딥백수 슬랙&lt;/a&gt;을 방문해주세요.&lt;/p&gt;
+&lt;h2 id=&#34;레퍼런스&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#레퍼런스&#34;&gt;&lt;/a&gt; 레퍼런스&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;이상균 - 게임 디렉팅 튜토리얼: &lt;a href=&#34;https://www.slideshare.net/iyooha/ss-69350767/31&#34;&gt;https://www.slideshare.net/iyooha/ss-69350767/31&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;이상균 - 프로그래머에게 사랑받는 게임 기획서 작성법: &lt;a href=&#34;https://www.slideshare.net/iyooha/20101002-53482961&#34;&gt;https://www.slideshare.net/iyooha/20101002-53482961&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

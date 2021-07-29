@@ -1,0 +1,229 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>딥백수 • Posts by &#34;slice&#34; tag</title>
+        <link>https://deepbaksu.github.io</link>
+        <description>우리는 &#39;지속가능한 백수질&#39;을 지향합니다. 고로 외롭게 공부하고 있을 당신을 응원합니다. 딥러닝에 관련된 글 뿐만 아니라, 백수생활의 넋두리도 환영합니다.</description>
+        <language>ko</language>
+        <pubDate>Tue, 20 Oct 2020 09:17:05 +0000</pubDate>
+        <lastBuildDate>Tue, 20 Oct 2020 09:17:05 +0000</lastBuildDate>
+        <category>Mo Kweon</category>
+        <category>go</category>
+        <category>golang</category>
+        <category>dependency injection</category>
+        <category>wire</category>
+        <category>uber-go</category>
+        <category>fx</category>
+        <category>Hyunggi Chang</category>
+        <category>AI</category>
+        <category>딥러닝</category>
+        <category>로보틱스</category>
+        <category>YouTube</category>
+        <category>News</category>
+        <category>Hyunseok Jeong</category>
+        <category>Software Architecture</category>
+        <category>Agile</category>
+        <category>Architect</category>
+        <category>Jinyoung Song</category>
+        <category>데이터분석</category>
+        <category>통계분석</category>
+        <category>통계학</category>
+        <category>통계역사</category>
+        <category>비트코인</category>
+        <category>제국주의</category>
+        <category>미래전망</category>
+        <category>플랫폼전략</category>
+        <category>디지털자산</category>
+        <category>microservice</category>
+        <category>CQRS</category>
+        <category>architecture</category>
+        <category>software engineering</category>
+        <category>선지원</category>
+        <category>후고민</category>
+        <category>선지원 후고민</category>
+        <category>실험</category>
+        <category>Apply Driven Study</category>
+        <category>생존</category>
+        <category>멘토링</category>
+        <category>용기</category>
+        <category>free web server</category>
+        <category>heroku</category>
+        <category>aws</category>
+        <category>gcp</category>
+        <category>netlify</category>
+        <category>github actions</category>
+        <category>구글애널리틱스</category>
+        <category>GA</category>
+        <category>Google Analytics</category>
+        <category>Data Analysis</category>
+        <category>Web Log Analysis</category>
+        <category>Happy working</category>
+        <category>Mindfulness</category>
+        <category>Noble Eightfold Path</category>
+        <category>gRPC</category>
+        <category>Go</category>
+        <category>REST</category>
+        <category>존버</category>
+        <category>jonber</category>
+        <category>딥백수</category>
+        <category>회고</category>
+        <category>bluehole</category>
+        <category>krafton</category>
+        <category>communication</category>
+        <category>GitHub CLI</category>
+        <category>Gist</category>
+        <category>Leaning by Doing</category>
+        <category>Repo</category>
+        <category>Alias</category>
+        <category>습관</category>
+        <category>중용</category>
+        <category>꾸준함</category>
+        <category>성실</category>
+        <category>대화</category>
+        <category>비폭력대화</category>
+        <category>Golang</category>
+        <category>Slice</category>
+        <category>example</category>
+        <category>Windows</category>
+        <category>PowerShell</category>
+        <category>PowerShell script</category>
+        <category>Git</category>
+        <category>Prompt</category>
+        <category>Martin Fowler</category>
+        <category>Refactoring</category>
+        <category>Principles</category>
+        <category>파이썬</category>
+        <category>실무</category>
+        <category>데이터분석 실무</category>
+        <category>네트워크 분석</category>
+        <category>최적화</category>
+        <category>시뮬레이션</category>
+        <category>자연어처리</category>
+        <category>회귀</category>
+        <category>예측 분석</category>
+        <category>semantic release</category>
+        <category>semantic version</category>
+        <category>slack</category>
+        <category>bot</category>
+        <category>oauth</category>
+        <category>Github Action</category>
+        <category>Slack</category>
+        <category>Automation</category>
+        <category>자동화</category>
+        <category>cron</category>
+        <category>Seunghwan Chang</category>
+        <category>English</category>
+        <category>would</category>
+        <category>ppt</category>
+        <category>발표</category>
+        <category>consulting</category>
+        <category>보고서</category>
+        <category>파워포인트</category>
+        <category>PT고자</category>
+        <category>ppt고자</category>
+        <category>ppt공포</category>
+        <category>슬라이드</category>
+        <category>Martin Hwang</category>
+        <category>Ray</category>
+        <category>distributed computing</category>
+        <category>parallel computing</category>
+        <item>
+            <guid isPermalink="true">https://deepbaksu.github.io/2020/10/20/play-with-slice-of-golang/</guid>
+            <title>Go 슬라이스 가지고 놀아보자</title>
+            <link>https://deepbaksu.github.io/2020/10/20/play-with-slice-of-golang/</link>
+            <category>Hyunseok Jeong</category>
+            <category>Go</category>
+            <category>Golang</category>
+            <category>Slice</category>
+            <category>example</category>
+            <pubDate>Tue, 20 Oct 2020 09:17:05 +0000</pubDate>
+            <description><![CDATA[ &lt;p&gt;&lt;img src=&#34;/2020/10/20/play-with-slice-of-golang/nery-montenegro-3ak9PMcx048-unsplash.jpg&#34; alt=&#34;Photo by Nery Montenegro on Unsplash&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Go의 슬라이스는 배열과 비슷한 듯 다르다. 슬라이스는 세 개의 필드를 가진 데이터 구조이다.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;포인터: 실제 값이 들어있는 배열의 주소를 가리킨다&lt;/li&gt;
+&lt;li&gt;Length: 값이 들어있는 길이를 가리킨다.&lt;/li&gt;
+&lt;li&gt;Capacity: 실제 값은 들어있지 않지만 미리 확보해놓은 메모리 공간이라 생각하면 된다.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/10/20/play-with-slice-of-golang/1.jpg&#34; alt=&#34;slice in golang: https://www.geeksforgeeks.org/slices-in-golang&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Capacity&lt;/code&gt; 이내 에서는 &lt;code&gt;append&lt;/code&gt;를 하더라도 다른 곳으로 메모리를 재할당 할 필요가 없다. 저장하는 메모리 공간을 이사할 필요가 없다는 것이다.&lt;/p&gt;
+&lt;p&gt;적절할지 모르겠지만 비유를 해본다. 아파트의 방에 한 명씩 살아야 한다고 하자. 방 4개 짜리 아파트에 (cap&lt;mark&gt;4) 세 명이 각각 방 하나씩을 차지하고 있는 경우 (len&lt;/mark&gt;3) 한명이 더 들어와 살더라도 방 5, 6개 짜리 아파트로 이사할 필요가 없는 것이다. 하지만 여기서 한 명이라도 더 들어오면 방이 더 많은, 다른 아파트로 이사를 해야 한다.&lt;/p&gt;
+&lt;p&gt;이론적인 부분은 이만 줄이고 실제 코드로 부딪혀가며 이해해보자.&lt;/p&gt;
+&lt;h2 id=&#34;실습&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#실습&#34;&gt;&lt;/a&gt; 실습&lt;/h2&gt;
+&lt;p&gt;실습을 통해 다음과 같은 상황을 확인해보자&lt;br /&gt;
+같은 배열을 가리키는 두 슬라이드가 있다고 할 때에&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;같은 메모리 주소의 하나의 값을 변경하면 나머지 하나도 바뀔 것이다. 슬라이스의 포인터가 같은 배열을 가리키고 있기 때문이다.&lt;/li&gt;
+&lt;li&gt;그러면 두 슬라이스 중에 하나가 다른 하나의 일부일 때에, 그 슬라이스를 append 한다면?
+&lt;ul&gt;
+&lt;li&gt;cap 이내일때는 여전히 같은 배열을 가리키겠지만&lt;/li&gt;
+&lt;li&gt;cap 을 넘어서는 append 의 경우에는 두 슬라이스는 다른 배열을 가리키게 될 것이다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;슬라이스를 함수에 값으로 전달한다면 어떻게 될까?
+&lt;ul&gt;
+&lt;li&gt;슬라이스가 복제된다. 포인터는 같은 배열을 가리킨다.&lt;/li&gt;
+&lt;li&gt;하지만 함수 내에서 슬라이스의 len, cap 을 변경해도 원래 슬라이스의 len, cap은 변하지 않을 것이다.&lt;br /&gt;
+→ 같은 배열을 가리키는 두 개의 별개의 슬라이스인 것이다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;슬라이스를 함수에 포인터로 전달한다면 어떻게 될까?
+&lt;ul&gt;
+&lt;li&gt;포인터, len, cap 이 온전히 전달되고,&lt;/li&gt;
+&lt;li&gt;함수내에서 이들이 바뀌면 원본 역시 변할 것이다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;배열-함께-쓰기-이별하기&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#배열-함께-쓰기-이별하기&#34;&gt;&lt;/a&gt; 배열 함께 쓰기, 이별하기&lt;/h3&gt;
+&lt;p&gt;Play ground: &lt;a href=&#34;https://play.golang.org/p/RxLFuykp9XH&#34;&gt;https://play.golang.org/p/RxLFuykp9XH&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;(1) a, b, c 슬라이스는 모두 같은 배열을 가리키고 있다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;b는 len은 2이지만, cap은 a의 cap 나머지와 같은 3이다.&lt;/li&gt;
+&lt;li&gt;c와 같이 cap도 정확히 설정할 수 있다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;(2) b 슬라이스를 append 해도 아직 여분의 cap 공간이 있다&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;그래서 b 슬라이스가 메모리 이사를 갈 필요가 없다.&lt;/li&gt;
+&lt;li&gt;그래서 a[5]와 b[3]의 값이 함께 바뀐다.&lt;/li&gt;
+&lt;li&gt;포인터가 가리키는 배열의 같은 위치 원소의 주소값도 같다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;(3) b 슬라이스를 한 번더 append 해보자&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;이제는 b 슬라이스가 이사를 가야한다.&lt;/li&gt;
+&lt;li&gt;포인터가 가리키는 배열의 같은 위치였을 원소의 주소값이 다르다.&lt;/li&gt;
+&lt;li&gt;(4)를 보면 이제 완전히 별개의 두 배열을 가리키고 있는 것을 알 수 있다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/10/20/play-with-slice-of-golang/2.png&#34; alt=&#34;example code1&#34; /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;함수에-슬라이스-전달하기&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#함수에-슬라이스-전달하기&#34;&gt;&lt;/a&gt; 함수에 슬라이스 전달하기&lt;/h3&gt;
+&lt;p&gt;Play ground: &lt;a href=&#34;https://play.golang.org/p/5qg7NVNH2Ic&#34;&gt;https://play.golang.org/p/5qg7NVNH2Ic&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;(1) len 5, cap 5 인 a 슬라이스를 만들었다.&lt;/p&gt;
+&lt;p&gt;(2) (3) 은 각각 슬라이스와 슬라이스 주소값을 전달받는 함수를 선언하였다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;슬라이스의 첫번째 원소의 값을 바꾸고&lt;/li&gt;
+&lt;li&gt;슬라이스에 빈 원소 3개를 append 한 다음&lt;/li&gt;
+&lt;li&gt;함수 안에서 슬라이스의 변경된 길이를 출력해 보았다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;(4) 함수를 실행해보니&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;a 슬라이스는 len 5, cap 5로 생성이 되어있고&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;changeSliceValue 함수의 경우는 - a 슬라이스의&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;첫번째 원소의 값은 바꾸었지만&lt;/li&gt;
+&lt;li&gt;len, cap 은 바꾸지 못하였다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;changeSliceReference 함수의 경우는 a 슬라이스의&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;첫번째 원소의 값을 바꾸었고&lt;/li&gt;
+&lt;li&gt;len, cap 까지도 바꾸었다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/10/20/play-with-slice-of-golang/3.png&#34; alt=&#34;example code2&#34; /&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

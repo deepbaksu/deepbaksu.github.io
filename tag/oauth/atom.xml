@@ -1,0 +1,157 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://deepbaksu.github.io</id>
+    <title>딥백수 • Posts by &#34;oauth&#34; tag</title>
+    <link href="https://deepbaksu.github.io" />
+    <updated>2020-08-17T08:32:54.000Z</updated>
+    <category term="Mo Kweon" />
+    <category term="go" />
+    <category term="golang" />
+    <category term="dependency injection" />
+    <category term="wire" />
+    <category term="uber-go" />
+    <category term="fx" />
+    <category term="Hyunggi Chang" />
+    <category term="AI" />
+    <category term="딥러닝" />
+    <category term="로보틱스" />
+    <category term="YouTube" />
+    <category term="News" />
+    <category term="Hyunseok Jeong" />
+    <category term="Software Architecture" />
+    <category term="Agile" />
+    <category term="Architect" />
+    <category term="Jinyoung Song" />
+    <category term="데이터분석" />
+    <category term="통계분석" />
+    <category term="통계학" />
+    <category term="통계역사" />
+    <category term="비트코인" />
+    <category term="제국주의" />
+    <category term="미래전망" />
+    <category term="플랫폼전략" />
+    <category term="디지털자산" />
+    <category term="microservice" />
+    <category term="CQRS" />
+    <category term="architecture" />
+    <category term="software engineering" />
+    <category term="선지원" />
+    <category term="후고민" />
+    <category term="선지원 후고민" />
+    <category term="실험" />
+    <category term="Apply Driven Study" />
+    <category term="생존" />
+    <category term="멘토링" />
+    <category term="용기" />
+    <category term="free web server" />
+    <category term="heroku" />
+    <category term="aws" />
+    <category term="gcp" />
+    <category term="netlify" />
+    <category term="github actions" />
+    <category term="구글애널리틱스" />
+    <category term="GA" />
+    <category term="Google Analytics" />
+    <category term="Data Analysis" />
+    <category term="Web Log Analysis" />
+    <category term="Happy working" />
+    <category term="Mindfulness" />
+    <category term="Noble Eightfold Path" />
+    <category term="gRPC" />
+    <category term="Go" />
+    <category term="REST" />
+    <category term="존버" />
+    <category term="jonber" />
+    <category term="딥백수" />
+    <category term="회고" />
+    <category term="bluehole" />
+    <category term="krafton" />
+    <category term="communication" />
+    <category term="GitHub CLI" />
+    <category term="Gist" />
+    <category term="Leaning by Doing" />
+    <category term="Repo" />
+    <category term="Alias" />
+    <category term="습관" />
+    <category term="중용" />
+    <category term="꾸준함" />
+    <category term="성실" />
+    <category term="대화" />
+    <category term="비폭력대화" />
+    <category term="Golang" />
+    <category term="Slice" />
+    <category term="example" />
+    <category term="Windows" />
+    <category term="PowerShell" />
+    <category term="PowerShell script" />
+    <category term="Git" />
+    <category term="Prompt" />
+    <category term="Martin Fowler" />
+    <category term="Refactoring" />
+    <category term="Principles" />
+    <category term="파이썬" />
+    <category term="실무" />
+    <category term="데이터분석 실무" />
+    <category term="네트워크 분석" />
+    <category term="최적화" />
+    <category term="시뮬레이션" />
+    <category term="자연어처리" />
+    <category term="회귀" />
+    <category term="예측 분석" />
+    <category term="semantic release" />
+    <category term="semantic version" />
+    <category term="slack" />
+    <category term="bot" />
+    <category term="oauth" />
+    <category term="Github Action" />
+    <category term="Slack" />
+    <category term="Automation" />
+    <category term="자동화" />
+    <category term="cron" />
+    <category term="Seunghwan Chang" />
+    <category term="English" />
+    <category term="would" />
+    <category term="ppt" />
+    <category term="발표" />
+    <category term="consulting" />
+    <category term="보고서" />
+    <category term="파워포인트" />
+    <category term="PT고자" />
+    <category term="ppt고자" />
+    <category term="ppt공포" />
+    <category term="슬라이드" />
+    <category term="Martin Hwang" />
+    <category term="Ray" />
+    <category term="distributed computing" />
+    <category term="parallel computing" />
+    <entry>
+        <id>https://deepbaksu.github.io/2020/08/17/slack-bot/</id>
+        <title>슬랙봇 Distribute 가능하게 만들기 (OAuth)</title>
+        <link rel="alternate" href="https://deepbaksu.github.io/2020/08/17/slack-bot/"/>
+        <content type="html">&lt;p&gt;딥백수에는 여러 슬랙봇들이 상주하고 있습니다.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/08/17/slack-bot/timebot_demo.png&#34; alt=&#34;캘리포니아/한국 시간 변환해주는 timebot&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;이렇게 만들어 둔 봇이 유용해서 다른 슬랙 workspace 에서 사용하고 싶을 때가 있습니다. 그러기 위해 distribute 가능하게 봇을 작성해야 합니다. 그러기 위해 OAuth를 사용해야 합니다.&lt;/p&gt;
+&lt;h2 id=&#34;oauth-란&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#oauth-란&#34;&gt;&lt;/a&gt; OAuth 란?&lt;/h2&gt;
+&lt;p&gt;OAuth는 엑세스를 관리하는 방법중에 표준으로 사용되는 방법입니다. A라는 애플리케이션에서 B사이트의 유저 정보가 필요하다면 B사이트로 OAuth Request 를 보내는 방식입니다.&lt;/p&gt;
+&lt;p&gt;여기서 슬랙봇이 A 애플리케이션이고 슬랙이 B에 해당합니다.&lt;/p&gt;
+&lt;h2 id=&#34;실제-slack-작동-구조&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#실제-slack-작동-구조&#34;&gt;&lt;/a&gt; 실제 Slack 작동 구조&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://a.slack-edge.com/fbd3c/img/api/articles/oauth_scopes_tutorial/slack_oauth_flow_diagram.png&#34; alt=&#34;OAuth&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;위 그림에서 구현해야 될게 많은 것으로 보이지만 실제로 &lt;code&gt;GET /api/oauth?code=XXXXX&lt;/code&gt; 엔드포인트를 서버에 만들어주고 토큰을 저장할 데이터베이스만 있으면 완성입니다.&lt;/p&gt;
+&lt;p&gt;예를 들어, 유저가 &lt;a href=&#34;https://slack.com/oauth/v2/authorize?client_id=288745980535.515443770183&amp;scope=channels:history,channels:join,channels:read,chat:write,chat:write.customize,chat:write.public,commands,dnd:read,emoji:read,groups:history,groups:read,groups:write,im:history,im:read,im:write,links:read,links:write,mpim:history,mpim:read,mpim:write,pins:read,pins:write,reactions:read,reactions:write,reminders:read,reminders:write,remote_files:read,remote_files:share,remote_files:write,team:read,usergroups:read,usergroups:write,users.profile:read,users:read,users:read.email,users:write,app_mentions:read&amp;user_scope=&#34;&gt;&lt;img alt=&#34;Add to Slack&#34; height=&#34;40&#34; width=&#34;139&#34; src=&#34;https://platform.slack-edge.com/img/add_to_slack.png&#34; srcSet=&#34;https://platform.slack-edge.com/img/add_to_slack.png 1x, https://platform.slack-edge.com/img/add_to_slack@2x.png 2x&#34; /&gt;&lt;/a&gt; 이 버튼을 누르고 동의를 하게 되면 timebot 서버로 GET /api/oauth?code=XXXX 리퀘스트를 보내게 됩니다. (step 2 에 해당)&lt;/p&gt;
+&lt;p&gt;그럼 이 code=XXX 를 사용하여 슬랙 서버에 OAuth 요청을 보내고(step 3) 받은 토큰을 데이터베이스에 저장해주면 됩니다 (step 4).&lt;/p&gt;
+&lt;p&gt;수도 코드는 아래와 같이 되어 있습니다.&lt;/p&gt;
+&lt;figure class=&#34;highlight go&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;func&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;OauthHandler&lt;/span&gt;&lt;span class=&#34;params&#34;&gt;(writer http.ResponseWriter, request *http.Request)&lt;/span&gt;&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;comment&#34;&gt;// GET ?code=XXXX 읽음&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  code, ok := request.URL.Query()[&lt;span class=&#34;string&#34;&gt;&amp;quot;code&amp;quot;&lt;/span&gt;]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;comment&#34;&gt;// CODE를 보냄 (POST https://api.slack.com/methods/oauth.v2.access)&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  resp, err := getOAuthV2Response(slackClientId, slackClientSecret, code[&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;], &lt;span class=&#34;string&#34;&gt;&amp;quot;&amp;quot;&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;comment&#34;&gt;// TeamID 및 AccessToken 저장&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  store(resp.TeamID, resp.AccessToken)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;comment&#34;&gt;// ... send ok response&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;code&gt;POST https://api.slack.com/methods/oauth.v2.access&lt;/code&gt; 의 예시 response&lt;/p&gt;
+&lt;figure class=&#34;highlight json&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;&amp;quot;ok&amp;quot;&lt;/span&gt;: &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;&amp;quot;access_token&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;xoxb-17653672481-19874698323-pdFZKVeTuE8sk7oOcBrzbqgy&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;&amp;quot;token_type&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;bot&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;&amp;quot;scope&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;commands,incoming-webhook&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;&amp;quot;bot_user_id&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;U0KRQLJ9H&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;&amp;quot;app_id&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;A0KRD7HC3&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;&amp;quot;team&amp;quot;&lt;/span&gt;: &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;&amp;quot;name&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;Slack Softball Team&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;&amp;quot;id&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;T9TK3CUKW&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &amp;#125;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;&amp;quot;enterprise&amp;quot;&lt;/span&gt;: &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;&amp;quot;name&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;slack-sports&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;&amp;quot;id&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;E12345678&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &amp;#125;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;&amp;quot;authed_user&amp;quot;&lt;/span&gt;: &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;&amp;quot;id&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;U1234&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;&amp;quot;scope&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;chat:write&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;&amp;quot;access_token&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;xoxp-1234&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;&amp;quot;token_type&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;user&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;이때 TeamID(workspace) 와 코드를 함께 저장해주면 나중에 유저 메시지로부터 반응하는 봇을 만들때 유저 메시지에 포함된 TeamID를 읽어 Access Token 을 DB에서 불러오는 식으로 사용합니다.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/08/17/slack-bot/timebot_sequential.svg&#34; alt=&#34;timebot 순서도&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;자세한 내용은 &lt;a href=&#34;https://bit.ly/2Sqdnws&#34;&gt;https://bit.ly/2Sqdnws&lt;/a&gt; 에 참여하셔서 문의주세요 😄&lt;/p&gt;
+</content>
+        <category term="Mo Kweon" />
+        <category term="go" />
+        <category term="slack" />
+        <category term="bot" />
+        <category term="oauth" />
+        <updated>2020-08-17T08:32:54.000Z</updated>
+    </entry>
+</feed>

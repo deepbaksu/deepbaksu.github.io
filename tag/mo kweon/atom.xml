@@ -1,0 +1,404 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://deepbaksu.github.io</id>
+    <title>딥백수 • Posts by &#34;mo kweon&#34; tag</title>
+    <link href="https://deepbaksu.github.io" />
+    <updated>2020-09-17T17:49:37.000Z</updated>
+    <category term="Mo Kweon" />
+    <category term="go" />
+    <category term="golang" />
+    <category term="dependency injection" />
+    <category term="wire" />
+    <category term="uber-go" />
+    <category term="fx" />
+    <category term="Hyunggi Chang" />
+    <category term="AI" />
+    <category term="딥러닝" />
+    <category term="로보틱스" />
+    <category term="YouTube" />
+    <category term="News" />
+    <category term="Hyunseok Jeong" />
+    <category term="Software Architecture" />
+    <category term="Agile" />
+    <category term="Architect" />
+    <category term="Jinyoung Song" />
+    <category term="데이터분석" />
+    <category term="통계분석" />
+    <category term="통계학" />
+    <category term="통계역사" />
+    <category term="비트코인" />
+    <category term="제국주의" />
+    <category term="미래전망" />
+    <category term="플랫폼전략" />
+    <category term="디지털자산" />
+    <category term="microservice" />
+    <category term="CQRS" />
+    <category term="architecture" />
+    <category term="software engineering" />
+    <category term="선지원" />
+    <category term="후고민" />
+    <category term="선지원 후고민" />
+    <category term="실험" />
+    <category term="Apply Driven Study" />
+    <category term="생존" />
+    <category term="멘토링" />
+    <category term="용기" />
+    <category term="free web server" />
+    <category term="heroku" />
+    <category term="aws" />
+    <category term="gcp" />
+    <category term="netlify" />
+    <category term="github actions" />
+    <category term="구글애널리틱스" />
+    <category term="GA" />
+    <category term="Google Analytics" />
+    <category term="Data Analysis" />
+    <category term="Web Log Analysis" />
+    <category term="Happy working" />
+    <category term="Mindfulness" />
+    <category term="Noble Eightfold Path" />
+    <category term="gRPC" />
+    <category term="Go" />
+    <category term="REST" />
+    <category term="존버" />
+    <category term="jonber" />
+    <category term="딥백수" />
+    <category term="회고" />
+    <category term="bluehole" />
+    <category term="krafton" />
+    <category term="communication" />
+    <category term="GitHub CLI" />
+    <category term="Gist" />
+    <category term="Leaning by Doing" />
+    <category term="Repo" />
+    <category term="Alias" />
+    <category term="습관" />
+    <category term="중용" />
+    <category term="꾸준함" />
+    <category term="성실" />
+    <category term="대화" />
+    <category term="비폭력대화" />
+    <category term="Golang" />
+    <category term="Slice" />
+    <category term="example" />
+    <category term="Windows" />
+    <category term="PowerShell" />
+    <category term="PowerShell script" />
+    <category term="Git" />
+    <category term="Prompt" />
+    <category term="Martin Fowler" />
+    <category term="Refactoring" />
+    <category term="Principles" />
+    <category term="파이썬" />
+    <category term="실무" />
+    <category term="데이터분석 실무" />
+    <category term="네트워크 분석" />
+    <category term="최적화" />
+    <category term="시뮬레이션" />
+    <category term="자연어처리" />
+    <category term="회귀" />
+    <category term="예측 분석" />
+    <category term="semantic release" />
+    <category term="semantic version" />
+    <category term="slack" />
+    <category term="bot" />
+    <category term="oauth" />
+    <category term="Github Action" />
+    <category term="Slack" />
+    <category term="Automation" />
+    <category term="자동화" />
+    <category term="cron" />
+    <category term="Seunghwan Chang" />
+    <category term="English" />
+    <category term="would" />
+    <category term="ppt" />
+    <category term="발표" />
+    <category term="consulting" />
+    <category term="보고서" />
+    <category term="파워포인트" />
+    <category term="PT고자" />
+    <category term="ppt고자" />
+    <category term="ppt공포" />
+    <category term="슬라이드" />
+    <category term="Martin Hwang" />
+    <category term="Ray" />
+    <category term="distributed computing" />
+    <category term="parallel computing" />
+    <entry>
+        <id>https://deepbaksu.github.io/2020/09/17/lesson-learned-at-bluehole/</id>
+        <title>나는 블루홀에서 무엇을 배웠나</title>
+        <link rel="alternate" href="https://deepbaksu.github.io/2020/09/17/lesson-learned-at-bluehole/"/>
+        <content type="html">&lt;p&gt;한국에서 여러 회사에 다닌 곳 중에서 가장 기억에 남는 곳은 블루홀(현재는 크래프톤) 입니다. 그때 운이 좋게도 이상균 디렉터님으로부터 &amp;quot;의도&amp;quot;를 전달하는 커뮤니케이션에 대해 알게 되었고 깊이 익혀 항상 커뮤니케이션을 잘한다는 소리를 주변으로부터 들어올 수 있었습니다.&lt;/p&gt;
+&lt;p&gt;보통 일반적인 회사에서의 커뮤니케이션 문제는 다음 그림과 같이 &#39;의도’가 명확하게 드러나지 않은 소통을 하기 때문에 발생합니다.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/09/17/lesson-learned-at-bluehole/communication.jpg&#34; alt=&#34;이상균 - 게임 디렉팅 튜토리얼 중&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;전시-행동-강령&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#전시-행동-강령&#34;&gt;&lt;/a&gt; 전시 행동 강령&lt;/h2&gt;
+&lt;p&gt;모든 부대에는 전시에 특별한 지시 없어도 일사불란하게 움직이도록 “전시 행동 강령” 이라는 게 있습니다. 예를 들어, 이상균 님은 카투사로 복무하면서 다음과 같은 전시 행동 강령을 부여받았습니다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;모든 문서를 파기하고 하드디스크를 뽑아 들고&lt;/li&gt;
+&lt;li&gt;용산 고등학교 운동장에서 헬기를 타는 것&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;그런데 말입니다. 용산 고등학교가 파괴되었다면? 단순 지시사항이 저게 전부였다면 용산 고등학교 근처에서 우왕좌왕했을 것입니다.&lt;/p&gt;
+&lt;p&gt;그런데 만약 “최신 카투사 신병 자료를 캠프 헨리까지 옮겨야 한다” 는 의도가 전달되었다면?&lt;/p&gt;
+&lt;p&gt;탈것을 구하든, 걸어서든 캠프 헨리까지 가려고 했을 것입니다.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/09/17/lesson-learned-at-bluehole/commander_intent.jpg&#34; alt=&#34;지휘관의 의도&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;지휘관의-의도&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#지휘관의-의도&#34;&gt;&lt;/a&gt; 지휘관의 의도&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;1980년 미 육군에서 대부분의 전시 행동 강령과 작전계획이 무용지물이 된다는 걸 깨닫고 대안으로 제시한 개념&lt;/li&gt;
+&lt;li&gt;모든 명령서에는 최상단에 의도를 짧게 서술&lt;/li&gt;
+&lt;li&gt;강령보다 의도를 중심&lt;/li&gt;
+&lt;li&gt;하드디스크를 들고 용산 고등학교로 가라 (X)&lt;/li&gt;
+&lt;li&gt;최신 카투사 신병 자료를 캠프 헨리의 작전 본부까지 옮겨라 (O)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;지시를-전달할-때는-왜냐하면-이-들어간다&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#지시를-전달할-때는-왜냐하면-이-들어간다&#34;&gt;&lt;/a&gt; 지시를 전달할 때는 “왜냐하면” 이 들어간다.&lt;/h2&gt;
+&lt;div style=&#34;display: flex;&#34;&gt;
+  &lt;div style=&#34;display: flex; flex-direction: column;&#34;&gt;
+    &lt;img alt=&#34;의도가 없는 기획서&#34; src=&#34;./lesson-learned-at-bluehole/design_doc_1.jpg&#34;&gt;
+  &lt;/div&gt;
+  &lt;div style=&#34;display: flex; flex-direction: column;&#34;&gt;
+    &lt;img alt=&#34;의도가 있는 기획서&#34; src=&#34;./lesson-learned-at-bluehole/design_doc_2.jpg&#34;&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;고기는 오전 9시, 자정, 오후 6시, 오후 9시에 채워집니다. &lt;strong&gt;왜냐하면&lt;/strong&gt; 출근(등교), 점심, 퇴근(하교) 자기 직전 시간에 게임 플레이를 유도하고 싶습니다.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;의도를 전달하지 않으면 &amp;quot;내 마음을 맞춰봐&amp;quot;와 같다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;맨 위에 나온 슬픈 대화 내용도 디렉터가 의도를 전달했다면 다음과 같을 것입니다.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/09/17/lesson-learned-at-bluehole/director_intent.jpg&#34; alt=&#34;디렉터의 의도&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;디렉팅이-아니더라도-의도-전달은-중요하다&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#디렉팅이-아니더라도-의도-전달은-중요하다&#34;&gt;&lt;/a&gt; 디렉팅이 아니더라도 의도 전달은 중요하다.&lt;/h2&gt;
+&lt;p&gt;이 글을 쓴 목적이 이것입니다. 디렉팅이 아니어도 의도 전달은 중요합니다.&lt;/p&gt;
+&lt;p&gt;실제로 겪은 한가지 예는 다음과 같은 상황입니다.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“CLI 애플리케이션을 위해 A 라이브러리 사용법을 문의하고 싶은데요 &lt;strong&gt;왜냐하면&lt;/strong&gt; 코드를 제출할 때마다 주요 체크리스트를 점검할 수 있도록 유저가 로컬에서 돌려볼 수 있게 하고 싶습니다.”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;그러면 종종 저는 &amp;quot;그런 경우라면 CLI보다 린터 서버를 구성해 자동으로 실행되도록 하는 것이 어떨까요?&amp;quot;라는 답변을 들을 수 있습니다. 의도를 전달하지 않았다면 저는 A 라이브러리 사용법에 대해 듣고 그것이 최선인 방법인 것으로 알고 계속 진행했을 것입니다.&lt;/p&gt;
+&lt;p&gt;코드 리뷰를 하더라도 항상 의도를 적어주면 오해가 적어지게 됩니다.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“여기서는 하드코딩으로 변경해주세요 &lt;strong&gt;왜냐하면&lt;/strong&gt; Example 코드로 문서화되기 때문에 유저가 변수를 찾기 위해 점프하는 일이 없도록 하고 싶습니다.”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;위는 예시를 든 것이고 회의에서 의견을 제시하더라도 &lt;strong&gt;왜냐하면&lt;/strong&gt;을 붙여준다면 오해가 적어지고 또 다른 좋은 의견을 끌어내게 됩니다.&lt;/p&gt;
+&lt;h2 id=&#34;결론&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#결론&#34;&gt;&lt;/a&gt; 결론&lt;/h2&gt;
+&lt;p&gt;업무에서 의사소통하면서 &amp;quot;왜냐하면&amp;quot;을 사용하고 있는지 되돌아보시길 바랍니다. 이 외에도 이상균님으로부터 배운 지식들로는 DRI(Directly Responsible Individual) 등 및 좋은 결정을 하는 방법 등이 있습니다.&lt;/p&gt;
+&lt;p&gt;그리고 위에 적은대로 의도 전달만으로는 충분하지 않을 수 있습니다.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/09/17/lesson-learned-at-bluehole/understanding_disparity.jpg&#34; alt=&#34;디렉터와 멤버간 이해 차이&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;디렉터와 멤버간의 이해차이가 발생하였고 디렉터는 의도 전달을 통해 디렉팅을 하지만 여전히 제대로 된 의도 전달이 안되었을 수 도 있습니다.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/09/17/lesson-learned-at-bluehole/understanding_disparity_2.jpg&#34; alt=&#34;디렉팅 후 멤버간 이해 차이&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;그래서 중요한 것이 피드백을 잘하는 방법입니다.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/09/17/lesson-learned-at-bluehole/feedback_summary.jpg&#34; alt=&#34;피드백 하는법 요약&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;더 궁금하신 분들은 꼭 이상균 님의 &lt;a href=&#34;https://www.slideshare.net/iyooha/ss-69350767/31&#34;&gt;게임 디렉팅 튜토리얼&lt;/a&gt;을 살펴보시기를 추천드립니다.&lt;/p&gt;
+&lt;p&gt;이외에도 더 좋은 내용 디스커션을 원하시는 분들은 &lt;a href=&#34;https://bit.ly/2Sqdnws&#34;&gt;딥백수 슬랙&lt;/a&gt;을 방문해주세요.&lt;/p&gt;
+&lt;h2 id=&#34;레퍼런스&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#레퍼런스&#34;&gt;&lt;/a&gt; 레퍼런스&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;이상균 - 게임 디렉팅 튜토리얼: &lt;a href=&#34;https://www.slideshare.net/iyooha/ss-69350767/31&#34;&gt;https://www.slideshare.net/iyooha/ss-69350767/31&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;이상균 - 프로그래머에게 사랑받는 게임 기획서 작성법: &lt;a href=&#34;https://www.slideshare.net/iyooha/20101002-53482961&#34;&gt;https://www.slideshare.net/iyooha/20101002-53482961&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        <category term="Mo Kweon" />
+        <category term="bluehole" />
+        <category term="krafton" />
+        <category term="communication" />
+        <updated>2020-09-17T17:49:37.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://deepbaksu.github.io/2020/09/06/free-web-server-for-your-portfolio/</id>
+        <title>무료로 개인 프로젝트 호스팅 하기</title>
+        <link rel="alternate" href="https://deepbaksu.github.io/2020/09/06/free-web-server-for-your-portfolio/"/>
+        <content type="html">&lt;p&gt;&lt;img src=&#34;/2020/09/06/free-web-server-for-your-portfolio/heroku_projects.jpg&#34; alt=&#34;Heroku 에서 무로료 호스팅 중인 프로젝트들&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;많은 기업에서 채용을 위한 조건으로 포트폴리오를 내걸고 있습니다. 그래서 보통 열심히 코딩을 하며 개인 프로젝트를 수행합니다. 그런데 포트폴리오 소스코드를 만들었다 해도, 다른 분들에게 보여줄 수 없다면 큰 의미가 없을겁니다. 그래서 호스팅을 해야 하는데, 서버가 24시간 돌아가야하는 호스팅의 특성상 무료가 아닌 경우가 많습니다.&lt;/p&gt;
+&lt;p&gt;개인프로젝트들을 무료로 호스팅할 수 있는 방법들을 무엇이 있을까요? 예를 들어 24시간 상주해있어야 되는 봇도 무료로 배포할 수 있습니다. 예를 들어 저희 딥백수 커뮤니티에서는 여러 봇들이 상주하고 있는데 소수를 제외하면 전부 무료로 운영하고 있습니다. 또한, 개인 프로젝트들 또한 무료로 전부 데모를 호스팅하거나 공식문서를 무료로 호스팅하고 있습니다.&lt;/p&gt;
+&lt;p&gt;이 글에서 프로젝트들은 다음과 같이 분류하고 있습니다.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;CSS, HTML, JS 로만 이루어진 프론트엔드&lt;/li&gt;
+&lt;li&gt;일정한 스케쥴에 따라 작동하는 크론잡&lt;/li&gt;
+&lt;li&gt;백엔드 서비스가 필요한 경우&lt;/li&gt;
+&lt;li&gt;데이터 저장이 필요한 경우&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;한가지 범위에만 속하지 않을 수 도 있습니다. 예를 들어 백엔드 서비스가 필요하면서 데이터 저장이 필요한 경우는 꽤 자주 있는 경우입니다. 또한 당연히 프로젝트가 어느정도 규모로 커지게 되면 무료로는 한계가 있습니다.&lt;/p&gt;
+&lt;h2 id=&#34;프론트엔드&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#프론트엔드&#34;&gt;&lt;/a&gt; 프론트엔드&lt;/h2&gt;
+&lt;p&gt;배포하고자 하는 프로젝트가 전부 스태틱 파일이라면 이런 경우에 속합니다. 이런 경우 &lt;a href=&#34;https://pages.github.com/&#34;&gt;GitHub Pages&lt;/a&gt; 를 통해서 배포해주는게 제일 간편합니다. 예를 들어 현재 이 블로그는 &lt;a href=&#34;https://github.com/deepbaksu/deepbaksu.github.io/tree/master&#34;&gt;https://github.com/deepbaksu/deepbaksu.github.io/tree/master&lt;/a&gt; 에서 GitHub pages 로 호스팅 되고 있습니다.&lt;/p&gt;
+&lt;p&gt;예를 들어 오픈소스로 라이브러리를 만든다면 라이브러리에 대한 문서를 GitHub Pages 를 통해 배포하는 것이 일반적입니다.&lt;/p&gt;
+&lt;p&gt;혹은 &lt;a href=&#34;https://www.netlify.com/&#34;&gt;Netlify&lt;/a&gt; 를 이용하는 방법도 있습니다. 하지만 Netlify 는 단순히 스태틱 파일을 호스팅하는 용도로는 Overkill 에 가깝습니다. Bandwidth 제한도 존재하구요.&lt;/p&gt;
+&lt;p&gt;어떤걸 사용하던지 GitHub Actions 같은 CI 도구를 이용해 자동으로 배포가 되도록 하면 항상 최신 버전의 데모를 보여줄 수 있습니다.&lt;/p&gt;
+&lt;h2 id=&#34;일정한-스케쥴에-따라-작동하는-크론잡&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#일정한-스케쥴에-따라-작동하는-크론잡&#34;&gt;&lt;/a&gt; 일정한 스케쥴에 따라 작동하는 크론잡&lt;/h2&gt;
+&lt;p&gt;딥백수에서는 매 1시간마다 슬랙 내용을 엘라스틱서치로 백업하는 봇이 상주하고 있습니다. 이런 식으로 매일 1시에 이메일을 보내야 한다던지 혹은 메시지를 보내야 하는 경우 &lt;a href=&#34;https://docs.github.com/en/actions&#34;&gt;GitHub Action&lt;/a&gt; 을 이용하면 가능합니다.&lt;/p&gt;
+&lt;p&gt;아래 예시는 딥백수 슬랙 메시지를 백업하는 스케쥴 작업으로 마지막으로 백업한 메시지의 timestamp.txt 를 깃헙리포에 저장해놓고&lt;br /&gt;
+다음번 작업에서 그 시간부터 현재시간까지의 메시지를 슬랙으로부터 가져와 엘라스틱서치로 보내는 예시입니다.&lt;/p&gt;
+&lt;figure class=&#34;highlight yaml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;33&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;34&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;35&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;36&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;37&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;38&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;39&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;40&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;41&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;42&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;43&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;44&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;45&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;46&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;47&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;name:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;Fetch&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;slack&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;messages&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;and&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;push.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;on:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;schedule:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;comment&#34;&gt;# every hour.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;cron:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;0 * * * *&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;repository_dispatch:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;types:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;manual-trigger&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# A workflow run is made up of one or more jobs that can run sequentially or in parallel&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;jobs:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;comment&#34;&gt;# This workflow contains a single job called &amp;quot;build&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;build:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;comment&#34;&gt;# The type of runner that the job will run on&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;runs-on:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;ubuntu-latest&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;comment&#34;&gt;# Steps represent a sequence of tasks that will be executed as part of the job&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;steps:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;comment&#34;&gt;# Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;uses:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;actions/checkout@v2&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;name:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;Prepare&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;credentials.json&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;env:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;          &lt;span class=&#34;attr&#34;&gt;PASSPHRASE:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;$&amp;#123;&amp;#123;&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;secrets.GPG_PASSPHRASE&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;#125;&amp;#125;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;run:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;|&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;          gpg --quiet --batch --yes --decrypt --passphrase=$PASSPHRASE --output credentials.json credentials.json.gpg&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;&lt;/span&gt;      &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;name:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;Prepare&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;token.json&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;env:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;          &lt;span class=&#34;attr&#34;&gt;PASSPHRASE:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;$&amp;#123;&amp;#123;&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;secrets.GPG_PASSPHRASE&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;#125;&amp;#125;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;run:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;|&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;          gpg --quiet --batch --yes --decrypt --passphrase=$PASSPHRASE --output token.json token.json.gpg&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;&lt;/span&gt;      &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;name:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;Run&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;the&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;docker&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;script&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;env:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;          &lt;span class=&#34;attr&#34;&gt;SLACK_TOKEN:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;$&amp;#123;&amp;#123;&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;secrets.SLACK_TOKEN&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;#125;&amp;#125;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;          &lt;span class=&#34;attr&#34;&gt;SHEET_ID:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;$&amp;#123;&amp;#123;&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;secrets.SHEET_ID&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;#125;&amp;#125;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;          &lt;span class=&#34;attr&#34;&gt;LB_IP:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;$&amp;#123;&amp;#123;&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;secrets.LB_IP&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;#125;&amp;#125;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;          &lt;span class=&#34;attr&#34;&gt;ES_USERNAME:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;$&amp;#123;&amp;#123;&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;secrets.ES_USERNAME&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;#125;&amp;#125;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;          &lt;span class=&#34;attr&#34;&gt;ES_PASSWORD:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;$&amp;#123;&amp;#123;&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;secrets.ES_PASSWORD&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;#125;&amp;#125;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;run:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;make&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;run_prod&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;put_data&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;name:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;Commit&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;last_timestamp.txt&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;run:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;|&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;          git config --global user.name &amp;#x27;GitHub Action&amp;#x27;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;          git config --global user.email &amp;#x27;kkweon@gmail.com&amp;#x27;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;          git commit -am &amp;#x27;Update last_timestamp.txt&amp;#x27;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;          git push&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;백엔드-서비스가-필요한-경우&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#백엔드-서비스가-필요한-경우&#34;&gt;&lt;/a&gt; 백엔드 서비스가 필요한 경우&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/08/17/slack-bot/timebot_demo.png&#34; alt=&#34;미국/한국 시간을 변환해주는 서비스&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;저희 딥백수에서는 한국 시간이 메시지로 올라오면 자동으로 미국 시간으로 변환해주는 봇이 존재합니다. 이런 경우 서버에서 메시지를 받을 수 있어야 하기 때문에 앞에 나온 방법으로는 불가능합니다.&lt;/p&gt;
+&lt;p&gt;AWS와 구글클라우드의 무료티어도 방법이지만 매우 간편한 &lt;a href=&#34;https://en.wikipedia.org/wiki/Platform_as_a_service&#34;&gt;PaaS&lt;/a&gt; 인 &lt;a href=&#34;https://www.heroku.com/&#34;&gt;Heroku&lt;/a&gt; 를 추천합니다. Docker도 지원하고 GitHub 에서 자동으로 배포되도록 연동도 쉽게 가능합니다.&lt;/p&gt;
+&lt;p&gt;또 주로 사용하는 다른 방법은 AWS Lambda 를 사용하는 방법도 있습니다. 어느정도 관대한 정책 덕분에 또 트래픽이 많지 않은 개인 프로젝트 같은 경우 서버리스가 최적이라고 할 수 있습니다. 대신 단점은 서버리스 프레임워크/라이브러리를 사용해야 된다는 점이 있으나 큰 문제는 아닙니다.&lt;/p&gt;
+&lt;h2 id=&#34;데이터-저장이-필요한-경우&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#데이터-저장이-필요한-경우&#34;&gt;&lt;/a&gt; 데이터 저장이 필요한 경우&lt;/h2&gt;
+&lt;p&gt;서비스보다는 말그대로 데이터베이스만 필요한 경우, 3가지 정도로 나눠서 작업하고 있습니다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;위에서 나온 가장 마지막 메시지의 시간을 저장하는 등의 어플리케이션 상태를 저장하는 경우&lt;/li&gt;
+&lt;li&gt;데이터베이스가 필요하다기보다 그냥 기록으로 저장해두는 공간이 필요한 경우&lt;/li&gt;
+&lt;li&gt;데이터베이스가 필요한 경우&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;어플리케이션-상태를-저장하는-경우&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#어플리케이션-상태를-저장하는-경우&#34;&gt;&lt;/a&gt; 어플리케이션 상태를 저장하는 경우&lt;/h3&gt;
+&lt;p&gt;저희는 이런 경우 GitHub Repo 에 체크인하는 식으로 코드를 사용합니다. 말그대로 커밋하고 푸시하는 식으로 작성합니다. 특히 상태가 있는 크론잡의 경우 GitHub Action 을 통해 매우 자주 사용되는 경우입니다.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/09/06/free-web-server-for-your-portfolio/application_state_in_repo.jpg&#34; alt=&#34;Application 상태를 GitHub Repo 에 저장해두는 경우&#34; /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;단순하기-기록을-저장할-필요가-있는-경우&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#단순하기-기록을-저장할-필요가-있는-경우&#34;&gt;&lt;/a&gt; 단순하기 기록을 저장할 필요가 있는 경우&lt;/h3&gt;
+&lt;p&gt;예를 들어 메시지를 단순히 저장하고 싶은 경우 구글 스프레드시트 API 를 사용해 구글 스프레드시트를 일종의 데이터베이스로 사용할 수 있습니다. 뜨 구글 스프레드시트 앱 내부에서 크론잡 또한 가능함으로 모니터링 시스템을 구축할 수 도 있습니다.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/09/06/free-web-server-for-your-portfolio/spreadsheet_as_database.jpg&#34; alt=&#34;구글 스프레드시트를 통해 슬랙 메시지를 백업&#34; /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;데이터베이스가-필요한-경우&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#데이터베이스가-필요한-경우&#34;&gt;&lt;/a&gt; 데이터베이스가 필요한 경우&lt;/h3&gt;
+&lt;p&gt;만약 데이터베이스가 필요하다면 2가지 방법을 사용하고 있습니다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;파이어베이스를 사용하거나&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://elements.heroku.com/addons&#34;&gt;Heroku Add-ons&lt;/a&gt; 을 사용하거나&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.mongodb.com/cloud/atlas&#34;&gt;MongoDB Atlas&lt;/a&gt; 를 사용합니다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;파이어베이스는 쉽고 간편한 대신 벤더락인(Vendor Lock-In)&lt;sup class=&#34;footnote-ref&#34;&gt;&lt;a href=&#34;#fn1&#34; id=&#34;fnref1&#34;&gt;[1]&lt;/a&gt;&lt;/sup&gt; 이 된다는 단점이 있습니다.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/09/06/free-web-server-for-your-portfolio/firebase_pricing.jpg&#34; alt=&#34;Firebase 가격 정보&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;두번째는 Heroku Add-ons 을 사용하는 방법입니다. Redis, Postgres, MySQL 등등 필요한 서비스를 찾을 수 있습니다.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/09/06/free-web-server-for-your-portfolio/heroku_addons.jpg&#34; alt=&#34;Heroku Addons. Redis, Postgres, MySQL 등을 찾을 수 있다&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;세번째는 MongoDB Atlas 도 원래 mLab 을 통해서 Heroku Addons에서 존재했었는데 Heroku Addons 으로서 결별하여 지금은 MongoDB Atlas 플랫폼을 통해서 사용해야 됩니다. 대신에 512MB 까지 무료로 사용 가능하고 관대한 편이라 거의 자주 사용하고 있습니다.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/09/06/free-web-server-for-your-portfolio/mongodb_atlas_pricing.jpg&#34; alt=&#34;MongoDB Atlas 가격&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;마무리&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#마무리&#34;&gt;&lt;/a&gt; 마무리&lt;/h2&gt;
+&lt;p&gt;무료 서비스 이외에도 사용가능한 방법으로는 라즈베리파이를 이용하는 방법도 있습니다. 라즈베리파이4는 메모리가 8GB 까지 존재하며 아이피주소는 공유기에 존재하는 &lt;a href=&#34;https://en.wikipedia.org/wiki/Dynamic_DNS&#34;&gt;Dynamic DNS&lt;/a&gt; 를 사용하면 됩니다. 실제로 저는 라즈베리파이에 k3s 을 이용해 쿠버네티스를 이용한 서비스들도 사용하고 있습니다. 좀더 스케일이 필요한 경우에는 저렴한 Digital Ocean 을 주로 사용합니다.&lt;/p&gt;
+&lt;p&gt;더 자세히 알고 싶으신 분은 &lt;a href=&#34;https://bit.ly/2Sqdnws&#34;&gt;딥백수 슬랙&lt;/a&gt; 에서 뵈요 😄&lt;/p&gt;
+&lt;hr class=&#34;footnotes-sep&#34; /&gt;
+&lt;section class=&#34;footnotes&#34;&gt;
+&lt;ol class=&#34;footnotes-list&#34;&gt;
+&lt;li id=&#34;fn1&#34; class=&#34;footnote-item&#34;&gt;&lt;p&gt;벤더락인이란 특정 플랫폼 벤더에 종속성이 생기는 현상입니다. &lt;a href=&#34;#fnref1&#34; class=&#34;footnote-backref&#34;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</content>
+        <category term="Mo Kweon" />
+        <category term="free web server" />
+        <category term="heroku" />
+        <category term="aws" />
+        <category term="gcp" />
+        <category term="netlify" />
+        <category term="github actions" />
+        <updated>2020-09-06T11:23:04.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://deepbaksu.github.io/2020/08/21/Go-wire-dependency-injection-tutorial/</id>
+        <title>Go Dependency Injection Tutorial (feat. Wire)</title>
+        <link rel="alternate" href="https://deepbaksu.github.io/2020/08/21/Go-wire-dependency-injection-tutorial/"/>
+        <content type="html">&lt;p&gt;Dependency Injection(DI)을 한국어로 의존성 주입이라고도 하지만 실제로는 DI라고 했을때 우리는 DI Framework/Library 를 의미합니다. 우선 Dependency Injection 이 무엇인지 에 대해 설명하겠습니다.&lt;/p&gt;
+&lt;p&gt;예를 들어 &lt;code&gt;PostService&lt;/code&gt; 는 블로그 포스트를 작성해주는 서비스가 있다고 가정합니다.&lt;/p&gt;
+&lt;figure class=&#34;highlight golang&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;type&lt;/span&gt; PostService &lt;span class=&#34;keyword&#34;&gt;interface&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  CreatePost(Post) Post&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;이때 우리는 블로그 포스트를 데이터베이스에 저장하고 싶습니다. 그러기 위해서 &lt;code&gt;CreatePost(Post)&lt;/code&gt; 함수 안에서&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;데이터베이스에 연결하고&lt;/li&gt;
+&lt;li&gt;Post 를 INSERT 한다.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;이런식으로 할 수 도 있습니다. 하지만 이런식으로 하기보다는 비지니스 로직과 데이터베이스를 다루는 코드를 분리하여 데이터베이스에 저장하는 코드는 &lt;code&gt;PostRepository&lt;/code&gt; 에 대행시킬 것입니다.&lt;/p&gt;
+&lt;figure class=&#34;highlight golang&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;type&lt;/span&gt; PostRepository &lt;span class=&#34;keyword&#34;&gt;interface&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  StorePost(Post) &lt;span class=&#34;keyword&#34;&gt;bool&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/08/21/Go-wire-dependency-injection-tutorial/architecture.jpg&#34; alt=&#34;Architecture&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;즉 보시다싶이 &lt;code&gt;PostService&lt;/code&gt; 가 &lt;code&gt;PostRepository&lt;/code&gt; 에 의존하고 있습니다.&lt;br /&gt;
+그러면 &lt;code&gt;PostService&lt;/code&gt; 를 생성하기 위해 다음과 같은 코드를 작성할 것입니다.&lt;/p&gt;
+&lt;figure class=&#34;highlight go&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;func&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;NewPostService&lt;/span&gt;&lt;span class=&#34;params&#34;&gt;(repo PostRepository)&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;PostService&lt;/span&gt;&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	&lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; &amp;amp;postService&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		Repo: repo,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;이게 Dependency Injection 입니다. 이때 만약 Postgres가 아니라 Sqlite 나 심지어 메모리에 저장하고 싶으면 어떻게 될까요? 그에 해당하는 PostRepository 객체를 바꿔껴주기만 하면 됩니다.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/08/21/Go-wire-dependency-injection-tutorial/different_repository.svg&#34; alt=&#34;InMemoryPostRepository&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;이렇게 의존성이 간단하면 Dependency Injection 프레임워크가 없더라도 손으로 Dependency Injection 설계도 가능합니다. 하지만 이렇게 의존하는 서비스가 많아진다면?&lt;/p&gt;
+&lt;figure class=&#34;highlight go&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;func&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;NewPostService&lt;/span&gt;&lt;span class=&#34;params&#34;&gt;(someService SomeService, otherService OtherService, repo PostRepository, ...)&lt;/span&gt;&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;comment&#34;&gt;// ...&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&#34;highlight go&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;// main.go&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;func&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;main&lt;/span&gt;&lt;span class=&#34;params&#34;&gt;()&lt;/span&gt;&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  otherSerivce := NewOtherService(&lt;span class=&#34;string&#34;&gt;&amp;quot;secret&amp;quot;&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  someService := NewSomeService(otherService)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  postRepository := NewPostRepository(&lt;span class=&#34;string&#34;&gt;&amp;quot;dburl&amp;quot;&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  potService := NewPostService(someService, otherService, postRepository)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;comment&#34;&gt;// ...&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;일일히 손으로 바꿔주는게 매우 귀찮고 손이 많이갑니다. 순서도 맞춰줘야 되고 argument 위치나 귀찮은게 한두가지가 아닙니다. 이걸 자동으로 해주는 것이 바로 Dependency Injection Framework 이고 Go 에서는 &lt;a href=&#34;https://github.com/google/wire&#34;&gt;wire&lt;/a&gt; 와 &lt;a href=&#34;https://github.com/uber-go/fx&#34;&gt;fx&lt;/a&gt; 가 있습니다.&lt;/p&gt;
+&lt;h2 id=&#34;준비물&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#준비물&#34;&gt;&lt;/a&gt; 준비물&lt;/h2&gt;
+&lt;p&gt;여기서는 구글의 &lt;a href=&#34;https://github.com/google/wire&#34;&gt;wire&lt;/a&gt; 를 사용하도록 하겠습니다.&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;go get github.com/google/wire/cmd/wire&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;프로젝트-구조&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#프로젝트-구조&#34;&gt;&lt;/a&gt; 프로젝트 구조&lt;/h2&gt;
+&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;├── cmd&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;│   └── server.go&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;├── go.mod&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;├── go.sum&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;├── module&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;│   └── wire.go&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;└── post&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    ├── postrepository.go&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    └── postservice.go&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3 directories, 6 files&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;각 &lt;code&gt;postservice.go&lt;/code&gt; 와 &lt;code&gt;postrepository.go&lt;/code&gt; 파일은 이전에서 본것과 동일합니다.&lt;/p&gt;
+&lt;figure class=&#34;highlight golang&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;// postservice.go&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;package&lt;/span&gt; post&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;// (skip)&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;// PostService 를 생성하는 factory function&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;func&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;NewPostService&lt;/span&gt;&lt;span class=&#34;params&#34;&gt;(repository PostRepository)&lt;/span&gt; *&lt;span class=&#34;title&#34;&gt;PostService&lt;/span&gt;&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	&lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; &amp;amp;PostService&amp;#123;Repo: repository&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&#34;highlight golang&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;// postrepository.go&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;package&lt;/span&gt; post&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;type&lt;/span&gt; PostRepository &lt;span class=&#34;keyword&#34;&gt;interface&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	StorePost(Post) &lt;span class=&#34;keyword&#34;&gt;bool&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;type&lt;/span&gt; InMemoryPostRepository &lt;span class=&#34;keyword&#34;&gt;struct&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	cache &lt;span class=&#34;keyword&#34;&gt;map&lt;/span&gt;[&lt;span class=&#34;keyword&#34;&gt;string&lt;/span&gt;]Post&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;func&lt;/span&gt; &lt;span class=&#34;params&#34;&gt;(i *InMemoryPostRepository)&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;StorePost&lt;/span&gt;&lt;span class=&#34;params&#34;&gt;(post Post)&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;bool&lt;/span&gt;&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	i.cache[post.id] = post&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	&lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;// 인메모리 포스트리포지토리를 생성하는 팩토리 함수&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;func&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;NewInMemoryPostRepository&lt;/span&gt;&lt;span class=&#34;params&#34;&gt;()&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;PostRepository&lt;/span&gt;&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	&lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; &amp;amp;InMemoryPostRepository&amp;#123;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;이제 &lt;code&gt;module/wire.go&lt;/code&gt; 파일은 다음과 같습니다.&lt;/p&gt;
+&lt;figure class=&#34;highlight golang&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;//+build wireinject  &amp;lt;--- 매우 중요&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;package&lt;/span&gt; module&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;import&lt;/span&gt; (&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	&lt;span class=&#34;string&#34;&gt;&amp;quot;example/post&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	&lt;span class=&#34;string&#34;&gt;&amp;quot;github.com/google/wire&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;func&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;InitializePostService&lt;/span&gt;&lt;span class=&#34;params&#34;&gt;()&lt;/span&gt; *&lt;span class=&#34;title&#34;&gt;post&lt;/span&gt;.&lt;span class=&#34;title&#34;&gt;PostService&lt;/span&gt;&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	wire.Build(post.NewInMemoryPostRepository, post.NewPostService) &lt;span class=&#34;comment&#34;&gt;// &amp;lt;-- Factory 함수들&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	&lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; &amp;amp;post.PostService&amp;#123;&amp;#125; &lt;span class=&#34;comment&#34;&gt;// &amp;lt;-- Return Type을 마추기 위한 더미로 중요하지 않음&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;이제 shell 에서 &lt;code&gt;wire&lt;/code&gt; 커맨드를 치면 코드가 생성이 됩니다.&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;wire module/wire.go&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;아래는 생성된 코드입니다. &lt;code&gt;PostRepository&lt;/code&gt; 와 &lt;code&gt;PostService&lt;/code&gt; 가 올바른 순서로 생성된 것을 볼 수 있습니다.&lt;/p&gt;
+&lt;figure class=&#34;highlight golang&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;func&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;InitializePostService&lt;/span&gt;&lt;span class=&#34;params&#34;&gt;()&lt;/span&gt; *&lt;span class=&#34;title&#34;&gt;post&lt;/span&gt;.&lt;span class=&#34;title&#34;&gt;PostService&lt;/span&gt;&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	postRepository := post.NewInMemoryPostRepository()&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	postService := post.NewPostService(postRepository)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	&lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; postService&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;자세한 내용은 &lt;a href=&#34;https://bit.ly/2Sqdnws&#34;&gt;https://bit.ly/2Sqdnws&lt;/a&gt; 에 참여하셔서 문의주세요 😄&lt;/p&gt;
+</content>
+        <category term="Mo Kweon" />
+        <category term="go" />
+        <category term="golang" />
+        <category term="dependency injection" />
+        <category term="wire" />
+        <category term="uber-go" />
+        <category term="fx" />
+        <updated>2020-08-21T15:15:25.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://deepbaksu.github.io/2020/08/17/slack-bot/</id>
+        <title>슬랙봇 Distribute 가능하게 만들기 (OAuth)</title>
+        <link rel="alternate" href="https://deepbaksu.github.io/2020/08/17/slack-bot/"/>
+        <content type="html">&lt;p&gt;딥백수에는 여러 슬랙봇들이 상주하고 있습니다.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/08/17/slack-bot/timebot_demo.png&#34; alt=&#34;캘리포니아/한국 시간 변환해주는 timebot&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;이렇게 만들어 둔 봇이 유용해서 다른 슬랙 workspace 에서 사용하고 싶을 때가 있습니다. 그러기 위해 distribute 가능하게 봇을 작성해야 합니다. 그러기 위해 OAuth를 사용해야 합니다.&lt;/p&gt;
+&lt;h2 id=&#34;oauth-란&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#oauth-란&#34;&gt;&lt;/a&gt; OAuth 란?&lt;/h2&gt;
+&lt;p&gt;OAuth는 엑세스를 관리하는 방법중에 표준으로 사용되는 방법입니다. A라는 애플리케이션에서 B사이트의 유저 정보가 필요하다면 B사이트로 OAuth Request 를 보내는 방식입니다.&lt;/p&gt;
+&lt;p&gt;여기서 슬랙봇이 A 애플리케이션이고 슬랙이 B에 해당합니다.&lt;/p&gt;
+&lt;h2 id=&#34;실제-slack-작동-구조&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#실제-slack-작동-구조&#34;&gt;&lt;/a&gt; 실제 Slack 작동 구조&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://a.slack-edge.com/fbd3c/img/api/articles/oauth_scopes_tutorial/slack_oauth_flow_diagram.png&#34; alt=&#34;OAuth&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;위 그림에서 구현해야 될게 많은 것으로 보이지만 실제로 &lt;code&gt;GET /api/oauth?code=XXXXX&lt;/code&gt; 엔드포인트를 서버에 만들어주고 토큰을 저장할 데이터베이스만 있으면 완성입니다.&lt;/p&gt;
+&lt;p&gt;예를 들어, 유저가 &lt;a href=&#34;https://slack.com/oauth/v2/authorize?client_id=288745980535.515443770183&amp;scope=channels:history,channels:join,channels:read,chat:write,chat:write.customize,chat:write.public,commands,dnd:read,emoji:read,groups:history,groups:read,groups:write,im:history,im:read,im:write,links:read,links:write,mpim:history,mpim:read,mpim:write,pins:read,pins:write,reactions:read,reactions:write,reminders:read,reminders:write,remote_files:read,remote_files:share,remote_files:write,team:read,usergroups:read,usergroups:write,users.profile:read,users:read,users:read.email,users:write,app_mentions:read&amp;user_scope=&#34;&gt;&lt;img alt=&#34;Add to Slack&#34; height=&#34;40&#34; width=&#34;139&#34; src=&#34;https://platform.slack-edge.com/img/add_to_slack.png&#34; srcSet=&#34;https://platform.slack-edge.com/img/add_to_slack.png 1x, https://platform.slack-edge.com/img/add_to_slack@2x.png 2x&#34; /&gt;&lt;/a&gt; 이 버튼을 누르고 동의를 하게 되면 timebot 서버로 GET /api/oauth?code=XXXX 리퀘스트를 보내게 됩니다. (step 2 에 해당)&lt;/p&gt;
+&lt;p&gt;그럼 이 code=XXX 를 사용하여 슬랙 서버에 OAuth 요청을 보내고(step 3) 받은 토큰을 데이터베이스에 저장해주면 됩니다 (step 4).&lt;/p&gt;
+&lt;p&gt;수도 코드는 아래와 같이 되어 있습니다.&lt;/p&gt;
+&lt;figure class=&#34;highlight go&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;func&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;OauthHandler&lt;/span&gt;&lt;span class=&#34;params&#34;&gt;(writer http.ResponseWriter, request *http.Request)&lt;/span&gt;&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;comment&#34;&gt;// GET ?code=XXXX 읽음&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  code, ok := request.URL.Query()[&lt;span class=&#34;string&#34;&gt;&amp;quot;code&amp;quot;&lt;/span&gt;]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;comment&#34;&gt;// CODE를 보냄 (POST https://api.slack.com/methods/oauth.v2.access)&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  resp, err := getOAuthV2Response(slackClientId, slackClientSecret, code[&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;], &lt;span class=&#34;string&#34;&gt;&amp;quot;&amp;quot;&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;comment&#34;&gt;// TeamID 및 AccessToken 저장&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  store(resp.TeamID, resp.AccessToken)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;comment&#34;&gt;// ... send ok response&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;code&gt;POST https://api.slack.com/methods/oauth.v2.access&lt;/code&gt; 의 예시 response&lt;/p&gt;
+&lt;figure class=&#34;highlight json&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;&amp;quot;ok&amp;quot;&lt;/span&gt;: &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;&amp;quot;access_token&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;xoxb-17653672481-19874698323-pdFZKVeTuE8sk7oOcBrzbqgy&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;&amp;quot;token_type&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;bot&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;&amp;quot;scope&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;commands,incoming-webhook&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;&amp;quot;bot_user_id&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;U0KRQLJ9H&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;&amp;quot;app_id&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;A0KRD7HC3&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;&amp;quot;team&amp;quot;&lt;/span&gt;: &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;&amp;quot;name&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;Slack Softball Team&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;&amp;quot;id&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;T9TK3CUKW&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &amp;#125;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;&amp;quot;enterprise&amp;quot;&lt;/span&gt;: &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;&amp;quot;name&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;slack-sports&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;&amp;quot;id&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;E12345678&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &amp;#125;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;&amp;quot;authed_user&amp;quot;&lt;/span&gt;: &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;&amp;quot;id&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;U1234&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;&amp;quot;scope&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;chat:write&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;&amp;quot;access_token&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;xoxp-1234&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;&amp;quot;token_type&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;user&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;이때 TeamID(workspace) 와 코드를 함께 저장해주면 나중에 유저 메시지로부터 반응하는 봇을 만들때 유저 메시지에 포함된 TeamID를 읽어 Access Token 을 DB에서 불러오는 식으로 사용합니다.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/08/17/slack-bot/timebot_sequential.svg&#34; alt=&#34;timebot 순서도&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;자세한 내용은 &lt;a href=&#34;https://bit.ly/2Sqdnws&#34;&gt;https://bit.ly/2Sqdnws&lt;/a&gt; 에 참여하셔서 문의주세요 😄&lt;/p&gt;
+</content>
+        <category term="Mo Kweon" />
+        <category term="go" />
+        <category term="slack" />
+        <category term="bot" />
+        <category term="oauth" />
+        <updated>2020-08-17T08:32:54.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://deepbaksu.github.io/2020/08/15/cqrs/</id>
+        <title>Command Query Responsibility Segregation</title>
+        <link rel="alternate" href="https://deepbaksu.github.io/2020/08/15/cqrs/"/>
+        <content type="html">&lt;p&gt;제가 서비스를 만들 때 가장 좋아하는 패턴인 &lt;abbr title=&#34;Command Query Responsibility Segregation&#34;&gt;CQRS&lt;/abbr&gt; 에 대해서 적어보겠습니다.&lt;/p&gt;
+&lt;h2 id=&#34;cqrs란&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#cqrs란&#34;&gt;&lt;/a&gt; CQRS란?&lt;/h2&gt;
+&lt;p&gt;원 단어를 보면 어려우 것 같지만 쉽게 얘기하면 &lt;code&gt;read&lt;/code&gt; 와 &lt;code&gt;write&lt;/code&gt; operation 을 나누어서 서비스를 만드는 것을 의미합니다. 특히 일반적으로 event sourcing 과 함께 구현됩니다.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/08/15/cqrs/cqrs_diagram.svg&#34; alt=&#34;CQRS Diagram&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;왜-사용하는가&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#왜-사용하는가&#34;&gt;&lt;/a&gt; 왜 사용하는가?&lt;/h2&gt;
+&lt;p&gt;쓰는 작업과 읽는 작업이 분리가 되있을 경우 (많은 서비스가 그러합니다) 한 서비스에서 둘다 처리할 경우 유용합니다. 만약에 한 서비스에서 처리하는데 쓰는 작업에 어떤 문제가 발생할 경우 읽는 작업 또한 불가능해지게 될 것입니다.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/08/15/cqrs/dead_cqrs.svg&#34; alt=&#34;Dead Service Monolithic&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;또 쓰는 작업은 트래픽의 &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mn&gt;0.01&lt;/mn&gt;&lt;mi mathvariant=&#34;normal&#34;&gt;%&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;0.01\%&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.80556em;vertical-align:-0.05556em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;%&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; 정도 밖에 안되고 읽는 서비스가 대부분의 트래픽을 차지할 수 도 있습니다.&lt;/p&gt;
+&lt;h2 id=&#34;예시&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#예시&#34;&gt;&lt;/a&gt; 예시&lt;/h2&gt;
+&lt;p&gt;CQRS 을 &lt;a href=&#34;https://youtube.com/premium&#34;&gt;YouTube Premium&lt;/a&gt; 서비스를 사용해 예시를 들어보도록 하겠습니다.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.gstatic.com/youtube/img/promos/growth/ytr_lp2_logo_premium_desktop_552x71.png&#34; alt=&#34;YouTube Premium&#34; /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;functional-requirements&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#functional-requirements&#34;&gt;&lt;/a&gt; Functional Requirements&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;유저는 Youtube Premium 을 signup 할 수 있습니다.&lt;/li&gt;
+&lt;li&gt;YouTube Premium 유저는 광고를 스킵합니다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;위 요구사항을 통해 다음과 같이 두개의 서비스로 나타낼 수 있습니다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Premium Service
+&lt;ul&gt;
+&lt;li&gt;실제 Premium 회원 가입을 받는 서비스&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Premium Access Service
+&lt;ul&gt;
+&lt;li&gt;Premium Access 를 가진 유저인지 확인하는 서비스&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/08/15/cqrs/premium_service.svg&#34; alt=&#34;Premium Service Diagram&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;어느 날 무슨 이유로 Premium Service 가 다운 됬을 경우에도 기존의 Premium User들은 아무 문제 없이 광고 없이 동영상 시청이 가능합니다.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/08/15/cqrs/premium_service_down.svg&#34; alt=&#34;Premium Service is down&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;실제로도 이런 CQRS 패턴을 사용해 구현되어 있습니다.&lt;/p&gt;
+&lt;h2 id=&#34;sync&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#sync&#34;&gt;&lt;/a&gt; Sync&lt;/h2&gt;
+&lt;p&gt;그럼 이제 문제는 Query의 DB와 Command를 받는 DB의 consistency 를 어떻게 유지하는지가 관건일 것입니다. 이 문제는 &lt;a href=&#34;https://microservices.io/patterns/data/event-sourcing.html&#34;&gt;event sourcing&lt;/a&gt; 패턴을 사용합니다. 이벤트소싱에 대해서는 다음 포스트에서 쓰도록 하겠습니다.&lt;/p&gt;
+&lt;p&gt;오신 김에 딥백수 그룹에 관심 있으신 분들은 &lt;a href=&#34;/about&#34;&gt;소개 페이지&lt;/a&gt; 를 방문해주세요!&lt;/p&gt;
+</content>
+        <category term="Mo Kweon" />
+        <category term="microservice" />
+        <category term="CQRS" />
+        <category term="architecture" />
+        <category term="software engineering" />
+        <updated>2020-08-15T11:56:22.000Z</updated>
+    </entry>
+</feed>

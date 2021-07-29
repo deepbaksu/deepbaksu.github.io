@@ -1,0 +1,240 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>딥백수 • Posts by &#34;distributed computing&#34; tag</title>
+        <link>https://deepbaksu.github.io</link>
+        <description>우리는 &#39;지속가능한 백수질&#39;을 지향합니다. 고로 외롭게 공부하고 있을 당신을 응원합니다. 딥러닝에 관련된 글 뿐만 아니라, 백수생활의 넋두리도 환영합니다.</description>
+        <language>ko</language>
+        <pubDate>Tue, 01 Sep 2020 15:15:52 +0000</pubDate>
+        <lastBuildDate>Tue, 01 Sep 2020 15:15:52 +0000</lastBuildDate>
+        <category>Mo Kweon</category>
+        <category>go</category>
+        <category>golang</category>
+        <category>dependency injection</category>
+        <category>wire</category>
+        <category>uber-go</category>
+        <category>fx</category>
+        <category>Hyunggi Chang</category>
+        <category>AI</category>
+        <category>딥러닝</category>
+        <category>로보틱스</category>
+        <category>YouTube</category>
+        <category>News</category>
+        <category>Hyunseok Jeong</category>
+        <category>Software Architecture</category>
+        <category>Agile</category>
+        <category>Architect</category>
+        <category>Jinyoung Song</category>
+        <category>데이터분석</category>
+        <category>통계분석</category>
+        <category>통계학</category>
+        <category>통계역사</category>
+        <category>비트코인</category>
+        <category>제국주의</category>
+        <category>미래전망</category>
+        <category>플랫폼전략</category>
+        <category>디지털자산</category>
+        <category>microservice</category>
+        <category>CQRS</category>
+        <category>architecture</category>
+        <category>software engineering</category>
+        <category>선지원</category>
+        <category>후고민</category>
+        <category>선지원 후고민</category>
+        <category>실험</category>
+        <category>Apply Driven Study</category>
+        <category>생존</category>
+        <category>멘토링</category>
+        <category>용기</category>
+        <category>free web server</category>
+        <category>heroku</category>
+        <category>aws</category>
+        <category>gcp</category>
+        <category>netlify</category>
+        <category>github actions</category>
+        <category>구글애널리틱스</category>
+        <category>GA</category>
+        <category>Google Analytics</category>
+        <category>Data Analysis</category>
+        <category>Web Log Analysis</category>
+        <category>Happy working</category>
+        <category>Mindfulness</category>
+        <category>Noble Eightfold Path</category>
+        <category>gRPC</category>
+        <category>Go</category>
+        <category>REST</category>
+        <category>존버</category>
+        <category>jonber</category>
+        <category>딥백수</category>
+        <category>회고</category>
+        <category>bluehole</category>
+        <category>krafton</category>
+        <category>communication</category>
+        <category>GitHub CLI</category>
+        <category>Gist</category>
+        <category>Leaning by Doing</category>
+        <category>Repo</category>
+        <category>Alias</category>
+        <category>습관</category>
+        <category>중용</category>
+        <category>꾸준함</category>
+        <category>성실</category>
+        <category>대화</category>
+        <category>비폭력대화</category>
+        <category>Golang</category>
+        <category>Slice</category>
+        <category>example</category>
+        <category>Windows</category>
+        <category>PowerShell</category>
+        <category>PowerShell script</category>
+        <category>Git</category>
+        <category>Prompt</category>
+        <category>Martin Fowler</category>
+        <category>Refactoring</category>
+        <category>Principles</category>
+        <category>파이썬</category>
+        <category>실무</category>
+        <category>데이터분석 실무</category>
+        <category>네트워크 분석</category>
+        <category>최적화</category>
+        <category>시뮬레이션</category>
+        <category>자연어처리</category>
+        <category>회귀</category>
+        <category>예측 분석</category>
+        <category>semantic release</category>
+        <category>semantic version</category>
+        <category>slack</category>
+        <category>bot</category>
+        <category>oauth</category>
+        <category>Github Action</category>
+        <category>Slack</category>
+        <category>Automation</category>
+        <category>자동화</category>
+        <category>cron</category>
+        <category>Seunghwan Chang</category>
+        <category>English</category>
+        <category>would</category>
+        <category>ppt</category>
+        <category>발표</category>
+        <category>consulting</category>
+        <category>보고서</category>
+        <category>파워포인트</category>
+        <category>PT고자</category>
+        <category>ppt고자</category>
+        <category>ppt공포</category>
+        <category>슬라이드</category>
+        <category>Martin Hwang</category>
+        <category>Ray</category>
+        <category>distributed computing</category>
+        <category>parallel computing</category>
+        <item>
+            <guid isPermalink="true">https://deepbaksu.github.io/2020/09/01/20200902-A-Quick-Tutorial-on-Ray/</guid>
+            <title>(번역) Modern Parallel and Distributed Python-A Quick Tutorial on Ray</title>
+            <link>https://deepbaksu.github.io/2020/09/01/20200902-A-Quick-Tutorial-on-Ray/</link>
+            <category>software engineering</category>
+            <category>Martin Hwang</category>
+            <category>Ray</category>
+            <category>distributed computing</category>
+            <category>parallel computing</category>
+            <pubDate>Tue, 01 Sep 2020 15:15:52 +0000</pubDate>
+            <description><![CDATA[ &lt;p&gt;이번 포스팅은 Ray에 대해서 소개합니다.&lt;/p&gt;
+&lt;p&gt;먼저 이 포스팅은 &lt;a href=&#34;https://github.com/robertnishihara&#34;&gt;Robert Nishihara&lt;/a&gt;의 허락을 받아, &lt;a href=&#34;https://towardsdatascience.com/modern-parallel-and-distributed-python-a-quick-tutorial-on-ray-99f8d70369b8&#34;&gt;Modern Parallel and Distributed Python: A Quick Tutorial on Ray&lt;/a&gt;을 번역한 글임을 밝힙니다.&lt;/p&gt;
+&lt;h2 id=&#34;what-is-ray&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#what-is-ray&#34;&gt;&lt;/a&gt; What is &lt;a href=&#34;https://github.com/ray-project/ray&#34;&gt;Ray&lt;/a&gt;?&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/ray-project/ray&#34;&gt;Ray&lt;/a&gt;는 파이썬에서 병렬, 분산 프로그래밍을 위한 오픈소스 프로젝트입니다.&lt;/p&gt;
+&lt;p&gt;병렬, 분산 컴퓨팅은 현대 애플리케이션을 구성하는 요소 중 하나로 자리잡았습니다. 우리는 필요에 따라 멀티코어나 여러 대의 머신의 리소스를 최대한 활용해서 애플리케이션을 가속해야할 필요가 있습니다.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;웹 사이트를 크롤링하거나 사용자 질의에 응답하는 소프트웨어들은 누군가의 노트북에서 돌아가는 single thread기반의 프로그램이 아니고, 서로 통신하고 상호작용하는 서비스 집합이라고 볼 수 있습니다&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;cloud.jpeg&#34; alt=&#34;Cloud Computing&#34; /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;(클라우드 컴퓨팅은 메모리, 연산, 스토리지 등 다방면으로 끊임없는 확장성을 제공하고있습니다. 클라우드가 제공하는 이러한 이점에 적절하게 대응하기 위해서는 분산 어플리케이션을 만들 수 있는 새로운 도구가 필요합니다)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;이번 포스팅은 Ray를 사용해서 병렬,분산 어플리케이션을 만드는 방법에 대해서 설명합니다.&lt;/p&gt;
+&lt;h2 id=&#34;why-ray&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#why-ray&#34;&gt;&lt;/a&gt; Why Ray?&lt;/h2&gt;
+&lt;p&gt;많은 튜토리얼들이 &lt;a href=&#34;https://docs.python.org/3/library/multiprocessing.html&#34;&gt;Python의 multiprocessing 모듈&lt;/a&gt;을 어떻게 사용하는지 설명합니다.&lt;/p&gt;
+&lt;p&gt;하지만 Python의 multiprocessing 모듈은 한계점을 가지고 있어 현대 애플리케이션이 요구하는 분산, 병렬에 대한 필수사항을 충족하지 못합니다.&lt;/p&gt;
+&lt;p&gt;현대 애플리케이션이 요구하는 분산, 병렬처리에 대한 필수사항은 다음과 같습니다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;같은 코드를 한대 이상의 머신(machine)에서 작동시켜야함&lt;/li&gt;
+&lt;li&gt;state를 가지고, 통신이 가능한 &lt;a href=&#34;https://en.wikipedia.org/wiki/Actor_model&#34;&gt;actor&lt;/a&gt;와 &lt;a href=&#34;https://en.wikipedia.org/wiki/Microservices&#34;&gt;microservice&lt;/a&gt;를 만들 수 있어야함&lt;/li&gt;
+&lt;li&gt;machine failures를 깔끔하게 다룰 수 있어야함&lt;/li&gt;
+&lt;li&gt;대규모 객체와 수치 데이터를 효율적으로 다룰 수 있어야함&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/ray-project/ray&#34;&gt;Ray&lt;/a&gt;는 위에서 언급한 요구사항을 모두 충족합니다. 또한 간단한 작업을 단순하게 만들며, 복잡한 동작을 하게끔 프로그래밍하는 것 또한 가능합니다.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;ray.png&#34; alt=&#34;Ray&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;다른 회사들이 자신들의 Python 프로덕션을 확장하기 위해서 Ray를 어떻게 활용하고있는지 배우고싶다면, &lt;a href=&#34;https://events.linuxfoundation.org/ray-summit/?utm_source=robert&amp;amp;utm_medium=blog&amp;amp;utm_campaign=ray_summit#featuredspeakers&#34;&gt;Ray Summit&lt;/a&gt;에 등록하세요!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;ray_summit.png&#34; alt=&#34;Ray Summit&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;necessary-concepts&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#necessary-concepts&#34;&gt;&lt;/a&gt; Necessary Concepts&lt;/h2&gt;
+&lt;p&gt;전통적으로 프로그래밍은 &lt;strong&gt;1). 함수(Functions)&lt;/strong&gt; , &lt;strong&gt;2).클래스(Classes)&lt;/strong&gt; 라는 핵심 개념에 의존합니다. 생각해보면 우리는 함수와 클래스만으로 많은 애플리케이션들을 만들어왔습니다.&lt;/p&gt;
+&lt;p&gt;하지만, 함수와 클래스로 구성된 애플리케이션을 분산 환경으로 마이그레이션하려고하면 함수, 클래스라는 개념을 사용할 수 없게됩니다.&lt;/p&gt;
+&lt;p&gt;따라서 현재까지 알려진 병렬, 분산 도구를 활용해서 싱글 스레드 애플리케이션을 병렬, 분산 애플리케이션으로 마이그레이션을 하기 위해서는 애플리케이션 코드를 처음부터 다시 작성해야합니다.&lt;/p&gt;
+&lt;p&gt;현재까지 알려진 병렬, 분산도구는 저수준에서 고수준까지 다양한 도구들이 있습니다.&lt;/p&gt;
+&lt;p&gt;먼저 저수준 도구로는 메세지의 송수신을 저수준의 프리미티브로 제공하는 &lt;a href=&#34;https://www.open-mpi.org/&#34;&gt;OpenMPI&lt;/a&gt;, &lt;a href=&#34;https://docs.python.org/3/library/multiprocessing.html&#34;&gt;Python Multiprocessing&lt;/a&gt;, &lt;a href=&#34;https://zeromq.org/&#34;&gt;ZeroMQ&lt;/a&gt;이 있습니다. 이 도구들은 분산, 병렬 환경을 위한 강력한 기능들을 제공합니다. 하지만, 전통적인 프로그래밍과는 다른 추상화 개념을 사용합니다. 이로 인해 위 도구들을 활용해서 기존의 싱글 스레드 애플리케이션을 분산, 병렬 어플리케이션으로 마이그레이션하기 위해서는 코드 전체를 재작성해야합니다.&lt;/p&gt;
+&lt;p&gt;또 다른 예로 도메인에 특화되어 고수준의 추상화를 제공하는 도구들이 있습니다. 딥러닝 모델을 학습하기 위한 &lt;a href=&#34;https://www.tensorflow.org/&#34;&gt;TensorFlow&lt;/a&gt;, 데이터와 SQL 처리를 위한 &lt;a href=&#34;https://spark.apache.org/&#34;&gt;Spark&lt;/a&gt;, 스트림 처리를 위한 &lt;a href=&#34;https://flink.apache.org/&#34;&gt;Flink&lt;/a&gt;가 대표적입니다. 이 도구들은 neural network나 데이터셋, 스트림에 대한 고수준의 추상화 API를 제공합니다. 하지만, 고수준 추상화를 제공하는 도구들 역시 &lt;strong&gt;직렬화된 프로그래밍(serial programming)&lt;/strong&gt; 에서 사용하는 추상화와 다르기 때문에, 애플리케이션 코드 전체를 그에 맞게 재작성해줘야하는 단점이 있습니다.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;distributed_computing_tools.jpeg&#34; alt=&#34;Distributed computing tools&#34; /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;(분산 컴퓨팅을 위한 도구들. 왼쪽은 저수준의 추상화 API를 지원하는 도구, 오른쪽은 고수준의 추상화 API를 제공하는 도구)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Ray는 위에서 설명한 도구들과 같은 고수준, 저수준이 아닌 중간수준에 위치합니다. Ray는 함수와 클래스를 task, actor라고 불리는 분산환경에 적합한 형태로 변환하며, 이를 통해 병렬, 분산 컴퓨팅을 지원하는 메커니즘을 가지고 있습니다. 따라서 사용자들은 이전과 다르게 코드를 재작성 없이 기존의 함수와 클래스 구조를 유지하면서 분산, 병렬 프로그래밍을 할 수 있습니다.&lt;/p&gt;
+&lt;h2 id=&#34;starting-ray&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#starting-ray&#34;&gt;&lt;/a&gt; Starting Ray&lt;/h2&gt;
+&lt;p&gt;Ray의 &lt;code&gt;ray.init()&lt;/code&gt;명령어는 Ray에서 사용하는 프로세스들을 모두 구동합니다.&lt;/p&gt;
+&lt;p&gt;만약 클러스터 환경을 이용해서 분산 컴퓨팅을 하고자 한다면, 클러스터의 주소(address)를 입력하는 코드 라인 하나만 변경하면 됩니다.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;ray.init()&lt;/code&gt;명령어로 구동되는 Ray의 프로세스들은 아래와 같습니다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Worker&lt;/strong&gt; : 파이썬의 함수를 병렬적으로 실행할 프로세스(대략 하나의 worker는 하나의 CPU 코어를 의미합니다).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Scheduler&lt;/strong&gt; : task들을 worker 혹은 다른 머신에 할당하기 위한 스켸쥴러(task란 Ray에 사용되는 파이썬 함수 혹은 메소드로, Ray에 의해 스켸쥴링되는 단위).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Shared memory object store&lt;/strong&gt; : 워커(worker)들간 객체를 효율적으로 공유하기 위한 공유메모리(copy 발생이 없는)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Inmemory database&lt;/strong&gt; : 머신 실패(machine failure)와 같은 이벤트 상황에서 task들을 반환하기 위해 메타 데이터를 저장하는 데이터베이스&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;Ray worker는 thread가 아니며, thread와는 다른 개념의 process입니다. Python은 GIL(Global Interpreter Lock)으로 인해 multi-threding 지원에 한계가 있습니다.&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;parallelism-with-tasks&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#parallelism-with-tasks&#34;&gt;&lt;/a&gt; Parallelism with Tasks&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;@ray.remote&lt;/code&gt;라는 데코레이터를 함수 위에 선언해주는 것만으로 파이썬 함수를 Ray에서 실행 가능한 &lt;em&gt;remote function&lt;/em&gt; 으로 변경할 수 있습니다.&lt;/p&gt;
+&lt;p&gt;(&lt;em&gt;remote function은 Ray의 프로세스에 의해 비동기적으로 실행됩니다.&lt;/em&gt;)&lt;/p&gt;
+&lt;p&gt;아래 예제와 같이 함수 &lt;code&gt;f&lt;/code&gt;를 &lt;code&gt;@ray.remote&lt;/code&gt; 데코레이터를 통해서 &lt;em&gt;remote function&lt;/em&gt; 으로 변경했다면, &lt;code&gt;f.remote()&lt;/code&gt;를 호출해서 함수를 실행할 수 있습니다. 이때, 호출된 &lt;code&gt;f.remote()&lt;/code&gt;는 즉각적으로 future를 반환하고 실제 함수의 실행은 백그라운드에서 진행됩니다.&lt;/p&gt;
+&lt;p&gt;(&lt;em&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Futures_and_promises&#34;&gt;future&lt;/a&gt;는 나중에 반환될 함수의 출력값에 대한 참조입니다.&lt;/em&gt;)&lt;/p&gt;
+&lt;p&gt;아래 예제에서 &lt;code&gt;f.remote()&lt;/code&gt;에 대한 호출이 즉시 반환되고 다음 &lt;em&gt;remote function&lt;/em&gt; 이 실행되기 때문에, 백그라운드에서 실행되는 &lt;code&gt;f&lt;/code&gt;에 대한 4개의 복사본(task)은 단순히 해당 라인을 4번 실행하는 것으로 분산, 병렬로 실행할 수 있습니다.&lt;/p&gt;
+&lt;p&gt;파이썬 함수 &lt;code&gt;f&lt;/code&gt;를 &lt;em&gt;remote function&lt;/em&gt; 으로 바꾸기 위해서는 함수에 &lt;code&gt;@ray.remote&lt;/code&gt;라는 데코레이터를 선언해줘야합니다. 그리고 함수를 &lt;code&gt;f.remote()&lt;/code&gt;로 호출하면 즉시 future를 리턴합니다. 그리고 실제 함수의 실행은 백그라운드에서 실행됩니다.&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;import&lt;/span&gt; ray&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;import&lt;/span&gt; time&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# Start Ray.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;ray.init()&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta&#34;&gt;@ray.remote&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;f&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;x&lt;/span&gt;):&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    time.sleep(&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; x&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# Start 4 tasks in parallel.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;result_ids = []&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; i &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;built_in&#34;&gt;range&lt;/span&gt;(&lt;span class=&#34;number&#34;&gt;4&lt;/span&gt;):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    result_ids.append(f.remote(i))&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# Wait for the tasks to complete and retrieve the results.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# With at least 4 cores, this will take 1 second.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;results = ray.get(result_ids)  &lt;span class=&#34;comment&#34;&gt;# [0, 1, 2, 3]&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h3 id=&#34;task-dependencies&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#task-dependencies&#34;&gt;&lt;/a&gt; Task Dependencies&lt;/h3&gt;
+&lt;p&gt;task는 또 다른 task에 의존할 수 있습니다.&lt;/p&gt;
+&lt;p&gt;아래 예제에서 &lt;code&gt;multiply_matrices&lt;/code&gt; task는 두개의 &lt;code&gt;create_matrix&lt;/code&gt; task의 결과를 사용합니다. 따라서 첫번째 두 task의 출력은 자동으로 세번째 task의 인자로 입력됩니다.&lt;/p&gt;
+&lt;p&gt;결론적으로, 아래 예제를 실행해보면, &lt;code&gt;multiply_matrices&lt;/code&gt;는 첫번째 두 task의 출력의 값이 반환되기 전까지는 실행되지 않습니다.&lt;/p&gt;
+&lt;p&gt;이러한 방식으로 task들을 arbitrary DAG dependencies로 구성할 수 있습니다.&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;import&lt;/span&gt; numpy &lt;span class=&#34;keyword&#34;&gt;as&lt;/span&gt; np&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta&#34;&gt;@ray.remote&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;create_matrix&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;size&lt;/span&gt;):&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; np.random.normal(size=size)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta&#34;&gt;@ray.remote&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;multiply_matrices&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;x, y&lt;/span&gt;):&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; np.dot(x, y)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;x_id = create_matrix.remote([&lt;span class=&#34;number&#34;&gt;1000&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;1000&lt;/span&gt;])&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;y_id = create_matrix.remote([&lt;span class=&#34;number&#34;&gt;1000&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;1000&lt;/span&gt;])&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;z_id = multiply_matrices.remote(x_id, y_id)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# Get the results.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;z = ray.get(z_id)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h3 id=&#34;aggregating-values-efficiently&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#aggregating-values-efficiently&#34;&gt;&lt;/a&gt; Aggregating Values Efficiently&lt;/h3&gt;
+&lt;p&gt;task 의존성을 잘 설계하면 효율적인 방식으로 작업을 수행할 수 있습니다.&lt;/p&gt;
+&lt;p&gt;예를 들어 아래의 그림처럼 8개의 정수를 더한다고 생각해봅시다.&lt;/p&gt;
+&lt;p&gt;매우 간단한 예제이지만, 실제로 이러한 형태로 큰 벡터를 통합하는 것은 애플리케이션에 큰 병목이 되기도 합니다. 이런 병목 지점에서 task 의존성을 잘 설계한다면, 단 한줄의 코드 변경으로 시간 복잡도를 선형 시간에서 로그메틱 시간으로 변경할 수 있습니다.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;aggregation.jpeg&#34; alt=&#34;Aggregation&#34; /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;(두 연산 그래프는 같은 결과를 반환하지만, 좌측 그림은 의존성 그래프의 깊이가 7이며, 우측 그림은 의존성 그래프의 깊이가 3입니다. 이 경우 우측 연산 그래프의 연산이 더 빠릅니다)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;위에서 설명한데로 하나의 task에서 생성된 출력을 다른 task의 입력으로 사용하기 위해서는 첫번째 task로부터 반환받은 future를 두번째 task의 입력으로 넣으면 됩니다.&lt;/p&gt;
+&lt;p&gt;이때, 두번째 task가 첫번째 task의 출력을 의존하고있으면 두번째 task는 첫번째 task가 끝나기 전에는 실행되지 않습니다.&lt;/p&gt;
+&lt;p&gt;task 의존성은 자동으로 ray의 스켸쥴러가 추적하고 관리하므로, 만약 분산환경일 경우, 첫번째 task의 출력은 자동으로 두번째 task가 있는 머신으로 보내져 실행되게됩니다.&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;import&lt;/span&gt; time&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta&#34;&gt;@ray.remote&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;add&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;x, y&lt;/span&gt;):&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    time.sleep(&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; x + y&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# Aggregate the values slowly. This approach takes O(n) where n is the&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# number of values being aggregated. In this case, 7 seconds.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;id1 = add.remote(&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;id2 = add.remote(id1, &lt;span class=&#34;number&#34;&gt;3&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;id3 = add.remote(id2, &lt;span class=&#34;number&#34;&gt;4&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;id4 = add.remote(id3, &lt;span class=&#34;number&#34;&gt;5&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;id5 = add.remote(id4, &lt;span class=&#34;number&#34;&gt;6&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;id6 = add.remote(id5, &lt;span class=&#34;number&#34;&gt;7&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;id7 = add.remote(id6, &lt;span class=&#34;number&#34;&gt;8&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;result = ray.get(id7)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# Aggregate the values in a tree-structured pattern. This approach&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# takes O(log(n)). In this case, 3 seconds.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;id1 = add.remote(&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;id2 = add.remote(&lt;span class=&#34;number&#34;&gt;3&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;4&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;id3 = add.remote(&lt;span class=&#34;number&#34;&gt;5&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;6&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;id4 = add.remote(&lt;span class=&#34;number&#34;&gt;7&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;8&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;id5 = add.remote(id1, id2)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;id6 = add.remote(id3, id4)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;id7 = add.remote(id5, id6)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;result = ray.get(id7)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;위의 코드는 명확합니다. 하지만, 이를 &lt;code&gt;while&lt;/code&gt; loop를 통해 구현한다면 더 간결하게 구현할 수 있습니다.&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# Slow approach.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;values = [&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;3&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;4&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;5&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;6&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;7&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;8&lt;/span&gt;]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;while&lt;/span&gt; &lt;span class=&#34;built_in&#34;&gt;len&lt;/span&gt;(values) &amp;gt; &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    values = [add.remote(values[&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;], values[&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;])] + values[&lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;:]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;result = ray.get(values[&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;])&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# Fast approach.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;values = [&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;3&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;4&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;5&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;6&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;7&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;8&lt;/span&gt;]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;while&lt;/span&gt; &lt;span class=&#34;built_in&#34;&gt;len&lt;/span&gt;(values) &amp;gt; &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    values = values[&lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;:] + [add.remote(values[&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;], values[&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;])]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;result = ray.get(values[&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;])&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;from-classes-to-actors&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#from-classes-to-actors&#34;&gt;&lt;/a&gt; From Classes to Actors&lt;/h2&gt;
+&lt;p&gt;클래스없이 좋은 애플리케이션을 만드는 것은 어려운 일입니다. 그리고 이는 분산환경에서도 마찬가지로 어렵습니다.&lt;/p&gt;
+&lt;p&gt;클래스 데코레이터 &lt;code&gt;@ray.remote&lt;/code&gt;를 사용하면 Ray에서 파이썬 클래스를 사용할 수 있습니다. 클래스를 인스턴스화하면 Ray는 새로운 액터(Actor)를 생성합니다. 액터는 분산환경 어딘가에서 실행되지만 객체의 복제본(object copy)을 유지하는 프로세스입니다.&lt;/p&gt;
+&lt;p&gt;액터의 메소드를 실행하면 Ray는 해당 메소드를 액터 프로세스 위에서 작동하는 task로 변환합니다. 액터 프로세스 위에서 작동하는 task는 액터의 상태(state)에 접근이 가능하고 상태를 변경할 수 있습니다. 이러한 방법으로 액터는 액터의 상태값을 여러 task간 공유합니다.&lt;/p&gt;
+&lt;p&gt;개별적인 액터는 메소드를 직렬로 실행하며(블럭킹), 액터의 메소드는 atomic 속성을 갖습니다. 따라서 race condition이 발생하지 않게됩니다. 액터를 이용한 병렬성은 다수의 액터를 생성하는 방식으로 구현합니다.&lt;/p&gt;
+&lt;p&gt;아래 예제는 액터를 사용하는 간단한 예제입니다. &lt;code&gt;Counter.remote()&lt;/code&gt;는 새로운 액터 프로세스를 생성합니다.&lt;/p&gt;
+&lt;p&gt;액터 프로세스는 &lt;code&gt;Counter&lt;/code&gt; 객체의 복사본을 갖으며, &lt;code&gt;c.get_value.remote()&lt;/code&gt;와 &lt;code&gt;c.inc.remote()&lt;/code&gt;는 원격 액터 프로세스(remote actor process)에서 task를 실행하고 액터의 상태를 변경합니다.&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta&#34;&gt;@ray.remote&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;class&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;Counter&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;object&lt;/span&gt;&lt;/span&gt;):&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;__init__&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;self&lt;/span&gt;):&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        self.x = &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;inc&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;self&lt;/span&gt;):&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        self.x += &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;get_value&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;self&lt;/span&gt;):&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; self.x&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# Create an actor process.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;c = Counter.remote()&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# Check the actor&amp;#x27;s counter value.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;print&lt;/span&gt;(ray.get(c.get_value.remote()))  &lt;span class=&#34;comment&#34;&gt;# 0&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# Increment the counter twice and check the value again.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;c.inc.remote()&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;c.inc.remote()&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;print&lt;/span&gt;(ray.get(c.get_value.remote()))  &lt;span class=&#34;comment&#34;&gt;# 2&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h3 id=&#34;actor-handles&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#actor-handles&#34;&gt;&lt;/a&gt; Actor Handles&lt;/h3&gt;
+&lt;p&gt;위에서 우리는 파이썬의 메인 스크립트에서 액터의 메소드를 실행하는 예제를 살펴봤습니다.&lt;/p&gt;
+&lt;p&gt;액터의 강력한 장점은 핸들(handle)을 액터에 전달할 수 있는 것입니다. 이는 다른 액터나 다른 task가 동일한 액터의 메소드를 호출할 수 있게 해줍니다.&lt;/p&gt;
+&lt;p&gt;아래 예제는 메세지를 저장하는 액터를 생성합니다. 몇몇의 worker task는 반복적으로 messages를 액터로 푸쉬합니다. 그리고 파이썬 메인 스크립트는 주기적으로 이 메세지를 읽습니다.&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;33&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;34&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;35&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;36&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;37&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;38&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;39&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;40&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;41&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;42&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;43&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;44&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;import&lt;/span&gt; time&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta&#34;&gt;@ray.remote&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;class&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;MessageActor&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;object&lt;/span&gt;&lt;/span&gt;):&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;__init__&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;self&lt;/span&gt;):&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        self.messages = []&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;add_message&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;self, message&lt;/span&gt;):&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        self.messages.append(message)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;get_and_clear_messages&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;self&lt;/span&gt;):&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        messages = self.messages&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        self.messages = []&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; messages&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# Define a remote function which loops around and pushes&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# messages to the actor.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta&#34;&gt;@ray.remote&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;worker&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;message_actor, j&lt;/span&gt;):&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; i &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;built_in&#34;&gt;range&lt;/span&gt;(&lt;span class=&#34;number&#34;&gt;100&lt;/span&gt;):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        time.sleep(&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        message_actor.add_message.remote(&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;string&#34;&gt;&amp;quot;Message &amp;#123;&amp;#125; from worker &amp;#123;&amp;#125;.&amp;quot;&lt;/span&gt;.&lt;span class=&#34;built_in&#34;&gt;format&lt;/span&gt;(i, j))&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# Create a message actor.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;message_actor = MessageActor.remote()&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# Start 3 tasks that push messages to the actor.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;[worker.remote(message_actor, j) &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; j &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;built_in&#34;&gt;range&lt;/span&gt;(&lt;span class=&#34;number&#34;&gt;3&lt;/span&gt;)]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# Periodically get the messages and print them.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; _ &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;built_in&#34;&gt;range&lt;/span&gt;(&lt;span class=&#34;number&#34;&gt;100&lt;/span&gt;):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    new_messages = ray.get(message_actor.get_and_clear_messages.remote())&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;built_in&#34;&gt;print&lt;/span&gt;(&lt;span class=&#34;string&#34;&gt;&amp;quot;New messages:&amp;quot;&lt;/span&gt;, new_messages)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    time.sleep(&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# This script prints something like the following:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# New messages: []&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# New messages: [&amp;#x27;Message 0 from worker 1.&amp;#x27;, &amp;#x27;Message 0 from worker 0.&amp;#x27;]&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# New messages: [&amp;#x27;Message 0 from worker 2.&amp;#x27;, &amp;#x27;Message 1 from worker 1.&amp;#x27;, &amp;#x27;Message 1 from worker 0.&amp;#x27;, &amp;#x27;Message 1 from worker 2.&amp;#x27;]&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# New messages: [&amp;#x27;Message 2 from worker 1.&amp;#x27;, &amp;#x27;Message 2 from worker 0.&amp;#x27;, &amp;#x27;Message 2 from worker 2.&amp;#x27;]&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# New messages: [&amp;#x27;Message 3 from worker 2.&amp;#x27;, &amp;#x27;Message 3 from worker 1.&amp;#x27;, &amp;#x27;Message 3 from worker 0.&amp;#x27;]&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# New messages: [&amp;#x27;Message 4 from worker 2.&amp;#x27;, &amp;#x27;Message 4 from worker 0.&amp;#x27;, &amp;#x27;Message 4 from worker 1.&amp;#x27;]&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# New messages: [&amp;#x27;Message 5 from worker 2.&amp;#x27;, &amp;#x27;Message 5 from worker 0.&amp;#x27;, &amp;#x27;Message 5 from worker 1.&amp;#x27;]&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;Ray의 액터는 매우 강력합니다. 액터는 파이썬의 클래스를 가져와서 다른 액터와의 작업 혹은 다른 애플리케이션에 질의할 수 있는 마이크로 서비스로 인스턴스화할 수 있습니다.&lt;/p&gt;
+&lt;p&gt;task와 액터는 Ray가 제공하는 핵심적인 추상입니다. 이 두 가지 개념은 매우 일반적이면서 정교한 애플리케이션 구현에 사용할 수 있습니다.&lt;/p&gt;
+&lt;p&gt;Ray는 딥러닝에 사용되는 정교한 애플리케이션 중 하나인 &lt;a href=&#34;https://docs.ray.io/en/latest/rllib.html&#34;&gt;분산 강화학습&lt;/a&gt;, &lt;a href=&#34;https://docs.ray.io/en/latest/tune/index.html&#34;&gt;하이퍼파라미터 튜닝 도구&lt;/a&gt;, &lt;a href=&#34;https://docs.ray.io/en/latest/pandas_on_ray.html&#34;&gt;가속화된 판다스&lt;/a&gt;를 제공하니 한번 살펴보시기 바랍니다.&lt;/p&gt;
+&lt;p&gt;또한 이런 기술적인 내용을 함께 논의해보고 싶으시다면 딥백수에서 함께하시면 좋을 것 같습니다. &lt;a href=&#34;/about&#34;&gt;딥백수 소개 페이지&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;reference&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#reference&#34;&gt;&lt;/a&gt; Reference&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://towardsdatascience.com/modern-parallel-and-distributed-python-a-quick-tutorial-on-ray-99f8d70369b8&#34;&gt;Modern Parallel and Distributed Python: A Quick Tutorial on Ray&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

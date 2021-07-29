@@ -1,0 +1,175 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://deepbaksu.github.io</id>
+    <title>딥백수 • Posts by &#34;cqrs&#34; tag</title>
+    <link href="https://deepbaksu.github.io" />
+    <updated>2020-08-15T11:56:22.000Z</updated>
+    <category term="Mo Kweon" />
+    <category term="go" />
+    <category term="golang" />
+    <category term="dependency injection" />
+    <category term="wire" />
+    <category term="uber-go" />
+    <category term="fx" />
+    <category term="Hyunggi Chang" />
+    <category term="AI" />
+    <category term="딥러닝" />
+    <category term="로보틱스" />
+    <category term="YouTube" />
+    <category term="News" />
+    <category term="Hyunseok Jeong" />
+    <category term="Software Architecture" />
+    <category term="Agile" />
+    <category term="Architect" />
+    <category term="Jinyoung Song" />
+    <category term="데이터분석" />
+    <category term="통계분석" />
+    <category term="통계학" />
+    <category term="통계역사" />
+    <category term="비트코인" />
+    <category term="제국주의" />
+    <category term="미래전망" />
+    <category term="플랫폼전략" />
+    <category term="디지털자산" />
+    <category term="microservice" />
+    <category term="CQRS" />
+    <category term="architecture" />
+    <category term="software engineering" />
+    <category term="선지원" />
+    <category term="후고민" />
+    <category term="선지원 후고민" />
+    <category term="실험" />
+    <category term="Apply Driven Study" />
+    <category term="생존" />
+    <category term="멘토링" />
+    <category term="용기" />
+    <category term="free web server" />
+    <category term="heroku" />
+    <category term="aws" />
+    <category term="gcp" />
+    <category term="netlify" />
+    <category term="github actions" />
+    <category term="구글애널리틱스" />
+    <category term="GA" />
+    <category term="Google Analytics" />
+    <category term="Data Analysis" />
+    <category term="Web Log Analysis" />
+    <category term="Happy working" />
+    <category term="Mindfulness" />
+    <category term="Noble Eightfold Path" />
+    <category term="gRPC" />
+    <category term="Go" />
+    <category term="REST" />
+    <category term="존버" />
+    <category term="jonber" />
+    <category term="딥백수" />
+    <category term="회고" />
+    <category term="bluehole" />
+    <category term="krafton" />
+    <category term="communication" />
+    <category term="GitHub CLI" />
+    <category term="Gist" />
+    <category term="Leaning by Doing" />
+    <category term="Repo" />
+    <category term="Alias" />
+    <category term="습관" />
+    <category term="중용" />
+    <category term="꾸준함" />
+    <category term="성실" />
+    <category term="대화" />
+    <category term="비폭력대화" />
+    <category term="Golang" />
+    <category term="Slice" />
+    <category term="example" />
+    <category term="Windows" />
+    <category term="PowerShell" />
+    <category term="PowerShell script" />
+    <category term="Git" />
+    <category term="Prompt" />
+    <category term="Martin Fowler" />
+    <category term="Refactoring" />
+    <category term="Principles" />
+    <category term="파이썬" />
+    <category term="실무" />
+    <category term="데이터분석 실무" />
+    <category term="네트워크 분석" />
+    <category term="최적화" />
+    <category term="시뮬레이션" />
+    <category term="자연어처리" />
+    <category term="회귀" />
+    <category term="예측 분석" />
+    <category term="semantic release" />
+    <category term="semantic version" />
+    <category term="slack" />
+    <category term="bot" />
+    <category term="oauth" />
+    <category term="Github Action" />
+    <category term="Slack" />
+    <category term="Automation" />
+    <category term="자동화" />
+    <category term="cron" />
+    <category term="Seunghwan Chang" />
+    <category term="English" />
+    <category term="would" />
+    <category term="ppt" />
+    <category term="발표" />
+    <category term="consulting" />
+    <category term="보고서" />
+    <category term="파워포인트" />
+    <category term="PT고자" />
+    <category term="ppt고자" />
+    <category term="ppt공포" />
+    <category term="슬라이드" />
+    <category term="Martin Hwang" />
+    <category term="Ray" />
+    <category term="distributed computing" />
+    <category term="parallel computing" />
+    <entry>
+        <id>https://deepbaksu.github.io/2020/08/15/cqrs/</id>
+        <title>Command Query Responsibility Segregation</title>
+        <link rel="alternate" href="https://deepbaksu.github.io/2020/08/15/cqrs/"/>
+        <content type="html">&lt;p&gt;제가 서비스를 만들 때 가장 좋아하는 패턴인 &lt;abbr title=&#34;Command Query Responsibility Segregation&#34;&gt;CQRS&lt;/abbr&gt; 에 대해서 적어보겠습니다.&lt;/p&gt;
+&lt;h2 id=&#34;cqrs란&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#cqrs란&#34;&gt;&lt;/a&gt; CQRS란?&lt;/h2&gt;
+&lt;p&gt;원 단어를 보면 어려우 것 같지만 쉽게 얘기하면 &lt;code&gt;read&lt;/code&gt; 와 &lt;code&gt;write&lt;/code&gt; operation 을 나누어서 서비스를 만드는 것을 의미합니다. 특히 일반적으로 event sourcing 과 함께 구현됩니다.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/08/15/cqrs/cqrs_diagram.svg&#34; alt=&#34;CQRS Diagram&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;왜-사용하는가&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#왜-사용하는가&#34;&gt;&lt;/a&gt; 왜 사용하는가?&lt;/h2&gt;
+&lt;p&gt;쓰는 작업과 읽는 작업이 분리가 되있을 경우 (많은 서비스가 그러합니다) 한 서비스에서 둘다 처리할 경우 유용합니다. 만약에 한 서비스에서 처리하는데 쓰는 작업에 어떤 문제가 발생할 경우 읽는 작업 또한 불가능해지게 될 것입니다.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/08/15/cqrs/dead_cqrs.svg&#34; alt=&#34;Dead Service Monolithic&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;또 쓰는 작업은 트래픽의 &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mn&gt;0.01&lt;/mn&gt;&lt;mi mathvariant=&#34;normal&#34;&gt;%&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;0.01\%&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.80556em;vertical-align:-0.05556em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;%&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; 정도 밖에 안되고 읽는 서비스가 대부분의 트래픽을 차지할 수 도 있습니다.&lt;/p&gt;
+&lt;h2 id=&#34;예시&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#예시&#34;&gt;&lt;/a&gt; 예시&lt;/h2&gt;
+&lt;p&gt;CQRS 을 &lt;a href=&#34;https://youtube.com/premium&#34;&gt;YouTube Premium&lt;/a&gt; 서비스를 사용해 예시를 들어보도록 하겠습니다.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.gstatic.com/youtube/img/promos/growth/ytr_lp2_logo_premium_desktop_552x71.png&#34; alt=&#34;YouTube Premium&#34; /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;functional-requirements&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#functional-requirements&#34;&gt;&lt;/a&gt; Functional Requirements&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;유저는 Youtube Premium 을 signup 할 수 있습니다.&lt;/li&gt;
+&lt;li&gt;YouTube Premium 유저는 광고를 스킵합니다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;위 요구사항을 통해 다음과 같이 두개의 서비스로 나타낼 수 있습니다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Premium Service
+&lt;ul&gt;
+&lt;li&gt;실제 Premium 회원 가입을 받는 서비스&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Premium Access Service
+&lt;ul&gt;
+&lt;li&gt;Premium Access 를 가진 유저인지 확인하는 서비스&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/08/15/cqrs/premium_service.svg&#34; alt=&#34;Premium Service Diagram&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;어느 날 무슨 이유로 Premium Service 가 다운 됬을 경우에도 기존의 Premium User들은 아무 문제 없이 광고 없이 동영상 시청이 가능합니다.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/08/15/cqrs/premium_service_down.svg&#34; alt=&#34;Premium Service is down&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;실제로도 이런 CQRS 패턴을 사용해 구현되어 있습니다.&lt;/p&gt;
+&lt;h2 id=&#34;sync&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#sync&#34;&gt;&lt;/a&gt; Sync&lt;/h2&gt;
+&lt;p&gt;그럼 이제 문제는 Query의 DB와 Command를 받는 DB의 consistency 를 어떻게 유지하는지가 관건일 것입니다. 이 문제는 &lt;a href=&#34;https://microservices.io/patterns/data/event-sourcing.html&#34;&gt;event sourcing&lt;/a&gt; 패턴을 사용합니다. 이벤트소싱에 대해서는 다음 포스트에서 쓰도록 하겠습니다.&lt;/p&gt;
+&lt;p&gt;오신 김에 딥백수 그룹에 관심 있으신 분들은 &lt;a href=&#34;/about&#34;&gt;소개 페이지&lt;/a&gt; 를 방문해주세요!&lt;/p&gt;
+</content>
+        <category term="Mo Kweon" />
+        <category term="microservice" />
+        <category term="CQRS" />
+        <category term="architecture" />
+        <category term="software engineering" />
+        <updated>2020-08-15T11:56:22.000Z</updated>
+    </entry>
+</feed>

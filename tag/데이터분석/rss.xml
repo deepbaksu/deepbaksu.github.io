@@ -1,0 +1,212 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>딥백수 • Posts by &#34;데이터분석&#34; tag</title>
+        <link>https://deepbaksu.github.io</link>
+        <description>우리는 &#39;지속가능한 백수질&#39;을 지향합니다. 고로 외롭게 공부하고 있을 당신을 응원합니다. 딥러닝에 관련된 글 뿐만 아니라, 백수생활의 넋두리도 환영합니다.</description>
+        <language>ko</language>
+        <pubDate>Sun, 22 Nov 2020 16:58:43 +0000</pubDate>
+        <lastBuildDate>Sun, 22 Nov 2020 16:58:43 +0000</lastBuildDate>
+        <category>Mo Kweon</category>
+        <category>go</category>
+        <category>golang</category>
+        <category>dependency injection</category>
+        <category>wire</category>
+        <category>uber-go</category>
+        <category>fx</category>
+        <category>Hyunggi Chang</category>
+        <category>AI</category>
+        <category>딥러닝</category>
+        <category>로보틱스</category>
+        <category>YouTube</category>
+        <category>News</category>
+        <category>Hyunseok Jeong</category>
+        <category>Software Architecture</category>
+        <category>Agile</category>
+        <category>Architect</category>
+        <category>Jinyoung Song</category>
+        <category>데이터분석</category>
+        <category>통계분석</category>
+        <category>통계학</category>
+        <category>통계역사</category>
+        <category>비트코인</category>
+        <category>제국주의</category>
+        <category>미래전망</category>
+        <category>플랫폼전략</category>
+        <category>디지털자산</category>
+        <category>microservice</category>
+        <category>CQRS</category>
+        <category>architecture</category>
+        <category>software engineering</category>
+        <category>선지원</category>
+        <category>후고민</category>
+        <category>선지원 후고민</category>
+        <category>실험</category>
+        <category>Apply Driven Study</category>
+        <category>생존</category>
+        <category>멘토링</category>
+        <category>용기</category>
+        <category>free web server</category>
+        <category>heroku</category>
+        <category>aws</category>
+        <category>gcp</category>
+        <category>netlify</category>
+        <category>github actions</category>
+        <category>구글애널리틱스</category>
+        <category>GA</category>
+        <category>Google Analytics</category>
+        <category>Data Analysis</category>
+        <category>Web Log Analysis</category>
+        <category>Happy working</category>
+        <category>Mindfulness</category>
+        <category>Noble Eightfold Path</category>
+        <category>gRPC</category>
+        <category>Go</category>
+        <category>REST</category>
+        <category>존버</category>
+        <category>jonber</category>
+        <category>딥백수</category>
+        <category>회고</category>
+        <category>bluehole</category>
+        <category>krafton</category>
+        <category>communication</category>
+        <category>GitHub CLI</category>
+        <category>Gist</category>
+        <category>Leaning by Doing</category>
+        <category>Repo</category>
+        <category>Alias</category>
+        <category>습관</category>
+        <category>중용</category>
+        <category>꾸준함</category>
+        <category>성실</category>
+        <category>대화</category>
+        <category>비폭력대화</category>
+        <category>Golang</category>
+        <category>Slice</category>
+        <category>example</category>
+        <category>Windows</category>
+        <category>PowerShell</category>
+        <category>PowerShell script</category>
+        <category>Git</category>
+        <category>Prompt</category>
+        <category>Martin Fowler</category>
+        <category>Refactoring</category>
+        <category>Principles</category>
+        <category>파이썬</category>
+        <category>실무</category>
+        <category>데이터분석 실무</category>
+        <category>네트워크 분석</category>
+        <category>최적화</category>
+        <category>시뮬레이션</category>
+        <category>자연어처리</category>
+        <category>회귀</category>
+        <category>예측 분석</category>
+        <category>semantic release</category>
+        <category>semantic version</category>
+        <category>slack</category>
+        <category>bot</category>
+        <category>oauth</category>
+        <category>Github Action</category>
+        <category>Slack</category>
+        <category>Automation</category>
+        <category>자동화</category>
+        <category>cron</category>
+        <category>Seunghwan Chang</category>
+        <category>English</category>
+        <category>would</category>
+        <category>ppt</category>
+        <category>발표</category>
+        <category>consulting</category>
+        <category>보고서</category>
+        <category>파워포인트</category>
+        <category>PT고자</category>
+        <category>ppt고자</category>
+        <category>ppt공포</category>
+        <category>슬라이드</category>
+        <category>Martin Hwang</category>
+        <category>Ray</category>
+        <category>distributed computing</category>
+        <category>parallel computing</category>
+        <item>
+            <guid isPermalink="true">https://deepbaksu.github.io/2020/11/22/ask-data/</guid>
+            <title>리마인드용으로 훑어볼만한 책 - 데이터를 부탁해</title>
+            <link>https://deepbaksu.github.io/2020/11/22/ask-data/</link>
+            <category>Jinyoung Song</category>
+            <category>데이터분석</category>
+            <category>통계분석</category>
+            <category>통계학</category>
+            <category>통계역사</category>
+            <pubDate>Sun, 22 Nov 2020 16:58:43 +0000</pubDate>
+            <description><![CDATA[ &lt;h2 id=&#34;ai-ai-ai&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#ai-ai-ai&#34;&gt;&lt;/a&gt; AI AI AI!!!&lt;/h2&gt;
+&lt;p&gt;그야말로 AI의 시대입니다. 뉴스, 유튜브, 페이스북에 AI에 대한 이야기가 안나오는 날이 있을까 싶을 정도로 AI의 시대에 살고 있는거 같습니다. 그렇기 때문에 우리는 하루하루 마음을 졸이며 살고 있죠. 이 두려움은 업종, 직군을 따지지 않고 깊숙히 스며드는 것 같습니다.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/11/22/ask-data/justice.jpg&#34; alt=&#34;AI AI AI!&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;이런 이유로 AI에 대한 책이 많이 나옵니다. 특히 인공지능쪽을 잘 모르는 분들을 위한 책들도 많이 나오고 있습니다. 그런 책들의 흐름은 대부분 이런 식입니다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;선형회귀를 통한 예측&lt;/li&gt;
+&lt;li&gt;로지스틱 회귀 예측&lt;/li&gt;
+&lt;li&gt;랜덤포레스트를 통한 분류&lt;/li&gt;
+&lt;li&gt;머신러닝에서 더 깊숙히 들어간 딥러닝 모델.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;아무것도 모르던 시기엔 이게 전부인줄 알았습니다. 그런데 그렇지 않더라고요.&lt;/p&gt;
+&lt;h2 id=&#34;what-is-data-analyst-who-is-data-analyst&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#what-is-data-analyst-who-is-data-analyst&#34;&gt;&lt;/a&gt; What is Data Analyst? Who is Data Analyst?&lt;/h2&gt;
+&lt;p&gt;비전공자에서 IT쪽으로 오신 분이라면 공감하실지 모르겠는데, 손정의가 아무리 &#39;AI AI AI!!!&#39;라고 외쳐도 결국엔 알고리즘, 운영체제, 수학, 통계학과 같이 기본기가 중요하고 실제로 기업에서도 이런 기본기를 갖춘 사람을 선호한다는 걸 알게 됩니다. 프레임워크를 쓰는 건 어쩌면 그에 비하면 너무 간단한 문제일 수 있으니까요.&lt;/p&gt;
+&lt;p&gt;그래서 저는 고민을 많이 하고 있습니다. 데이터분석 입문 수업을 광고하는 곳에서는 데이터 분석가가 되는 게 쉬우면서도 연봉을 올리기 좋다고 하지만, 실제로는 그렇지 않거든요.&lt;/p&gt;
+&lt;p&gt;단순히 pandas써서 데이터 전처리 조금 할 줄 알고, sklearn과 같은 머신러닝 프레임워크 조금 다룰 줄 안다고 해서 데이터 분석가가 될 수 있다고 할 수는 없으니까요.&lt;/p&gt;
+&lt;p&gt;그럼 데이터 분석가란 무엇일까요? 데이터 분석가란 누구인걸까요? 좋은 데이터 분석가란 어떤 사람일까요?&lt;/p&gt;
+&lt;h2 id=&#34;find-the-essence-prove-by-action&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#find-the-essence-prove-by-action&#34;&gt;&lt;/a&gt; Find the Essence. Prove by Action&lt;/h2&gt;
+&lt;blockquote&gt;&lt;p&gt;The only thing that doesn’t change is the fact that it changes&lt;/p&gt;
+&lt;footer&gt;&lt;strong&gt;Heraclitos&lt;/strong&gt;&lt;/footer&gt;&lt;/blockquote&gt;
+&lt;p&gt;사실 저는 저 질문들에 대한 답을 아직까지 잘 모르겠어요. 답을 찾아가는 과정인 것 같다는 생각을 하기도 해요. 가끔 보면 저 질문들에 대한 답을 안다는 듯 잘난척을 하는 글들이 보이곤 하죠. 정말 잘 하시는 분들인 경우도 있지만, 광고글이거나 잘 모르는데 잘 아는척 하는 글을 볼 때가 많이 있어요.&lt;/p&gt;
+&lt;p&gt;모든 IT분야가 그렇듯, 데이터분석 쪽도 계속해서 빠른 속도로 변화가 일어나고 있어요. 그렇기 때문에 혼란스러운게 아닐까 생각이 들어요. 과거, 데이터분석은 특별한 훈련을 받은 사람들만 했다면 이제는 점점 더 누구나 쉽고 간단하게 분석을 할 수 있고 워크플로우까지 만들 수 있는 시대가 왔으니까요.&lt;/p&gt;
+&lt;p&gt;그렇다 해도 데이터분석가에게 본질적으로 변하지 않는 요구능력은 데이터를 바라보는 능력이지 않을까요? 물론 데이터를 바라본다는 건 비즈니스 관점으로도 바라볼 수 있고, 백엔드 개발 관점으로도 바라볼 수 있고 여러가지 관점으로 바라볼 수 있겠죠. 하지만 데이터 분석가에겐 기본적으로 통계학적 관점이 필요하지 않을까 생각이 들어요. 조금 더 엄격하게 데이터를 바라볼 수 있게 해주니까요.&lt;/p&gt;
+&lt;p&gt;그렇기 때문에라도 통계공부는 해야 하는데 손이 잘 안가긴 하죠.&lt;/p&gt;
+&lt;p&gt;이 책은 이런 여정을 떠나는 사람이 잠시 쉬며 훑어볼 용도로 괜찮은 책이에요. 아예 모르는 사람에게는 적합하지 않고, 익히는 과정에 있는 사람들이 이런게 있구나 하는 전체적인 조망을 보는 데 유용한 책. 그런 책이에요.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/11/22/ask-data/book_cover.jpg&#34; alt=&#34;책 표지 - 출처 : yes24&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;주말 하루 시간을 잡으면 금방 읽을 수 있는 책이라 너무 무겁지 않아서 좋았어요.&lt;/p&gt;
+&lt;p&gt;책 링크 : &lt;a href=&#34;https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=188000067&#34;&gt;https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=188000067&lt;/a&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://deepbaksu.github.io/2020/09/04/python-data-analysis-technique/</guid>
+            <title>제대로 된 실무서적 - 파이썬 데이터분석 실무 테크닉 100</title>
+            <link>https://deepbaksu.github.io/2020/09/04/python-data-analysis-technique/</link>
+            <category>Jinyoung Song</category>
+            <category>데이터분석</category>
+            <category>파이썬</category>
+            <category>실무</category>
+            <category>데이터분석 실무</category>
+            <category>네트워크 분석</category>
+            <category>최적화</category>
+            <category>시뮬레이션</category>
+            <category>자연어처리</category>
+            <category>회귀</category>
+            <category>예측 분석</category>
+            <pubDate>Fri, 04 Sep 2020 06:14:42 +0000</pubDate>
+            <description><![CDATA[ &lt;p&gt;&lt;img src=&#34;/2020/09/04/python-data-analysis-technique/python_da.PNG&#34; alt=&#34;책 표지&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;사전-공지-내돈내산&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#사전-공지-내돈내산&#34;&gt;&lt;/a&gt; 사전 공지 : 내돈내산&lt;/h2&gt;
+&lt;p&gt;실력은 그리 좋지 못한데, 책 읽는 건(정확히 말하면 책을 사고 책장에 장식하는 건) 좋아하기에 출판사로부터 책 선물을 받기도 하고, 서평단 활동을 하기도 한다. 그렇지만 이 책은 분명 내가 돈을 내고 내가 직접 구매한 내돈내산 책이다. 그렇기에 책에 대해서 칭찬을 하든 비판을 하든 전혀 광고가 아님을 밝힌다.&lt;/p&gt;
+&lt;h2 id=&#34;누구나-그럴듯한-계획이-있다-데이터-분석&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#누구나-그럴듯한-계획이-있다-데이터-분석&#34;&gt;&lt;/a&gt; 누구나 그럴듯한 계획이 있다 - 데이터 분석&lt;/h2&gt;
+&lt;p&gt;타이슨이 강조한 말이다. 두들겨 맞기 전까진 다들 자기의 능력을 발휘해 데이터분석을 어떻게 어떻게 처리하고 인정을 받을거란 환상을 품는다. 나 또한 그랬다. 실무에 가기 전까진. 이 책을 만나기 전까진.&lt;/p&gt;
+&lt;p&gt;데이터분석이라고 하면 보통 크롤링 하고 전처리 조금 한 뒤에 스케일링을 좀 해주고 머신러닝 라이브러리를 사용해서 회귀나 예측만 잘하면 되는거라고 생각하기 쉬운데 그렇지가 않다. 전처리란 것도 우리가 생각한 거 이상으로 다양한 종류가 있을 수 있고, 단순히 회귀나 분류, 예측을 해야 하는 게 아니라 소셜 네트워크 분석을 하거나 자연어처리를 해야 할 수도 있다.&lt;/p&gt;
+&lt;p&gt;특히나 이 책에선 일반적인 데이터분석 서적에서 잘 다루지 않는 최적화와 시뮬레이션까지 다루고 있다. 일반적으로 데이터분석 커리큘럼에서 자신감을 얻고 뭔가 자만감까지 빠지고 있는 사람이라면 이 책을 통해 그 자만감을 없애고 다시 겸손해질 필요가 있다.&lt;/p&gt;
+&lt;p&gt;책 앞부분은 일반적으로 많이 접해본 비즈니스 데이터 전처리 및 에측 분석인데다 저자가 하나하나 마치 꼭꼭 씹은뒤 먹여주기 때문에 &#39;너무 쉬운거 아니야?&#39;라고 착각할 수 있다. 하지만 물류 최적경로 파악을 위한 소셜 네트워크 분석, 물류 네트워크 최적화, 시뮬레이션을 통한 소비자 행동 예측 부분 (각각 6, 7, 8장)으로 가면 익숙하지도 않은데다 저자의 설명 또한 많이 빈약하므로 멘붕에 빠질 수 있다. (나만 그런가?)&lt;/p&gt;
+&lt;h2 id=&#34;정량분석-그리고-감각&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#정량분석-그리고-감각&#34;&gt;&lt;/a&gt; 정량분석 그리고 ‘감각’&lt;/h2&gt;
+&lt;p&gt;그럼에도 이 책이 좋은 책이라고 생각하는 건 tool설명에 약간 치우친 책들과 달리 &#39;감각’을 길러줄 수 있는 책이기 때문이다.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;이번 케이스처럼 반년 정도의 데이터라면 별로 영향이 없겠지만, 과거 수년의 데이터에는 여러가지 비즈니스 모델이 포함되어 있을 수 있기 때문에 전체 데이터를 한 번에 분석하면 데이터의 시계열 변화를 잘못 파악하는 경우가 있습니다. 그런 경우에는 데이터 범위를 좁혀서 분석하는 것도 하나의 방법입니다.&lt;/p&gt;
+&lt;p&gt;파이썬 데이터 분석 실무 테크닉 100 19p&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;&lt;p&gt;end_date(회원 기간이 만료된 날짜)컬럼에 결측이 있는 이유는 탈퇴하지 않은 회원의 경우 탈퇴일이 없기 때문에, 컬럼에 NULL값을 넣었을 것이기 때문이라고 추측할 수 있습니다.&lt;/p&gt;
+&lt;p&gt;파이썬 데이터 분석 실무 테크닉 100 64p&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;이미 어느정도 실무에서 굴러보신 분이라면 &#39;너무 당연한 소리아니냐’할 수 있겠지만, 시계열 분석만 공부하고 막 실무에 투입된 사람, 머신러닝 라이브러리를 통해 머신러닝이 무엇인지 어떻게 회귀와 분류 문제를 푸는지 방법만 이해한 사람에게는 이런 조언들이 단순한 Tool설명보다 더 좋은 영양제가 될거라 생각한다.&lt;/p&gt;
+&lt;p&gt;정량적으로 데이터를 분석해야하는 분석가에게도 &#39;감각’이 중요한 이유를 생각하다보니 장자의 양생주편이 생각이 났다.&lt;/p&gt;
+&lt;p&gt;포정이라는 사람이 문혜군(文惠君)을 위해 소를 잡았다. 그런데 그 포정의 칼을 움직이는 동작이 신기에 가까웠다. 이를 본 문혜군은 어떻게 그런 경지에 이를 수 있냐고 물었다.&lt;/p&gt;
+&lt;p&gt;포정은 도(道)를 얘기하며 자신의 철학을 설명해주었는데 그 중 백미는 다음의 문장이다.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;평범한 보통 소잡이는 달마다 칼을 바꾸는데, 이는 무리하게 뼈를 가르기 때문입니다. 그렇지만 제 칼은 19년이나 되어 수천 마리의 소를 잡았지만 칼날은 방금 숫돌에 간 것과 같습니다. 저 뼈마디에는 틈새가 있고 칼날에는 두께가 없습니다. 두께 없는 것을 틈새에 넣으니, 널찍하여 칼날을 움직이는 데도 여유가 있습니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;잘 모르는 분석가는 툴만 이해했기 때문에 데이터의 의미를 이해하지 못한 채 이리저리 쑤셔놓기만 하지만(== 지금 내 상태), 좋은 분석가는 툴은 물론 데이터의 의미와 프로세스와 설득방법 같이 프로젝트의 전반적인 흐름을 정확히 이해하기 때문에 힘을 빼더라도 더 좋은 분석을 해낸다고 생각을 했다.&lt;/p&gt;
+&lt;p&gt;무튼 이제 막 데이터 분석 실무를 다루셔야 할 분이라면 실무 들어가기전에 한 번쯤 실습해보고 가시면 좋을듯 하다. 같이 멘붕에 빠지시면 더욱 좋을거고.&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,273 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>딥백수 • Posts by &#34;windows&#34; tag</title>
+        <link>https://deepbaksu.github.io</link>
+        <description>우리는 &#39;지속가능한 백수질&#39;을 지향합니다. 고로 외롭게 공부하고 있을 당신을 응원합니다. 딥러닝에 관련된 글 뿐만 아니라, 백수생활의 넋두리도 환영합니다.</description>
+        <language>ko</language>
+        <pubDate>Thu, 12 Nov 2020 10:27:12 +0000</pubDate>
+        <lastBuildDate>Thu, 12 Nov 2020 10:27:12 +0000</lastBuildDate>
+        <category>Mo Kweon</category>
+        <category>go</category>
+        <category>golang</category>
+        <category>dependency injection</category>
+        <category>wire</category>
+        <category>uber-go</category>
+        <category>fx</category>
+        <category>Hyunggi Chang</category>
+        <category>AI</category>
+        <category>딥러닝</category>
+        <category>로보틱스</category>
+        <category>YouTube</category>
+        <category>News</category>
+        <category>Hyunseok Jeong</category>
+        <category>Software Architecture</category>
+        <category>Agile</category>
+        <category>Architect</category>
+        <category>Jinyoung Song</category>
+        <category>데이터분석</category>
+        <category>통계분석</category>
+        <category>통계학</category>
+        <category>통계역사</category>
+        <category>비트코인</category>
+        <category>제국주의</category>
+        <category>미래전망</category>
+        <category>플랫폼전략</category>
+        <category>디지털자산</category>
+        <category>microservice</category>
+        <category>CQRS</category>
+        <category>architecture</category>
+        <category>software engineering</category>
+        <category>선지원</category>
+        <category>후고민</category>
+        <category>선지원 후고민</category>
+        <category>실험</category>
+        <category>Apply Driven Study</category>
+        <category>생존</category>
+        <category>멘토링</category>
+        <category>용기</category>
+        <category>free web server</category>
+        <category>heroku</category>
+        <category>aws</category>
+        <category>gcp</category>
+        <category>netlify</category>
+        <category>github actions</category>
+        <category>구글애널리틱스</category>
+        <category>GA</category>
+        <category>Google Analytics</category>
+        <category>Data Analysis</category>
+        <category>Web Log Analysis</category>
+        <category>Happy working</category>
+        <category>Mindfulness</category>
+        <category>Noble Eightfold Path</category>
+        <category>gRPC</category>
+        <category>Go</category>
+        <category>REST</category>
+        <category>존버</category>
+        <category>jonber</category>
+        <category>딥백수</category>
+        <category>회고</category>
+        <category>bluehole</category>
+        <category>krafton</category>
+        <category>communication</category>
+        <category>GitHub CLI</category>
+        <category>Gist</category>
+        <category>Leaning by Doing</category>
+        <category>Repo</category>
+        <category>Alias</category>
+        <category>습관</category>
+        <category>중용</category>
+        <category>꾸준함</category>
+        <category>성실</category>
+        <category>대화</category>
+        <category>비폭력대화</category>
+        <category>Golang</category>
+        <category>Slice</category>
+        <category>example</category>
+        <category>Windows</category>
+        <category>PowerShell</category>
+        <category>PowerShell script</category>
+        <category>Git</category>
+        <category>Prompt</category>
+        <category>Martin Fowler</category>
+        <category>Refactoring</category>
+        <category>Principles</category>
+        <category>파이썬</category>
+        <category>실무</category>
+        <category>데이터분석 실무</category>
+        <category>네트워크 분석</category>
+        <category>최적화</category>
+        <category>시뮬레이션</category>
+        <category>자연어처리</category>
+        <category>회귀</category>
+        <category>예측 분석</category>
+        <category>semantic release</category>
+        <category>semantic version</category>
+        <category>slack</category>
+        <category>bot</category>
+        <category>oauth</category>
+        <category>Github Action</category>
+        <category>Slack</category>
+        <category>Automation</category>
+        <category>자동화</category>
+        <category>cron</category>
+        <category>Seunghwan Chang</category>
+        <category>English</category>
+        <category>would</category>
+        <category>ppt</category>
+        <category>발표</category>
+        <category>consulting</category>
+        <category>보고서</category>
+        <category>파워포인트</category>
+        <category>PT고자</category>
+        <category>ppt고자</category>
+        <category>ppt공포</category>
+        <category>슬라이드</category>
+        <category>Martin Hwang</category>
+        <category>Ray</category>
+        <category>distributed computing</category>
+        <category>parallel computing</category>
+        <item>
+            <guid isPermalink="true">https://deepbaksu.github.io/2020/11/12/powershell-prompt-script/</guid>
+            <title>윈도우 PowerShell - custom prompt 스크립트 만들기</title>
+            <link>https://deepbaksu.github.io/2020/11/12/powershell-prompt-script/</link>
+            <category>Hyunseok Jeong</category>
+            <category>Windows</category>
+            <category>PowerShell</category>
+            <category>PowerShell script</category>
+            <category>Git</category>
+            <category>Prompt</category>
+            <pubDate>Thu, 12 Nov 2020 10:27:12 +0000</pubDate>
+            <description><![CDATA[ &lt;p&gt;&lt;img src=&#34;/2020/11/12/powershell-prompt-script/kerensa-pickett-sTnZRUJm-kI-unsplash.jpg&#34; alt=&#34;Photo by Kerensa Pickett on Unsplash&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;지난번에는 git 자동 완성기능을 사용하고, prompt에 git 정보를 추가하고 싶어서&lt;br /&gt;
+재빨리 구글링하여 PowerShell 에서 원하는 기능을 만들었다.&lt;/p&gt;
+&lt;p&gt;참고링크: &lt;a href=&#34;https://jusths.tistory.com/180&#34;&gt;https://jusths.tistory.com/180&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;아래는 그 결과물이다.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;git 자동완성이 되며&lt;/li&gt;
+&lt;li&gt;git 정보가 prompt 에 나오며&lt;/li&gt;
+&lt;li&gt;마지막 명령의 실행 소요시간이 표시된다.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/11/12/powershell-prompt-script/1.png&#34; alt=&#34;previous result&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;이번에는 이를 위해 사용한 스크립트를 조금 더 분석하여 나만의 prompt 를 만들어 보았다.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;디렉토리를 Linux 스타일로 표현하고, 이어서 &lt;code&gt;posh-git&lt;/code&gt;의 git 정보가 표시된다.
+&lt;ul&gt;
+&lt;li&gt;디렉토리가 너무 길면 … 으로 줄여서 표현한다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;명령의 실행 소요시간을 우측 정렬로 노란색 배경컬러로 표시했다.&lt;/li&gt;
+&lt;li&gt;이어서 User 정보, 현재 시간을 표시하였다. User 정보는 Administrator 이면 Admin 으로 표시된다.&lt;/li&gt;
+&lt;li&gt;프롬프트는 다음줄에 작고 앙증맞은 → 화살표로 하였다.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/11/12/powershell-prompt-script/2.png&#34; alt=&#34;final result&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;최종 결과는 GitHub Gist 에 올려두었다.&lt;br /&gt;
+GitHub Gist: &lt;a href=&#34;https://gist.github.com/83ea6615ff5a8c2baf5682443f39dc42&#34;&gt;https://gist.github.com/83ea6615ff5a8c2baf5682443f39dc42&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;스크립트-간단-분석&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#스크립트-간단-분석&#34;&gt;&lt;/a&gt; 스크립트 간단 분석&lt;/h2&gt;
+&lt;p&gt;본인의 PowerShell prompt 에 적용하려면 user 디렉토리의 Documents\PowerShell 로 들어가서 profile.ps1 파일에 Gist의 스크립트를 덮어쓰면 된다.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;PowerShell이 실행될 때마다 &lt;code&gt;function Prompt()&lt;/code&gt; 를 가져와서 PowerShell 의 prompt 를 그릴때에 사용한다.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Write-Host&lt;/code&gt; 는 echo 와 같다고 보면 된다. 화면에 출력을 해주는 기능이다.
+&lt;ul&gt;
+&lt;li&gt;명령들 사이에 한 줄을 띄워주려 사용하였다. 줄 바꿈을 하지 않으려면 &lt;code&gt;-NoNewLine&lt;/code&gt; 옵션을 주면 된다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;PowerShell 의 배열을 다루는 함수들을 사용하여 현재 디렉토리 경로 문자열을 다듬었다.
+&lt;ul&gt;
+&lt;li&gt;Linux 처럼 보이게 콜론(:)을 없애고, 역슬래시()를 기준으로 문자열을 나누어 배열에 담은 다음&lt;/li&gt;
+&lt;li&gt;배열의 개수가 3개 이상인지 여부로 분기하여, 너무 긴 경로는 &lt;code&gt;…&lt;/code&gt; 로 줄여줄 수 있도록 하였다.&lt;/li&gt;
+&lt;li&gt;그리고 &lt;code&gt;-join&lt;/code&gt; 을 사용하여 슬래시(/)로 Linux 느낌이 나게 다시 경로 문자열을 만들었다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;만든 문자열을 &lt;code&gt;Write-Host&lt;/code&gt; 로 출력하여 첫번째 출력을 완성하였다.
+&lt;ul&gt;
+&lt;li&gt;이때 &lt;code&gt;-ForegroundColor Cyan&lt;/code&gt; 옵션을 이용하여 글자색을 바꾸어 보았으며&lt;/li&gt;
+&lt;li&gt;같은 라인에 추가적인 정보를 담으려 하기에 &lt;code&gt;-NoNewLine&lt;/code&gt; 으로 줄바꿈을 방지했다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;figure class=&#34;highlight powershell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;function&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;Prompt&lt;/span&gt;&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;built_in&#34;&gt;Write-Host&lt;/span&gt; &lt;span class=&#34;comment&#34;&gt;# one blank line&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;comment&#34;&gt;# 1. pwd&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;variable&#34;&gt;$pwdArray&lt;/span&gt; = &lt;span class=&#34;variable&#34;&gt;$&lt;/span&gt;(&lt;span class=&#34;variable&#34;&gt;$pwd&lt;/span&gt;.path &lt;span class=&#34;operator&#34;&gt;-replace&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;#x27;:&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;string&#34;&gt;&amp;#x27;&amp;#x27;&lt;/span&gt;).split(&lt;span class=&#34;string&#34;&gt;&amp;#x27;\&amp;#x27;&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; (&lt;span class=&#34;variable&#34;&gt;$pwdArray&lt;/span&gt;.count &lt;span class=&#34;operator&#34;&gt;-gt&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;3&lt;/span&gt;) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;variable&#34;&gt;$linuxPath&lt;/span&gt; = &lt;span class=&#34;string&#34;&gt;&amp;quot;/&lt;span class=&#34;variable&#34;&gt;$&lt;/span&gt;(&lt;span class=&#34;variable&#34;&gt;$pwdArray&lt;/span&gt;[0], &amp;#x27;...&amp;#x27;, &lt;span class=&#34;variable&#34;&gt;$pwdArray&lt;/span&gt;[-2], &lt;span class=&#34;variable&#34;&gt;$pwdArray&lt;/span&gt;[-1] -join (&amp;#x27;/&amp;#x27;))&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &amp;#125; &lt;span class=&#34;keyword&#34;&gt;else&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;variable&#34;&gt;$linuxPath&lt;/span&gt; = &lt;span class=&#34;string&#34;&gt;&amp;quot;/&lt;span class=&#34;variable&#34;&gt;$&lt;/span&gt;(&lt;span class=&#34;variable&#34;&gt;$pwdArray&lt;/span&gt; -join (&amp;#x27;/&amp;#x27;))&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;built_in&#34;&gt;write-host&lt;/span&gt; &lt;span class=&#34;variable&#34;&gt;$linuxPath&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;-ForegroundColor&lt;/span&gt; Cyan &lt;span class=&#34;literal&#34;&gt;-NoNewline&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;ol&gt;
+&lt;li&gt;vcsStatus 출력은 Posh-git 이 import 되었는지를 확인하여, Write-VcsStatus 를 이용하여 출력을 하였다.&lt;/li&gt;
+&lt;li&gt;이 출력부분 역시 costomize 가능한 것으로 알고 있는데 심심할 때 한 번 들여다보고 싶은 부분이다.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;figure class=&#34;highlight powershell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# 2. git status&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; (&lt;span class=&#34;built_in&#34;&gt;Get-Module&lt;/span&gt; Posh&lt;span class=&#34;literal&#34;&gt;-git&lt;/span&gt;) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;variable&#34;&gt;$vcsStatus&lt;/span&gt; = &lt;span class=&#34;built_in&#34;&gt;Write-VcsStatus&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;built_in&#34;&gt;write-host&lt;/span&gt; &lt;span class=&#34;variable&#34;&gt;$vcsStatus&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;-NoNewline&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h3 id=&#34;오른쪽-정렬하여-출력할-세-가지-정보&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#오른쪽-정렬하여-출력할-세-가지-정보&#34;&gt;&lt;/a&gt; 오른쪽 정렬하여 출력할 세 가지 정보&lt;/h3&gt;
+&lt;p&gt;마지막 실행한 명령의 실행 소요시간, Administrator 인지를 포함한 User 정보, 현재 시간을 오른쪽 정렬로 뿌려보려고 한다.&lt;br /&gt;
+이를 위해서 각각의 정보를 우선 문자열로 뽑아 보았다.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;$elapsedTime&lt;/code&gt; 은 마지막 명령의 실행 소요시간을 담고 있다.&lt;br /&gt;
+참고 코드는 소요시간의 범위에 따라 다른 색깔, 다른 포맷으로 출력이 되도록 분기한 것이었는데,&lt;br /&gt;
+그 결과를 바로 출력하지 않고 문자열에 담도록 하고, 색깔과 관련한 부분은 제외하였다.&lt;br /&gt;
+조금 복잡해 보이지만 차근히 따라가면 이해가 될 것이다.&lt;/p&gt;
+&lt;figure class=&#34;highlight powershell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# 3. get command execution time&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;variable&#34;&gt;$history&lt;/span&gt; = &lt;span class=&#34;built_in&#34;&gt;Get-History&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;-ErrorAction&lt;/span&gt; Ignore &lt;span class=&#34;literal&#34;&gt;-Count&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; (&lt;span class=&#34;variable&#34;&gt;$history&lt;/span&gt;) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;variable&#34;&gt;$elapsedTime&lt;/span&gt; = &lt;span class=&#34;string&#34;&gt;&amp;quot; &amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;variable&#34;&gt;$ts&lt;/span&gt; = &lt;span class=&#34;built_in&#34;&gt;New-TimeSpan&lt;/span&gt; &lt;span class=&#34;variable&#34;&gt;$history&lt;/span&gt;.StartExecutionTime &lt;span class=&#34;variable&#34;&gt;$history&lt;/span&gt;.EndExecutionTime&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;switch&lt;/span&gt; (&lt;span class=&#34;variable&#34;&gt;$ts&lt;/span&gt;) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &amp;#123; &lt;span class=&#34;variable&#34;&gt;$_&lt;/span&gt;.TotalSeconds &lt;span class=&#34;operator&#34;&gt;-lt&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt; &amp;#125; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            [&lt;span class=&#34;built_in&#34;&gt;int&lt;/span&gt;]&lt;span class=&#34;variable&#34;&gt;$d&lt;/span&gt; = &lt;span class=&#34;variable&#34;&gt;$_&lt;/span&gt;.TotalMilliseconds&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;variable&#34;&gt;$elapsedTime&lt;/span&gt; += &lt;span class=&#34;string&#34;&gt;&amp;#x27;&amp;#123;0&amp;#125;ms&amp;#x27;&lt;/span&gt; &lt;span class=&#34;operator&#34;&gt;-f&lt;/span&gt; (&lt;span class=&#34;variable&#34;&gt;$d&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;break&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &amp;#123; &lt;span class=&#34;variable&#34;&gt;$_&lt;/span&gt;.totalminutes &lt;span class=&#34;operator&#34;&gt;-lt&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt; &amp;#125; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            [&lt;span class=&#34;built_in&#34;&gt;int&lt;/span&gt;]&lt;span class=&#34;variable&#34;&gt;$d&lt;/span&gt; = &lt;span class=&#34;variable&#34;&gt;$_&lt;/span&gt;.TotalSeconds&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;variable&#34;&gt;$elapsedTime&lt;/span&gt; += &lt;span class=&#34;string&#34;&gt;&amp;#x27;&amp;#123;0&amp;#125;s&amp;#x27;&lt;/span&gt; &lt;span class=&#34;operator&#34;&gt;-f&lt;/span&gt; (&lt;span class=&#34;variable&#34;&gt;$d&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;break&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &amp;#123; &lt;span class=&#34;variable&#34;&gt;$_&lt;/span&gt;.totalminutes &lt;span class=&#34;operator&#34;&gt;-ge&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt; &amp;#125; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;variable&#34;&gt;$elapsedTime&lt;/span&gt; += &lt;span class=&#34;string&#34;&gt;&amp;quot;&amp;#123;0:HH:mm:ss&amp;#125;&amp;quot;&lt;/span&gt; &lt;span class=&#34;operator&#34;&gt;-f&lt;/span&gt; ([&lt;span class=&#34;built_in&#34;&gt;datetime&lt;/span&gt;]&lt;span class=&#34;variable&#34;&gt;$ts&lt;/span&gt;.Ticks)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;break&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        Default &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;variable&#34;&gt;$elapsedTime&lt;/span&gt; += &lt;span class=&#34;string&#34;&gt;&amp;#x27;&amp;#123;0&amp;#125;ms&amp;#x27;&lt;/span&gt; &lt;span class=&#34;operator&#34;&gt;-f&lt;/span&gt; (&lt;span class=&#34;variable&#34;&gt;$d&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;variable&#34;&gt;$elapsedTime&lt;/span&gt; += &lt;span class=&#34;string&#34;&gt;&amp;quot; &amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;code&gt;$adminHeader&lt;/code&gt; 는 PowerShell 이 Administrator 로 실행되고 있는지 확인하여, Admin 또는 USERNAME 으로 문자열을 저장해둔다.&lt;/p&gt;
+&lt;figure class=&#34;highlight powershell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# 4. check if admin&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;variable&#34;&gt;$currentUser&lt;/span&gt; = [&lt;span class=&#34;type&#34;&gt;Security.Principal.WindowsPrincipal&lt;/span&gt;](&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    [&lt;span class=&#34;type&#34;&gt;Security.Principal.WindowsIdentity&lt;/span&gt;]::GetCurrent())&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;variable&#34;&gt;$isAdminProcess&lt;/span&gt; = &lt;span class=&#34;variable&#34;&gt;$currentUser&lt;/span&gt;.IsInRole(&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    [&lt;span class=&#34;type&#34;&gt;Security.Principal.WindowsBuiltInRole&lt;/span&gt;]::Administrator)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;variable&#34;&gt;$adminHeader&lt;/span&gt; = &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; (&lt;span class=&#34;variable&#34;&gt;$isAdminProcess&lt;/span&gt;) &amp;#123; &lt;span class=&#34;string&#34;&gt;&amp;#x27; Admin &amp;#x27;&lt;/span&gt; &amp;#125; &lt;span class=&#34;keyword&#34;&gt;else&lt;/span&gt; &amp;#123; &lt;span class=&#34;string&#34;&gt;&amp;quot; &lt;span class=&#34;variable&#34;&gt;$env:USERNAME&lt;/span&gt; &amp;quot;&lt;/span&gt; &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;현재 시간을 &lt;code&gt;$now&lt;/code&gt; 변수에 담는다.&lt;/p&gt;
+&lt;figure class=&#34;highlight powershell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# 5. time&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;variable&#34;&gt;$now&lt;/span&gt; = &lt;span class=&#34;built_in&#34;&gt;get-date&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;-format&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot; HH:mm:ss &amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;만들어둔 세 문자열 &lt;code&gt;$elapsedTime&lt;/code&gt;, &lt;code&gt;$adminHeader&lt;/code&gt;, &lt;code&gt;$now&lt;/code&gt; 을 오른쪽 정렬로 출력한다.&lt;/p&gt;
+&lt;figure class=&#34;highlight powershell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# 6. align right: elapsedTime, adminHeader, now&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;variable&#34;&gt;$rightInfo&lt;/span&gt; = &lt;span class=&#34;string&#34;&gt;&amp;quot;&lt;span class=&#34;variable&#34;&gt;$elapsedTime&lt;/span&gt;&lt;span class=&#34;variable&#34;&gt;$adminHeader&lt;/span&gt;&lt;span class=&#34;variable&#34;&gt;$now&lt;/span&gt;  &amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;variable&#34;&gt;$startposx&lt;/span&gt; = &lt;span class=&#34;variable&#34;&gt;$Host&lt;/span&gt;.UI.RawUI.windowsize.width - &lt;span class=&#34;variable&#34;&gt;$rightInfo&lt;/span&gt;.length&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;variable&#34;&gt;$startposy&lt;/span&gt; = &lt;span class=&#34;variable&#34;&gt;$Host&lt;/span&gt;.UI.RawUI.CursorPosition.Y&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;variable&#34;&gt;$Host&lt;/span&gt;.UI.RawUI.CursorPosition = &lt;span class=&#34;built_in&#34;&gt;New-Object&lt;/span&gt; System.Management.Automation.Host.Coordinates &lt;span class=&#34;variable&#34;&gt;$startposx&lt;/span&gt;,&lt;span class=&#34;variable&#34;&gt;$startposy&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; (&lt;span class=&#34;variable&#34;&gt;$elapsedTime&lt;/span&gt;.length &lt;span class=&#34;operator&#34;&gt;-ne&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;built_in&#34;&gt;write-host&lt;/span&gt; &lt;span class=&#34;variable&#34;&gt;$elapsedTime&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;-ForegroundColor&lt;/span&gt; Black &lt;span class=&#34;literal&#34;&gt;-NoNewline&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;-BackgroundColor&lt;/span&gt; DarkYellow&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;write-host&lt;/span&gt; &lt;span class=&#34;variable&#34;&gt;$adminHeader&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;-ForegroundColor&lt;/span&gt; Black &lt;span class=&#34;literal&#34;&gt;-NoNewline&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;-BackgroundColor&lt;/span&gt; DarkGreen&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;write-host&lt;/span&gt; &lt;span class=&#34;variable&#34;&gt;$now&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;-ForegroundColor&lt;/span&gt; Gray &lt;span class=&#34;literal&#34;&gt;-NoNewline&lt;/span&gt;  &lt;span class=&#34;literal&#34;&gt;-BackgroundColor&lt;/span&gt; Red&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;화살표를 출력한다. 왜 마지막 줄은 Write-Host 를 사용하지 않아도 출력이 되는 것인지는 모르겠다.&lt;br /&gt;
+이렇게 하면 &lt;code&gt;PS&amp;gt;&lt;/code&gt; 라는 prompt 도 사라진다. 이것 역시 정확한 이유는 알지 못한다.&lt;/p&gt;
+&lt;figure class=&#34;highlight powershell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# 8. prompt arrow&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; (&lt;span class=&#34;variable&#34;&gt;$host&lt;/span&gt;.UI.RawUI.CursorPosition.X &lt;span class=&#34;operator&#34;&gt;-gt&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;) &amp;#123; &lt;span class=&#34;built_in&#34;&gt;Write-Host&lt;/span&gt; &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;&amp;quot;&lt;span class=&#34;variable&#34;&gt;$&lt;/span&gt;([char]0x2192) &amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;마지막으로 posh-git 을 import 해주면 된다.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Import-Module posh-git&lt;/code&gt; 은 말 그대로 posh-git 을 가져와서 git 과 관련한 정보를 쓸 수 있게 해준다.&lt;/p&gt;
+&lt;p&gt;끝&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://deepbaksu.github.io/2020/11/05/powershell-with-git-support/</guid>
+            <title>윈도우 PowerShell에서 git을 좀더 편하게 사용하자</title>
+            <link>https://deepbaksu.github.io/2020/11/05/powershell-with-git-support/</link>
+            <category>Hyunseok Jeong</category>
+            <category>Windows</category>
+            <category>PowerShell</category>
+            <category>Git</category>
+            <category>Prompt</category>
+            <pubDate>Thu, 05 Nov 2020 09:43:18 +0000</pubDate>
+            <description><![CDATA[ &lt;p&gt;&lt;img src=&#34;/2020/11/05/powershell-with-git-support/marc-rentschler-F1rES0sVuIw-unsplash.jpg&#34; alt=&#34;Photo by Marc Rentschler on Unsplash&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Linux&lt;/code&gt; 또는 &lt;code&gt;macOS&lt;/code&gt; 환경에서는 &lt;code&gt;git&lt;/code&gt; 명령들이 자동으로 완성되어 편리한데 윈도우 &lt;code&gt;cmd&lt;/code&gt;나 &lt;code&gt;PowerShell&lt;/code&gt;에서는 기본적으로 되지않아 불편하였다.&lt;br /&gt;
+그렇다고 &lt;code&gt;git bash&lt;/code&gt;를 사용하자니 윈도우에서는 다른 불편한 상황이 종종 발생하여&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;git 명령어를 tab으로 자동완성 할 수 있고&lt;/li&gt;
+&lt;li&gt;prompt에 git 정보를 담을 수 있는 방법을 찾아 보았다.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;tldr-너무-길면-읽지-않을꺼죠&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#tldr-너무-길면-읽지-않을꺼죠&#34;&gt;&lt;/a&gt; TL;DR - 너무 길면 읽지 않을꺼죠?&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;PowerShell 은 당연히 설치되어 있어야 한다. 현시점에서는 버전 &lt;code&gt;7.1.0-rc.2&lt;/code&gt;를 설치하였다.&lt;/li&gt;
+&lt;li&gt;posh-git 을 설치한다.&lt;/li&gt;
+&lt;li&gt;PowerShell profile 파일을 수정하여 custom prompt를 설정한다.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;그러면 git 을 사용하는 디렉토리 내에서 아래와 같이 prompt 가 나온다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;시간은 명령 수행 시간&lt;/li&gt;
+&lt;li&gt;현재 브랜치와 Working directory 상태 (현재는 modified 된 파일이 3개라는 뜻이다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/11/05/powershell-with-git-support/1.png&#34; alt=&#34;custom prompt of the Windows PowerShell&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;posh-git-설치하기&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#posh-git-설치하기&#34;&gt;&lt;/a&gt; posh-git 설치하기&lt;/h2&gt;
+&lt;p&gt;GitHub: &lt;a href=&#34;https://github.com/dahlbyk/posh-git&#34;&gt;https://github.com/dahlbyk/posh-git&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;posh-git&lt;/code&gt; 은 PowerShell 모듈이며 Git 사용에 도움이 되는 여러 기능을 제공한다.&lt;br /&gt;
+GitHub &lt;a href=&#34;http://README.md&#34;&gt;README.md&lt;/a&gt; 에 다양한 설치 방법이 나오니 참고하여 설치한다.&lt;br /&gt;
+PowerShell에서 설치를 한다면 Administrator 로 PowerShell을 실행하고 설치해본다.&lt;/p&gt;
+&lt;h2 id=&#34;custom-prompt-설정하기&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#custom-prompt-설정하기&#34;&gt;&lt;/a&gt; Custom prompt 설정하기&lt;/h2&gt;
+&lt;p&gt;참고 링크: &lt;a href=&#34;https://github.com/dahlbyk/posh-git/wiki/Customizing-Your-PowerShell-Prompt&#34;&gt;https://github.com/dahlbyk/posh-git/wiki/Customizing-Your-PowerShell-Prompt&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;posh-git&lt;/code&gt; 이 하는 것은 결국 PowerShell이 실행되기 전에 미리 prompt에 대한 설정을 해두는 것이다.&lt;br /&gt;
+&lt;strong&gt;그래서 어느 파일을 건드려야 하는건가?&lt;/strong&gt; 이걸 알아내기가 힘들어서 헤매었고, 이 포스팅을 하게 되었다.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;profile.ps1&lt;/code&gt; 을 수정해야 한다. 이 파일은 사용자 디렉토리의 &lt;code&gt;Documents\PowerShell&lt;/code&gt; 폴더에 있다.&lt;br /&gt;
+처음 &lt;code&gt;posh-git&lt;/code&gt; 을 설치하면 단 한 줄 밖에 없을 것이다.&lt;/p&gt;
+&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;Import-Module posh-git&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;즉, posh-git을 가져온 다음에 PowerShell 을 실행하겠다는 것이다.&lt;br /&gt;
+이렇게 가져오기 전에 function Prompt 를 정의해주면 된다.&lt;/p&gt;
+&lt;p&gt;구글링하여 아래 링크를 참고하여 설정해보았다.&lt;/p&gt;
+&lt;p&gt;링크: &lt;a href=&#34;https://melcher.dev/2019/03/powershell-prompt-awesomeness-you-need-this/&#34;&gt;https://melcher.dev/2019/03/powershell-prompt-awesomeness-you-need-this/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;항목 하나하나에 대한 자세한 분석은 하지 않았다. 조금 더 커스터마이즈 하고 싶으면 조금씩 수정해가면서 확인하면 될 것이다.&lt;/p&gt;
+&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;33&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;34&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;35&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;36&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;37&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;38&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;39&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;40&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;41&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;42&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;43&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;44&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;45&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;function Prompt &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    try &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        $history = Get-History -ErrorAction Ignore -Count 1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        if ($history) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            Write-Host &amp;quot;[&amp;quot; -NoNewline&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            $ts = New-TimeSpan $history.StartExecutionTime $history.EndExecutionTime&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            switch ($ts) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                &amp;#123;$_.TotalSeconds -lt 1&amp;#125; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                    [int]$d = $_.TotalMilliseconds&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                    &amp;#x27;&amp;#123;0&amp;#125;ms&amp;#x27; -f ($d) | Write-Host -ForegroundColor Black -NoNewline -BackgroundColor DarkGreen&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                    break&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                &amp;#123;$_.totalminutes -lt 1&amp;#125; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                    [int]$d = $_.TotalSeconds&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                    &amp;#x27;&amp;#123;0&amp;#125;s&amp;#x27; -f ($d) | Write-Host -ForegroundColor Black -NoNewline -BackgroundColor DarkYellow&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                    break&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                &amp;#123;$_.totalminutes -ge 1&amp;#125; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                    &amp;quot;&amp;#123;0:HH:mm:ss&amp;#125;&amp;quot; -f ([datetime]$ts.Ticks) | Write-Host -ForegroundColor Gray -NoNewline  -BackgroundColor Red&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                    break&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            Write-Host &amp;quot;] &amp;quot; -NoNewline&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        if(Get-Module Posh-git) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            Write-VcsStatus&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            Write-Host &amp;quot; &amp;quot; -NoNewline&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    catch &amp;#123; &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    # New line&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    Write-Host &amp;quot;&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    # show the drive and then last 2 directories of current path&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    if (($pwd.Path.Split(&amp;#x27;\&amp;#x27;).count -gt 3))&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        write-host &amp;quot;$($pwd.path.split(&amp;#x27;\&amp;#x27;)[0], &amp;#x27;...&amp;#x27;, $pwd.path.split(&amp;#x27;\&amp;#x27;)[-2], $pwd.path.split(&amp;#x27;\&amp;#x27;)[-1] -join (&amp;#x27;\&amp;#x27;))&amp;quot; -NoNewline&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    else&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        Write-Host &amp;quot;$($pwd.path)&amp;quot; -NoNewline&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &amp;quot;&amp;gt; &amp;quot;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Import-Module posh-git&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;참-잘했어요&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#참-잘했어요&#34;&gt;&lt;/a&gt; 참 잘했어요&lt;/h2&gt;
+&lt;p&gt;이렇게 설정을 하고 &lt;code&gt;VS Code&lt;/code&gt; 에서 default shell 을 PowerShell로 바꾸어 주었다.&lt;/p&gt;
+&lt;p&gt;그리고, &lt;code&gt;Windows Terminal&lt;/code&gt; 역시 &lt;code&gt;defaultProfile&lt;/code&gt;(실행시 처음 열리는 shell)을 PowerShell 로 바꾸어 주었다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;끝 -&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

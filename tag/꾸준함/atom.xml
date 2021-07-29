@@ -1,0 +1,216 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://deepbaksu.github.io</id>
+    <title>딥백수 • Posts by &#34;꾸준함&#34; tag</title>
+    <link href="https://deepbaksu.github.io" />
+    <updated>2020-09-14T09:45:06.000Z</updated>
+    <category term="Mo Kweon" />
+    <category term="go" />
+    <category term="golang" />
+    <category term="dependency injection" />
+    <category term="wire" />
+    <category term="uber-go" />
+    <category term="fx" />
+    <category term="Hyunggi Chang" />
+    <category term="AI" />
+    <category term="딥러닝" />
+    <category term="로보틱스" />
+    <category term="YouTube" />
+    <category term="News" />
+    <category term="Hyunseok Jeong" />
+    <category term="Software Architecture" />
+    <category term="Agile" />
+    <category term="Architect" />
+    <category term="Jinyoung Song" />
+    <category term="데이터분석" />
+    <category term="통계분석" />
+    <category term="통계학" />
+    <category term="통계역사" />
+    <category term="비트코인" />
+    <category term="제국주의" />
+    <category term="미래전망" />
+    <category term="플랫폼전략" />
+    <category term="디지털자산" />
+    <category term="microservice" />
+    <category term="CQRS" />
+    <category term="architecture" />
+    <category term="software engineering" />
+    <category term="선지원" />
+    <category term="후고민" />
+    <category term="선지원 후고민" />
+    <category term="실험" />
+    <category term="Apply Driven Study" />
+    <category term="생존" />
+    <category term="멘토링" />
+    <category term="용기" />
+    <category term="free web server" />
+    <category term="heroku" />
+    <category term="aws" />
+    <category term="gcp" />
+    <category term="netlify" />
+    <category term="github actions" />
+    <category term="구글애널리틱스" />
+    <category term="GA" />
+    <category term="Google Analytics" />
+    <category term="Data Analysis" />
+    <category term="Web Log Analysis" />
+    <category term="Happy working" />
+    <category term="Mindfulness" />
+    <category term="Noble Eightfold Path" />
+    <category term="gRPC" />
+    <category term="Go" />
+    <category term="REST" />
+    <category term="존버" />
+    <category term="jonber" />
+    <category term="딥백수" />
+    <category term="회고" />
+    <category term="bluehole" />
+    <category term="krafton" />
+    <category term="communication" />
+    <category term="GitHub CLI" />
+    <category term="Gist" />
+    <category term="Leaning by Doing" />
+    <category term="Repo" />
+    <category term="Alias" />
+    <category term="습관" />
+    <category term="중용" />
+    <category term="꾸준함" />
+    <category term="성실" />
+    <category term="대화" />
+    <category term="비폭력대화" />
+    <category term="Golang" />
+    <category term="Slice" />
+    <category term="example" />
+    <category term="Windows" />
+    <category term="PowerShell" />
+    <category term="PowerShell script" />
+    <category term="Git" />
+    <category term="Prompt" />
+    <category term="Martin Fowler" />
+    <category term="Refactoring" />
+    <category term="Principles" />
+    <category term="파이썬" />
+    <category term="실무" />
+    <category term="데이터분석 실무" />
+    <category term="네트워크 분석" />
+    <category term="최적화" />
+    <category term="시뮬레이션" />
+    <category term="자연어처리" />
+    <category term="회귀" />
+    <category term="예측 분석" />
+    <category term="semantic release" />
+    <category term="semantic version" />
+    <category term="slack" />
+    <category term="bot" />
+    <category term="oauth" />
+    <category term="Github Action" />
+    <category term="Slack" />
+    <category term="Automation" />
+    <category term="자동화" />
+    <category term="cron" />
+    <category term="Seunghwan Chang" />
+    <category term="English" />
+    <category term="would" />
+    <category term="ppt" />
+    <category term="발표" />
+    <category term="consulting" />
+    <category term="보고서" />
+    <category term="파워포인트" />
+    <category term="PT고자" />
+    <category term="ppt고자" />
+    <category term="ppt공포" />
+    <category term="슬라이드" />
+    <category term="Martin Hwang" />
+    <category term="Ray" />
+    <category term="distributed computing" />
+    <category term="parallel computing" />
+    <entry>
+        <id>https://deepbaksu.github.io/2020/09/14/make-your-routine/</id>
+        <title>애기 아빠 개발자의 생활 루틴</title>
+        <link rel="alternate" href="https://deepbaksu.github.io/2020/09/14/make-your-routine/"/>
+        <content type="html">&lt;p&gt;&lt;img src=&#34;/2020/09/14/make-your-routine/my-life-journal-WI30grRfBnE-unsplash.jpg&#34; alt=&#34;Photo by My Life Journal on Unsplash&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;얼마전 어느 개발자 분이 자신의 생활 루틴을 꾸려나가는 방법론에 관해 소개하시는 멋진 글을 읽었습니다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.shiren.dev/2020-09-07&#34;&gt;하루 25분 실행하기: 하루를 대하는 14년차 개발자의 자세&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;꾸준히 자신에 맞는 방법을 고민하고, 또 실천하시는 모습이 존경스러웠습니다.&lt;br /&gt;
+이를 읽고 넘기기만 할 것이 아니라 나의 루틴을 돌아보고 정리 해보는 시간, 나아가 개선점과 배울 점들을 적용해보는 시간을 가져보자는 욕심이 났습니다.&lt;/p&gt;
+&lt;h2 id=&#34;공감한-부분&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#공감한-부분&#34;&gt;&lt;/a&gt; 공감한 부분&lt;/h2&gt;
+&lt;p&gt;읽으며 공감이 갔던 부분은 다음과 같습니다.&lt;/p&gt;
+&lt;h3 id=&#34;가장-중요한-것은-꾸준히-하는-것이다&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#가장-중요한-것은-꾸준히-하는-것이다&#34;&gt;&lt;/a&gt; 가장 중요한 것은 꾸준히 하는 것이다&lt;/h3&gt;
+&lt;p&gt;중국 고전인 &lt;code&gt;중용&lt;/code&gt; 은 성실함에 대한 이야기입니다. 학교의 옛 급훈처럼 느껴지는 고리타분해 보이는 &lt;code&gt;성실&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;뜨겁게 몰입하는 것도 좋지만, 지치지 않고 꾸준히 하는 것이 더욱 어려우면서도 중요합니다.&lt;br /&gt;
+혼자 공부해도 되는데 애써 학원을 끊거나 스터디에 참여하는 이유중의 하나는 바로 간접적인 제약을 통해 &lt;code&gt;꾸준&lt;/code&gt;하게 하기 위함입니다.&lt;/p&gt;
+&lt;h3 id=&#34;정답은-없다&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#정답은-없다&#34;&gt;&lt;/a&gt; 정답은 없다&lt;/h3&gt;
+&lt;p&gt;링크글의 개발자분도 장/단기 목표를 세워보거나 뽀모도로, GTD, 간트차트 등등의 다양한 시행착오를 거쳤다는 이야기를 하십니다. 이 분도 이렇게 자리잡은 방법, 습관을 바꾸지 않고 똑.같.이. 반복하지는 않으실 겁니다.&lt;/p&gt;
+&lt;p&gt;노자의 도덕경에 &lt;code&gt;도가도 비상도&lt;/code&gt; 라는 말이 나옵니다. 도라는 것이 고정되어 버리면 더 이상 도가 아니라고 합니다.&lt;br /&gt;
+현재, 바로 이 순간에 가장 적합한 정답에 다가서려 끊임없이 노력하는 것입니다. 오늘 찾은 최고의 방법이 내일도, 다음 주에도 최선이라고 할 수 없습니다. 토요다의 칸반 시스템도 끊임없이 변화하는 것이라는 이야기가 있습니다. 어느 한 순간의 모습만을 베껴서는 결코 똑같은 성과를 이룰 수 없다는 것이지요.&lt;/p&gt;
+&lt;p&gt;끊임없이 새로운 것을 받아들이고, 이를 수용하고, 배제하고, 개선시켜 나가야 합니다.&lt;/p&gt;
+&lt;h2 id=&#34;배운-부분-적용해보고픈-부분&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#배운-부분-적용해보고픈-부분&#34;&gt;&lt;/a&gt; 배운 부분 / 적용해보고픈 부분&lt;/h2&gt;
+&lt;p&gt;이 분의 주간 계획을 가져와 봅니다.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;주 4회 이상 운동을 한다.(1회 40분 이상)&lt;br /&gt;
+주 5회 이상 책을 읽는다.(1회 25분 이상)&lt;br /&gt;
+주 5회 이상 명상을 한다.(1회 20분 이상)&lt;br /&gt;
+주 3회 이상 글쓰기를 한다. (1회 25분 이상)&lt;br /&gt;
+주 4회 이상 개발을 한다. (1회 25분 이상)&lt;br /&gt;
+주 2회 이상 음악을 한다. (1회 25분 이상)&lt;br /&gt;
+주 2회 이상 피아노 연습을 한다. (1회 30분 이상)&lt;br /&gt;
+하루 한 시간 이상 집중해서 라임이(딸)와 놀아준다(이게 제일 힘들다)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;항목을 나누고, 이를 정량적으로 표시하여 주간 계획을 세우는 부분이 인상적이었습니다. 마치 구글의 OKR 에서 KR(Key Result)처럼 정량적으로 측정을 합니다.&lt;/p&gt;
+&lt;p&gt;하루에 2회 분량을 하더라도 1회로 계산합니다. 얼마나 많이 해내었는지가 아니라 얼마나 &lt;code&gt;꾸준&lt;/code&gt;히 했는지를 보겠다는 것입니다. 꾸준히 해나가기를 독려하려는 장치로 보였습니다.&lt;/p&gt;
+&lt;p&gt;25분의 마법. 이미 뽀모도로, 구글 타이머를 이용하고 있습니다만 이 분이 강조한 25분의 마법이 인상적이었습니다. &lt;code&gt;25분만 하자!&lt;/code&gt; 는 동기부여, &lt;code&gt;25분만 투자하니깐 집중하자!&lt;/code&gt; 는 집중력 강화, &lt;code&gt;25분을 실행하자!&lt;/code&gt; 는 실천력 강화. 계획이나 준비에 과하게 투자하지 않고 바로 뛰어들게 합니다.&lt;/p&gt;
+&lt;h2 id=&#34;스냅샷-현재의-나의-루틴&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#스냅샷-현재의-나의-루틴&#34;&gt;&lt;/a&gt; 스냅샷, 현재의 나의 루틴&lt;/h2&gt;
+&lt;p&gt;제가 실천하고 있는 일정관리의 현재 시점의 스냅샷을 적어봅니다.&lt;br /&gt;
+그리고, 여기에 더해 개선할 점을 적어보려 합니다.&lt;/p&gt;
+&lt;h3 id=&#34;월간-주간-루틴&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#월간-주간-루틴&#34;&gt;&lt;/a&gt; 월간, 주간 루틴&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;매 주, 매 월 &lt;code&gt;실제&lt;/code&gt; 한 일과 &lt;code&gt;회고&lt;/code&gt; 그리고 다음 &lt;code&gt;계획&lt;/code&gt;을 잡습니다.&lt;/li&gt;
+&lt;li&gt;잘한 점(Good)과 못한 점(Bad)을 적고, 지난 개선 목표를 회고하며, 개선할 부분과 그 실천방안을 고민해 봅니다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;주중-루틴&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#주중-루틴&#34;&gt;&lt;/a&gt; 주중 루틴&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;아침 루틴
+&lt;ul&gt;
+&lt;li&gt;기상 후 명상 10분, 스트레칭 10분&lt;/li&gt;
+&lt;li&gt;출근길 영화, 유튜브, 독서&lt;/li&gt;
+&lt;li&gt;출근 전 회사앞 카페 독서&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;회사 저녁
+&lt;ul&gt;
+&lt;li&gt;주 3회 정도 업무외 1-2시간 정도, 퇴근 전 업무외 시간을 할당해둡니다.&lt;/li&gt;
+&lt;li&gt;개발 관련 블로그, 유튜브 등을 보며 정리하고 실습합니다.&lt;/li&gt;
+&lt;li&gt;개인적 공부도 합니다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;운동
+&lt;ul&gt;
+&lt;li&gt;애기 아빠로서 별도로 운동시간을 잡기가 힘듭니다.&lt;/li&gt;
+&lt;li&gt;아침 기상후 스트레칭은 빼먹지 않으려 합니다.&lt;/li&gt;
+&lt;li&gt;출, 퇴근길에 걷는 코스를 두고, 회사 업무 짬짬이 숨돌릴때는 빌딩 계단을 40층 오릅니다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;퇴근 후 집
+&lt;ul&gt;
+&lt;li&gt;주 2회 이상은 아이들이 자기전에 집에 와서 아이들 얼굴도 보고 몸으로 놀아줍니다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;주말-루틴&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#주말-루틴&#34;&gt;&lt;/a&gt; 주말 루틴&lt;/h3&gt;
+&lt;p&gt;주말은 온전히 가족에 투자를 합니다. 주중에는 긴 출퇴근 시간으로 많이 보지 못하는 부분을 보충합니다. 주중의 생활과 거리를 두는 효과도 있습니다.&lt;/p&gt;
+&lt;p&gt;가끔은 아이들에게 보여주려는 목적으로 30분 정도 독서를 하기도 합니다.&lt;/p&gt;
+&lt;h2 id=&#34;링크글을-읽고-적용해보려는-부분&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#링크글을-읽고-적용해보려는-부분&#34;&gt;&lt;/a&gt; 링크글을 읽고 적용해보려는 부분&lt;/h2&gt;
+&lt;p&gt;독서, 영화, 블로그, 개발공부, 육아, 운동 등등을 카테고리화 하고 매 주 계획과 그 실천을 &lt;code&gt;정량적으로 측정&lt;/code&gt; 해보려 합니다. 측정도구로 좋은게 뭐가 있을까 고민이 되네요.&lt;/p&gt;
+&lt;h2 id=&#34;끝내며&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#끝내며&#34;&gt;&lt;/a&gt; 끝내며&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;중용&lt;/code&gt; 이라는 고전을 참 좋아합니다. 꾸준함만큼 아름다운 것이 없으나 공자님마저도 어렵다 하신게 꾸준함입니다.&lt;br /&gt;
+이러한 꾸준함은 의지만으로 이룰 수는 없습니다. 꾸준함을 도와주는, 오늘의 나에게 맞는 최적의 방법을 끊임없이 찾아나가야 하겠습니다.&lt;/p&gt;
+</content>
+        <category term="Hyunseok Jeong" />
+        <category term="습관" />
+        <category term="중용" />
+        <category term="꾸준함" />
+        <category term="성실" />
+        <updated>2020-09-14T09:45:06.000Z</updated>
+    </entry>
+</feed>

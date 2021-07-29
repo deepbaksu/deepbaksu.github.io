@@ -1,0 +1,222 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>딥백수 • Posts by &#34;자동화&#34; tag</title>
+        <link>https://deepbaksu.github.io</link>
+        <description>우리는 &#39;지속가능한 백수질&#39;을 지향합니다. 고로 외롭게 공부하고 있을 당신을 응원합니다. 딥러닝에 관련된 글 뿐만 아니라, 백수생활의 넋두리도 환영합니다.</description>
+        <language>ko</language>
+        <pubDate>Fri, 18 Sep 2020 14:54:37 +0000</pubDate>
+        <lastBuildDate>Fri, 18 Sep 2020 14:54:37 +0000</lastBuildDate>
+        <category>Mo Kweon</category>
+        <category>go</category>
+        <category>golang</category>
+        <category>dependency injection</category>
+        <category>wire</category>
+        <category>uber-go</category>
+        <category>fx</category>
+        <category>Hyunggi Chang</category>
+        <category>AI</category>
+        <category>딥러닝</category>
+        <category>로보틱스</category>
+        <category>YouTube</category>
+        <category>News</category>
+        <category>Hyunseok Jeong</category>
+        <category>Software Architecture</category>
+        <category>Agile</category>
+        <category>Architect</category>
+        <category>Jinyoung Song</category>
+        <category>데이터분석</category>
+        <category>통계분석</category>
+        <category>통계학</category>
+        <category>통계역사</category>
+        <category>비트코인</category>
+        <category>제국주의</category>
+        <category>미래전망</category>
+        <category>플랫폼전략</category>
+        <category>디지털자산</category>
+        <category>microservice</category>
+        <category>CQRS</category>
+        <category>architecture</category>
+        <category>software engineering</category>
+        <category>선지원</category>
+        <category>후고민</category>
+        <category>선지원 후고민</category>
+        <category>실험</category>
+        <category>Apply Driven Study</category>
+        <category>생존</category>
+        <category>멘토링</category>
+        <category>용기</category>
+        <category>free web server</category>
+        <category>heroku</category>
+        <category>aws</category>
+        <category>gcp</category>
+        <category>netlify</category>
+        <category>github actions</category>
+        <category>구글애널리틱스</category>
+        <category>GA</category>
+        <category>Google Analytics</category>
+        <category>Data Analysis</category>
+        <category>Web Log Analysis</category>
+        <category>Happy working</category>
+        <category>Mindfulness</category>
+        <category>Noble Eightfold Path</category>
+        <category>gRPC</category>
+        <category>Go</category>
+        <category>REST</category>
+        <category>존버</category>
+        <category>jonber</category>
+        <category>딥백수</category>
+        <category>회고</category>
+        <category>bluehole</category>
+        <category>krafton</category>
+        <category>communication</category>
+        <category>GitHub CLI</category>
+        <category>Gist</category>
+        <category>Leaning by Doing</category>
+        <category>Repo</category>
+        <category>Alias</category>
+        <category>습관</category>
+        <category>중용</category>
+        <category>꾸준함</category>
+        <category>성실</category>
+        <category>대화</category>
+        <category>비폭력대화</category>
+        <category>Golang</category>
+        <category>Slice</category>
+        <category>example</category>
+        <category>Windows</category>
+        <category>PowerShell</category>
+        <category>PowerShell script</category>
+        <category>Git</category>
+        <category>Prompt</category>
+        <category>Martin Fowler</category>
+        <category>Refactoring</category>
+        <category>Principles</category>
+        <category>파이썬</category>
+        <category>실무</category>
+        <category>데이터분석 실무</category>
+        <category>네트워크 분석</category>
+        <category>최적화</category>
+        <category>시뮬레이션</category>
+        <category>자연어처리</category>
+        <category>회귀</category>
+        <category>예측 분석</category>
+        <category>semantic release</category>
+        <category>semantic version</category>
+        <category>slack</category>
+        <category>bot</category>
+        <category>oauth</category>
+        <category>Github Action</category>
+        <category>Slack</category>
+        <category>Automation</category>
+        <category>자동화</category>
+        <category>cron</category>
+        <category>Seunghwan Chang</category>
+        <category>English</category>
+        <category>would</category>
+        <category>ppt</category>
+        <category>발표</category>
+        <category>consulting</category>
+        <category>보고서</category>
+        <category>파워포인트</category>
+        <category>PT고자</category>
+        <category>ppt고자</category>
+        <category>ppt공포</category>
+        <category>슬라이드</category>
+        <category>Martin Hwang</category>
+        <category>Ray</category>
+        <category>distributed computing</category>
+        <category>parallel computing</category>
+        <item>
+            <guid isPermalink="true">https://deepbaksu.github.io/2020/09/18/slack-github-action-automation/</guid>
+            <title>GitHub Action을 이용한 알림 자동화</title>
+            <link>https://deepbaksu.github.io/2020/09/18/slack-github-action-automation/</link>
+            <category>Jinyoung Song</category>
+            <category>Github Action</category>
+            <category>Slack</category>
+            <category>Automation</category>
+            <category>자동화</category>
+            <category>cron</category>
+            <pubDate>Fri, 18 Sep 2020 14:54:37 +0000</pubDate>
+            <description><![CDATA[ &lt;h2 id=&#34;1-why-did-i-do-this&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#1-why-did-i-do-this&#34;&gt;&lt;/a&gt; 1. Why did I do this?&lt;/h2&gt;
+&lt;p&gt;간단합니다. 회사 슬랙에 과제 알림을 자동화시키고 싶었기 때문입니다. 어떻게 해야 하는지 알기 위해 시중에 나온 자동화 관련 책들을 펼쳤습니다. 크롤러 만드는 방법과 crontab에 대해서 설명을 잘해주었지만 문제가 있었죠. 제가 따로 쓸 만한 서버가 없었습니다. 기본적으로 자동화는 24시간 돌아가는 서버를 통해서 진행하는 경우가 많습니다. 그렇다고 간단한 알림을 가지고 클라우드로 돌리긴 좀 손이 가질 않았습니다. 즉, 돈을 들이지 않고 자동화를 시키고 싶었습니다.&lt;/p&gt;
+&lt;p&gt;그러던 중 어떤 생각 하나가 떠올랐습니다.&lt;/p&gt;
+&lt;p&gt;지금 제가 이 글을 쓰고 있는 딥백수 블로그는 Branch를 나누고 GitHub Action을 format check이라든지 테스트를 자동화하는데, GitHub Action을 통해서 제가 가진 문제를 해결할 수 있을 거라고 생각했습니다.&lt;/p&gt;
+&lt;p&gt;다행히 GitHub Action에 익숙한 Mo Kweon님이 계시기에 페어 프로그래밍을 하면서 하나하나 가르쳐주셨습니다. 다른 분께 배운 지식이기에 당연히 나눠야 한다고 생각했고 이 글을 쓰며 혹시 비슷한 고민을 하시는 분께 매뉴얼이 되었으면 합니다.&lt;/p&gt;
+&lt;h2 id=&#34;2-make-a-crawler&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#2-make-a-crawler&#34;&gt;&lt;/a&gt; 2. Make a Crawler&lt;/h2&gt;
+&lt;p&gt;크롤러는 만드셨다고 가정하겠습니다.&lt;/p&gt;
+&lt;h2 id=&#34;3-make-a-slack-channel&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#3-make-a-slack-channel&#34;&gt;&lt;/a&gt; 3. Make a Slack Channel&lt;/h2&gt;
+&lt;p&gt;알림을 받을 슬랙 채널을 만들어줍니다. 테스트해야 하는 채널이기 때문에 다른 슬랙 멤버들이 메시지 수신을 하지 않도록 혼자만의 채널에서 테스트하시는 걸 권합니다. 저는 alert라는 채널을 만들었습니다.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/09/18/slack-github-action-automation/create_slack_channel.jpg&#34; alt=&#34;슬랙 채널 생성&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;4-make-a-slack-app&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#4-make-a-slack-app&#34;&gt;&lt;/a&gt; 4. Make a Slack App&lt;/h2&gt;
+&lt;p&gt;이제 슬랙 알림을 위한 설정을 들어가야 합니다. 아래 사진처럼 하늘색 동그라미를 쳐놓은 버튼을 클릭해주세요.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/09/18/slack-github-action-automation/slack_setting.jpg&#34; alt=&#34;Slack Setting&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;들어가 보면 다음과 같은 페이지에 접속되실 겁니다. 하늘색 동그라미를 쳐놓은 검색창에 webhook이라고 입력해준 뒤 검색해주세요.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/09/18/slack-github-action-automation/slack_app_directory.jpg&#34; alt=&#34;Slack App directory&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;그러면 다음과 같이 결과 창이 뜰 텐데 하늘색 동그라미를 쳐놓은 Incoming Webhooks를 클릭해주세요.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/09/18/slack-github-action-automation/result_search_webhooks.jpg&#34; alt=&#34;Result Searching webhooks&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;그럼 다음과 같이 Webhooks에 대한 소개를 보실 수 있습니다. JSON을 사용해서 POST 하는군요.(크롤러에서 JSON으로 데이터를 보내줘야 한다는 의미입니다) 당연히 Add 해줘야겠죠?&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/09/18/slack-github-action-automation/incoming_webhooks.jpg&#34; alt=&#34;Incoming Webhooks&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;어떤 채널에 메시지를 보낼지 설정을 해줘야 합니다. 이전에 만들었던 채널을 설정해준 뒤 Add 해줍니다.&lt;/p&gt;
+&lt;h2 id=&#34;5-configure-webhooks&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#5-configure-webhooks&#34;&gt;&lt;/a&gt; 5. Configure Webhooks&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/09/18/slack-github-action-automation/webhooks_configuration.jpg&#34; alt=&#34;Webhooks Configuration&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;그러면 다음과 같이 Setup Instructions 화면이 출력되는데 여기에 가장 중요한 Webhook URL이 있습니다. 이 URL에 JSON 데이터를 보내면 우리가 원하는 대로 메시지가 슬랙 채널에 전송된다는 의미입니다.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/09/18/slack-github-action-automation/webhooks_setup_instructions.jpg&#34; alt=&#34;Webhooks Setup Instructions&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;당연히 이 Webhook URL이 다른 사람에게 알려지면 안 되겠죠?&lt;/p&gt;
+&lt;p&gt;화면을 아래로 쭉 내려보면 Example이라고 해서 어떻게 데이터가 Posting 되는지 시험해볼 수 있는 API가 있습니다.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/09/18/slack-github-action-automation/webhooks_example.jpg&#34; alt=&#34;Webhooks Example&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;한번 시험해볼까요? 해당 코드를 복사한 뒤 터미널 창에 붙여넣기 해보겠습니다. 다음과 같이 채널에 메시지가 잘 전달된 걸 보실 수 있을 겁니다.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/09/18/slack-github-action-automation/webhooks_example_result.jpg&#34; alt=&#34;Webhooks Example API Result&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;6-edit-the-crawler&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#6-edit-the-crawler&#34;&gt;&lt;/a&gt; 6. Edit the Crawler&lt;/h2&gt;
+&lt;p&gt;Webhooks설정까지 마쳤으니 본격적으로 GitHub Action으로 들어가 보겠습니다. 그 전에 크롤러에 다음과 같은 코드를 추가해주세요.&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;url = os.environ.get(&lt;span class=&#34;string&#34;&gt;&amp;#x27;SLACK_URL&amp;#x27;&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;slack_post_text&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;url, text&lt;/span&gt;):&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    result = requests.post(url, json = &amp;#123;&lt;span class=&#34;string&#34;&gt;&amp;quot;text&amp;quot;&lt;/span&gt;: text&amp;#125;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; result&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;Webhooks를 설정하면서 Webhooks URL은 다른 사람에게 보여선 안 된다고 했습니다. 그렇기 때문에 우리는 이 URL을 SLACK_URL이란 환경변수로 지정해서 다른 사람에겐 보이지 않되 코드에선 변수를 가져와 사용할 수 있도록 만들어줄 겁니다.&lt;/p&gt;
+&lt;p&gt;그리고 &lt;code&gt;slack_post_text&lt;/code&gt; 라는 함수를 통해 슬랙에 보내고자 하는 메시지를 JSON으로 URL에 전달해줍니다.&lt;/p&gt;
+&lt;h2 id=&#34;7-configure-github-repository-settings&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#7-configure-github-repository-settings&#34;&gt;&lt;/a&gt; 7. Configure GitHub Repository Settings&lt;/h2&gt;
+&lt;p&gt;GitHub 저장소 하나를 만들어준 뒤, 크롤러를 저장소에 push 해주세요. 그리고 우리가 그토록 기다리던 &lt;strong&gt;GitHub Action&lt;/strong&gt;을 진행하기 위해 저장소 메뉴 중 Pull requests 오른쪽에 있는 Action을 클릭해주세요.&lt;/p&gt;
+&lt;p&gt;라고 하고 싶지만, 우리에겐 조금 더할 일이 남아있습니다. 환경변수를 지정해줘야 한다고 했던 거 기억하시나요?&lt;/p&gt;
+&lt;p&gt;맞습니다. 그 환경변수를 지정해보도록 하겠습니다.&lt;/p&gt;
+&lt;p&gt;Settings에 들어가 주시고 아래 하늘색 표시해놓은 것처럼 Secrets를 클릭해주세요.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/09/18/slack-github-action-automation/github_settings.jpg&#34; alt=&#34;GitHub Settings&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;왠지 뭘 해야 할지 감 오시죠? 맞습니다. New secret 버튼을 눌러주세요.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/09/18/slack-github-action-automation/github_secrets.jpg&#34; alt=&#34;GitHub Secrets&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Name엔 전에 말씀드렸던 SLACK_URL을 입력해주시고, Value에 Webhooks URL을 입력해주신 다음 추가해주세요.&lt;br /&gt;
+&lt;img src=&#34;/2020/09/18/slack-github-action-automation/add_secret.jpg&#34; alt=&#34;Add Secrets&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;8-make-a-github-action&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#8-make-a-github-action&#34;&gt;&lt;/a&gt; 8. Make a GitHub Action&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;드디어&lt;/strong&gt; 정말 우리가 기다리고 기다리던 GitHub Action을 할 시간입니다.&lt;/p&gt;
+&lt;p&gt;GitHub Action에 관한 글인데 뭐가 이렇게 많냐고요? 뭐 어쩔 수 없습니다.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/09/18/slack-github-action-automation/experience_kim.jpg&#34; alt=&#34;좋은 경험이다 생각하고... 흠흠... - 출처 YTN&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;데이터 분석을 배울 때 거의 귀가 닳도록 듣는 말이 전처리에 전체 프로젝트 중 80%의 시간을 쏟는다는 얘기인데, Github Action도 마찬가지인 듯 합니다. 환경설정을 해줘야 할 게 많이 있어서 시간이 오래 걸렸습니다.&lt;/p&gt;
+&lt;p&gt;각설하고, 여기서는 크롤러를 python으로 만들었다고 가정하겠습니다.&lt;/p&gt;
+&lt;p&gt;하늘색 표시를 해놓은 Python application에서 Set up this workflow를 클릭해주세요.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/09/18/slack-github-action-automation/github_action_python_application.jpg&#34; alt=&#34;Select Workflow&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;workflow 내용을 다음과 같이 바꿔주세요.&lt;/p&gt;
+&lt;figure class=&#34;highlight yaml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;name:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;Python&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;application&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;on:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;schedule:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;cron:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;5 0 * * *&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;workflow_dispatch:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;inputs:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;attr&#34;&gt;logLevel:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;description:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;Log level&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;required:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;default:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;warning&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;attr&#34;&gt;tags:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;description:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;Test scenario tags&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;jobs:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;build:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;runs-on:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;ubuntu-latest&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;steps:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;uses:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;actions/checkout@v2&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;name:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;Set&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;up&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;Python&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;3.8&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;uses:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;actions/setup-python@v2&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;with:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;          &lt;span class=&#34;attr&#34;&gt;python-version:&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;3.8&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;name:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;Install&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;dependencies&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;run:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;|&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;          python -m pip install --upgrade pip&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;          pip install bs4 requests&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;&lt;/span&gt;      &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;run:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;python&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;크롤러이름.py&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;env:&lt;/span&gt; &lt;span class=&#34;comment&#34;&gt;# Or as an environment variable&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;          &lt;span class=&#34;attr&#34;&gt;SLACK_URL:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;$&amp;#123;&amp;#123;&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;secrets.SLACK_URL&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;#125;&amp;#125;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;9-edit-workflow&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#9-edit-workflow&#34;&gt;&lt;/a&gt; 9. Edit workflow&lt;/h2&gt;
+&lt;p&gt;특히 들여쓰기에 유의해주세요. 파이선을 해보셨다면 아시겠지만, 들여쓰기 하나 때문에 빨간색 에러가 발생하곤 합니다. 위의 8번 챕터에서는 코드 설명 없이 우선 고치라고 말씀드렸는데 여기서 하나하나 설명해 드리도록 하겠습니다. 우선 &lt;strong&gt;on&lt;/strong&gt; 부분을 보겠습니다.&lt;/p&gt;
+&lt;figure class=&#34;highlight yaml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;on:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;schedule:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;cron:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;5 0 * * *&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;workflow_dispatch:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;inputs:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;attr&#34;&gt;logLevel:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;description:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;Log level&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;required:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;default:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;warning&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;attr&#34;&gt;tags:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;description:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;Test scenario tags&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;strong&gt;schedule&lt;/strong&gt; 밑에 있는 cron은 언제 해당 크롤러를 작동시킬지에 대한 내용입니다. 이에 대한 문법을 다 외우시는 것보다는 &lt;a href=&#34;https://crontab.guru/&#34;&gt;crontab.guru&lt;/a&gt;라는 사이트를 방문해서 원하시는 날짜 설정을 하시길 권해드리고 싶습니다. 주의할 사항은 설정되는 시간이 UTC(협정 시계시) 기준이라는 겁니다. 한국은 UTC+9를 설정해줘야 한다는 점을 유의해주세요.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;workflow_dispatch&lt;/strong&gt;부분은 해당 action이 작동하는지 작동하지 않는지 확인하기 위해 수동으로 GitHub Action을 작동시킬 수 있도록 해주는 코드입니다.&lt;/p&gt;
+&lt;p&gt;그럼 다음으로 &lt;strong&gt;jobs&lt;/strong&gt;를 보겠습니다.&lt;/p&gt;
+&lt;figure class=&#34;highlight yaml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;jobs:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;build:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;runs-on:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;ubuntu-latest&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;steps:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;uses:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;actions/checkout@v2&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;name:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;Set&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;up&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;Python&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;3.8&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;uses:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;actions/setup-python@v2&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;with:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;          &lt;span class=&#34;attr&#34;&gt;python-version:&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;3.8&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;name:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;Install&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;dependencies&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;run:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;|&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;          python -m pip install --upgrade pip&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;          pip install bs4 requests&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;&lt;/span&gt;      &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;run:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;python&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;크롤러이름.py&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;env:&lt;/span&gt; &lt;span class=&#34;comment&#34;&gt;# Or as an environment variable&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;          &lt;span class=&#34;attr&#34;&gt;SLACK_URL:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;$&amp;#123;&amp;#123;&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;secrets.SLACK_URL&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;#125;&amp;#125;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;대강 눈치채실 수도 있겠지만, runs-on을 보면 GitHub Action이 우분투 환경에서 작동한다는 것을 알 수 있습니다.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;- name: Install dependencies&lt;/strong&gt; 이 부분에선 익숙한 pip install이 등장합니다. 필요한 라이브러리가 있으시다면 추가해주세요.&lt;/p&gt;
+&lt;p&gt;마지막으로 &lt;strong&gt;run&lt;/strong&gt; 부분에 크롤러를 실행할 수 있도록 해주시고 &lt;strong&gt;env&lt;/strong&gt;에는 그토록 강조했던 SLACK_URL 환경변수를 입력해줍니다.&lt;/p&gt;
+&lt;p&gt;그렇게 한 뒤 화면 우상단에 있는 Start commit 버튼을 누르고 커밋해주세요.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/09/18/slack-github-action-automation/github_action_commit.jpg&#34; alt=&#34;GitHub Action Commit&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;10-test-github-action&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#10-test-github-action&#34;&gt;&lt;/a&gt; 10. Test GitHub Action&lt;/h2&gt;
+&lt;p&gt;이제 테스트를 한 번 해보겠습니다.&lt;/p&gt;
+&lt;p&gt;GitHub 저장소에서 Action 메뉴를 클릭해주세요. 그리고 하늘색 표시해 준 Python application을 클릭해주세요&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/09/18/slack-github-action-automation/workflow_test.jpg&#34; alt=&#34;workflow test&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;잘 작동하는지 아닌지 수동으로 확인해보겠습니다. Run workflow를 실행해주세요.&lt;/p&gt;
+&lt;p&gt;그럼 슬랙 채널에 다음과 같이 메시지가 도착했음을 보실 수 있을 겁니다.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2020/09/18/slack-github-action-automation/test_result.jpg&#34; alt=&#34;Test Results&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;여기까지 GitHub Action을 이용한 Slack 알림 자동화를 해보셨는데 어떠셨나요?&lt;/p&gt;
+&lt;p&gt;많이 어려우셨나요? 그렇죠? 맞아요. 저도 많이 어렵더라고요.&lt;/p&gt;
+&lt;p&gt;하지만 안되면 될 때까지, 계속해서 해보거나 &lt;a href=&#34;https://bit.ly/2Sqdnws&#34;&gt;딥백수 슬랙&lt;/a&gt;에 오셔서 질문해주시면 다른 구성원분들이 많이 도움을 주시지 않을까 생각을 합니다.&lt;/p&gt;
+&lt;p&gt;사실 이 글을 쓰는 저는 컴맹에 가까운 수준이라 많이 어렵더라고요. 하나하나 이해하는 데 시간이 얼마나 많이 걸리던지… 그렇게 헤매던 저를 인내심을 가지고 가르쳐주신 Mo Kweon님께 감사하다는 말을 마지막으로 남기고 싶습니다.&lt;/p&gt;
+&lt;p&gt;긴 글 읽어주셔서 고맙습니다.&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>
